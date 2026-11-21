@@ -1,0 +1,830 @@
+Booking_ID,Checkin_Date,Lead_Time_Days,Room_Type,Room_Rate,Nights,Booking_Channel,Traveler_Type,Canceled
+HB5918,2026-09-13,18.0,Deluxe,6958.56,3,Direct Website,Leisure,No
+HB5891,2026-04-18,18.0,Standard,5363.15,2,Corporate,Business,No
+HB2274,2026-04-10,18.0,Suite,12868.79,5,Corporate,Business,No
+HB3341,2026-03-22,43.0,Deluxe,7136.33,5,OTA,Leisure,No
+HB5041,2026-06-20,180.0,Standard,4269.01,8,OTA,Leisure,Yes
+HB3710,2025-11-16,180.0,Standard,4530.05,6,Travel Agent,Leisure,Yes
+HB5255,2025-03-21,67.0,Deluxe,7425.7,2,Travel Agent,Leisure,No
+HB3897,2025-03-29,4.0,Deluxe,7939.85,2,Corporate,Business,No
+HB8197,2026-05-29,43.0,Suite,12722.2,3,Travel Agent,Leisure,No
+HB3039,2026-05-05,31.0,Standard,5068.28,2,Direct Website,Business,Yes
+HB9340,2026-08-29,79.0,Deluxe,5177.43,2,OTA,Business,No
+HB7922,2026-05-09,60.0,Deluxe,8455.59,4,Direct Website,Leisure,No
+HB9398,2026-01-24,135.0,Deluxe,6949.88,1,Direct Website,Business,No
+HB5025,2025-12-20,125.0,Standard,4975.75,6,OTA,Leisure,No
+HB7333,2025-05-22,55.0,Standard,5054.23,4,Corporate,Business,No
+HB6317,2025-11-04,9.0,Suite,15720.09,2,OTA,Business,No
+HB3566,2025-10-26,18.0,Standard,6217.12,7,Direct Website,Leisure,No
+HB4394,2026-06-11,64.0,Standard,4296.82,1,Travel Agent,Business,No
+HB4192,2025-10-14,74.0,Standard,5181.83,8,OTA,Leisure,Yes
+HB9035,2025-10-11,73.0,Standard,5187.14,2,Travel Agent,Business,No
+HB7722,2025-11-26,20.0,Suite,14793.67,7,OTA,Leisure,No
+HB7473,2025-06-16,180.0,Deluxe,9963.55,3,OTA,Leisure,No
+HB6950,2025-11-07,167.0,Standard,4190.58,6,OTA,Leisure,No
+HB5539,2025-06-28,125.0,Standard,4680.22,6,Travel Agent,Leisure,No
+HB8506,2026-05-11,72.0,Suite,16577.81,5,Travel Agent,Leisure,No
+HB9864,2025-10-27,77.0,Deluxe,8969.24,5,OTA,Leisure,No
+HB4802,2025-07-28,30.0,Suite,10149.65,1,Corporate,Business,No
+HB3231,2025-05-17,93.0,Suite,12999.01,4,Travel Agent,Leisure,No
+HB2912,2026-02-01,180.0,Standard,4685.93,1,OTA,Business,Yes
+HB3547,2025-12-06,92.0,Suite,16173.56,4,OTA,Leisure,No
+HB3371,2026-02-28,25.0,Standard,4926.21,2,Direct Website,Business,No
+HB4242,2026-10-09,14.0,Standard,5762.27,2,Corporate,Business,No
+HB7703,2025-09-24,33.0,Standard,5161.03,3,Corporate,Business,No
+HB3635,2026-07-02,144.0,Deluxe,7157.11,4,Travel Agent,Business,No
+HB9552,2025-09-02,105.0,Suite,10962.41,5,OTA,Leisure,No
+HB7372,2026-10-14,134.0,Standard,13331.83,6,Direct Website,Leisure,No
+HB3792,2025-06-11,34.0,Suite,,1,Corporate,Business,No
+HB9920,2026-10-09,81.0,Deluxe,9642.84,3,Travel Agent,Leisure,No
+HB4723,2025-09-06,88.0,Suite,28559.94,3,Direct Website,Leisure,No
+HB6459,2025-06-04,90.0,Deluxe,6867.12,4,OTA,Leisure,Yes
+HB6250,2026-04-01,94.0,Suite,14458.46,3,Travel Agent,Leisure,No
+HB4958,2025-04-13,180.0,Standard,4626.84,2,Travel Agent,Business,Yes
+HB5904,2026-10-10,34.0,Suite,11173.93,6,Direct Website,Leisure,No
+HB7541,2025-05-20,131.0,Deluxe,6960.65,6,OTA,Business,Yes
+HB6009,2025-06-25,124.0,Standard,4538.23,1,OTA,Business,No
+HB8725,2026-04-21,165.0,Deluxe,7479.03,7,OTA,Leisure,Yes
+HB5454,2026-09-07,40.0,Deluxe,7299.49,2,Corporate,Business,No
+HB6916,2026-01-02,50.0,Suite,13528.08,1,Corporate,Business,No
+HB5003,2026-10-01,70.0,Suite,14018.74,2,OTA,Leisure,No
+HB9872,2025-09-10,16.0,Standard,4371.76,1,Corporate,Business,Yes
+HB8498,2025-12-30,20.0,Suite,14297.57,2,Direct Website,Business,No
+HB6609,2025-06-01,71.0,Standard,4132.37,6,Direct Website,Leisure,No
+HB8789,2025-07-05,180.0,Deluxe,5037.17,1,OTA,Leisure,No
+HB4551,2025-05-27,,Deluxe,9093.03,3,OTA,Leisure,No
+HB9102,2025-12-26,17.0,Deluxe,9442.81,3,Direct Website,Leisure,No
+HB2403,2026-10-24,84.0,Deluxe,6367.14,7,Direct Website,Leisure,No
+HB3850,2026-05-09,33.0,Standard,4458.27,4,Travel Agent,Leisure,No
+HB9497,2025-10-13,41.0,Deluxe,9004.93,4,Direct Website,Leisure,Yes
+HB6468,2026-06-01,180.0,Suite,14133.48,1,OTA,Business,No
+HB6581,2025-03-31,32.0,Deluxe,6954.08,3,Direct Website,Leisure,No
+HB6884,2025-11-06,49.0,Standard,3301.55,1,OTA,Business,No
+HB3789,2026-01-16,180.0,Deluxe,7494.13,1,OTA,Business,No
+HB9727,2025-07-21,165.0,Standard,4255.06,8,Travel Agent,Leisure,Yes
+HB5032,2025-10-16,128.0,Standard,4532.64,6,OTA,Leisure,No
+HB8171,2026-10-28,83.0,Deluxe,8211.28,6,OTA,Leisure,No
+HB5024,2026-04-04,16.0,Suite,11817.05,4,Direct Website,Leisure,No
+HB6933,2025-10-18,49.0,Suite,10930.14,6,OTA,Business,No
+HB7602,2025-09-25,81.0,Deluxe,7241.86,5,OTA,Leisure,Yes
+HB8490,2025-04-05,25.0,Standard,5254.46,3,Direct Website,Leisure,No
+HB2284,2026-02-22,117.0,Standard,,3,Direct Website,Leisure,No
+HB7713,2025-03-19,148.0,Deluxe,6100.06,2,OTA,Leisure,Yes
+HB3887,2025-06-23,46.0,Deluxe,7487.26,4,Travel Agent,Leisure,No
+HB6743,2026-10-21,42.0,Standard,5368.89,2,Corporate,Business,No
+HB7268,2025-04-18,167.0,Standard,5031.1,4,Travel Agent,Leisure,No
+HB3678,2025-06-16,33.0,Deluxe,8240.94,1,OTA,Leisure,No
+HB7373,2026-07-14,57.0,Standard,3404.73,5,OTA,Leisure,No
+HB5496,2026-10-12,34.0,Suite,16380.1,4,Direct Website,Business,No
+HB6285,2026-07-07,86.0,Suite,11607.52,3,Travel Agent,Leisure,No
+HB2050,2025-03-18,115.0,Deluxe,8461.71,4,OTA,Leisure,Yes
+HB9842,2025-12-14,65.0,Standard,5352.64,2,Direct Website,Leisure,No
+HB8364,2026-05-10,180.0,Deluxe,8698.15,2,Direct Website,Business,Yes
+HB6782,2026-10-28,84.0,Deluxe,9640.59,2,Travel Agent,Business,No
+HB9620,2026-02-21,16.0,Standard,3790.57,3,Corporate,Business,No
+HB3019,2026-09-16,67.0,Standard,4712.38,1,Travel Agent,Business,No
+HB9261,2026-05-17,41.0,Standard,5176.04,8,Direct Website,Leisure,No
+HB4459,2025-05-23,180.0,Standard,5551.8,2,Direct Website,Business,No
+HB4969,2025-12-13,29.0,Standard,6600.14,2,Direct Website,Business,No
+HB4912,2026-06-06,85.0,Standard,5927.19,2,OTA,Business,No
+HB6415,2025-06-07,148.0,Standard,4372.74,3,Travel Agent,Business,Yes
+HB2264,2025-04-05,39.0,Suite,14779.56,2,Corporate,Business,No
+HB7213,2025-10-21,127.0,Standard,,4,Travel Agent,Leisure,No
+HB9322,2026-03-30,31.0,Standard,5500.34,3,OTA,Business,No
+HB9988,2025-04-13,53.0,Deluxe,6371.05,2,Corporate,Business,No
+HB5124,2026-01-29,81.0,Deluxe,6871.33,7,Travel Agent,Leisure,Yes
+HB7354,2026-10-16,107.0,Standard,5151.68,2,OTA,Business,No
+HB7909,2026-01-06,97.0,Deluxe,6103.45,3,OTA,Business,Yes
+HB2236,2025-03-21,75.0,Standard,4303.01,3,OTA,Business,Yes
+HB9504,2026-04-18,50.0,Suite,12984.94,5,Direct Website,Leisure,No
+HB8436,2026-06-29,83.0,Deluxe,8068.87,2,OTA,Business,No
+HB3672,2025-12-20,,Standard,5316.3,2,Direct Website,Leisure,No
+HB5819,2026-02-20,21.0,Deluxe,6360.5,2,Corporate,Business,No
+HB2565,2025-09-20,,Standard,3921.42,4,Direct Website,Leisure,No
+HB2076,2025-03-09,108.0,Suite,13741.98,7,Direct Website,Leisure,No
+HB4025,2026-04-12,180.0,Deluxe,7958.3,9,OTA,Leisure,Yes
+HB9866,2025-07-03,101.0,Standard,4298.83,2,OTA,Leisure,No
+HB6717,2025-11-25,48.0,Suite,13496.69,3,Direct Website,Leisure,No
+HB2335,2025-06-19,66.0,Deluxe,10386.14,1,Travel Agent,Business,No
+HB9442,2026-06-13,97.0,Suite,12627.2,5,Direct Website,Business,No
+HB9862,2026-07-26,53.0,Deluxe,9364.6,1,Corporate,Business,No
+HB4381,2026-10-05,51.0,Suite,14718.64,3,OTA,Business,No
+HB2555,2026-01-04,37.0,Deluxe,7085.71,8,Corporate,Leisure,Yes
+HB5021,2025-03-29,98.0,Standard,4200.77,4,Travel Agent,Leisure,No
+HB8588,2025-05-08,22.0,Deluxe,16541.52,2,Direct Website,Leisure,No
+HB2891,2026-01-24,65.0,Standard,5330.47,8,OTA,Leisure,No
+HB2171,2025-04-21,51.0,Standard,4323.33,10,Direct Website,Leisure,No
+HB9393,2026-03-14,94.0,Deluxe,7557.27,5,OTA,Leisure,Yes
+HB7589,2026-07-29,33.0,Deluxe,7839.65,3,Direct Website,Business,No
+HB8750,2025-12-18,12.0,Deluxe,8250.52,2,Corporate,Business,No
+HB5236,2025-12-23,172.0,Standard,4867.1,4,Travel Agent,Leisure,No
+HB9815,2025-06-28,75.0,Deluxe,7863.71,1,Travel Agent,Business,No
+HB9240,2026-10-05,124.0,Standard,4525.26,6,Travel Agent,Leisure,No
+HB4137,2026-09-09,24.0,Standard,4908.07,9,OTA,Leisure,No
+HB9262,2025-05-13,125.0,Deluxe,6346.51,4,Direct Website,Leisure,No
+HB3597,2026-02-28,148.0,Suite,13885.95,5,OTA,Leisure,No
+HB8700,2026-06-07,143.0,Standard,5889.6,6,Direct Website,Leisure,No
+HB4938,2025-06-12,14.0,Suite,15641.51,5,Direct Website,Leisure,Yes
+HB7694,2026-07-08,31.0,Standard,3722.94,2,Travel Agent,Leisure,No
+HB3408,2025-10-31,84.0,Deluxe,7657.93,3,Direct Website,Leisure,Yes
+HB8642,2025-06-16,16.0,Suite,,7,Direct Website,Leisure,No
+HB4273,2026-10-10,122.0,Standard,5409.52,3,OTA,Business,No
+HB7031,2025-04-03,25.0,Deluxe,9088.63,1,Corporate,Business,No
+HB4169,2026-02-12,30.0,Deluxe,,3,OTA,Leisure,No
+HB8702,2025-07-19,124.0,Deluxe,,5,OTA,Leisure,No
+HB4800,2025-04-22,32.0,Standard,5290.03,7,Corporate,Business,No
+HB6944,2025-04-21,55.0,Deluxe,8623.59,7,Direct Website,Leisure,No
+HB4473,2025-04-04,159.0,Deluxe,7599.1,3,OTA,Leisure,No
+HB2996,2026-01-27,141.0,Standard,4658.55,6,OTA,Leisure,No
+HB2016,2025-06-09,13.0,Standard,5314.34,2,Corporate,Business,No
+HB6384,2025-10-13,60.0,Deluxe,7935.3,2,Direct Website,Business,No
+HB4439,2025-03-21,20.0,Suite,9904.18,1,Direct Website,Business,No
+HB5830,2026-04-05,51.0,Standard,4548.86,4,OTA,Leisure,No
+HB7387,2025-05-29,122.0,Suite,11602.49,6,OTA,Leisure,No
+HB6703,2025-05-01,76.0,Suite,13698.72,4,Direct Website,Leisure,No
+HB7112,2025-12-11,38.0,Standard,4905.34,7,Direct Website,Leisure,No
+HB5733,2025-09-13,83.0,Standard,4130.66,4,Travel Agent,Leisure,Yes
+HB4356,2025-06-14,6.0,Deluxe,7504.42,5,Corporate,Leisure,No
+HB4474,2026-10-15,6.0,Deluxe,7463.07,3,Corporate,Business,No
+HB5146,2025-04-01,111.0,Deluxe,7922.96,5,OTA,Leisure,No
+HB7656,2025-09-05,40.0,Suite,10270.13,7,Travel Agent,Leisure,No
+HB9904,2026-10-09,131.0,Standard,5367.6,2,OTA,Leisure,Yes
+HB7290,2026-02-15,,Standard,,7,OTA,Leisure,No
+HB9601,2025-03-29,11.0,Standard,5545.12,1,Direct Website,Business,No
+HB9256,2025-04-24,18.0,Standard,3354.51,6,OTA,Leisure,No
+HB5932,2025-03-14,29.0,Standard,4764.06,2,Direct Website,Leisure,No
+HB7814,2025-11-22,146.0,Suite,13124.55,3,Direct Website,Leisure,No
+HB4576,2026-04-07,31.0,Standard,5766.81,5,Corporate,Business,No
+HB7988,2026-01-07,112.0,Standard,4157.02,6,Direct Website,Leisure,No
+HB3555,2026-03-08,117.0,Standard,4465.07,5,Travel Agent,Leisure,No
+HB2249,2026-09-11,146.0,Deluxe,8914.25,2,Direct Website,Leisure,No
+HB7862,2025-08-05,105.0,Suite,14339.12,4,Travel Agent,Leisure,No
+HB2734,2026-06-23,48.0,Standard,5687.77,1,Corporate,Business,No
+HB9701,2026-02-21,62.0,Standard,4526.52,8,Direct Website,Leisure,No
+HB6581,2025-03-31,32.0,Deluxe,6954.08,3,Direct Website,Leisure,No
+HB7741,2026-10-28,36.0,Deluxe,8970.02,6,Corporate,Leisure,No
+HB7735,2025-05-13,,Suite,34495.39,4,OTA,Leisure,Yes
+HB2526,2026-04-16,10.0,Standard,5186.34,1,Corporate,Business,No
+HB5833,2026-01-31,60.0,Standard,5072.56,10,Direct Website,Leisure,No
+HB3007,2026-09-03,22.0,Standard,5038.93,10,Direct Website,Leisure,No
+HB5920,2026-03-01,53.0,Suite,14369.52,1,OTA,Business,No
+HB9277,2026-08-22,175.0,Standard,3823.36,4,Travel Agent,Leisure,No
+HB9281,2026-10-26,65.0,Standard,4861.05,3,Direct Website,Leisure,No
+HB2956,2026-01-22,168.0,Standard,5718.1,10,OTA,Leisure,Yes
+HB3167,2025-10-31,98.0,Standard,6487.29,2,OTA,Business,Yes
+HB9020,2025-11-24,28.0,Deluxe,7326.18,3,OTA,Business,No
+HB2620,2025-07-20,180.0,Suite,10904.27,3,Travel Agent,Leisure,No
+HB6214,2026-01-08,53.0,Deluxe,8658.12,4,Travel Agent,Leisure,Yes
+HB9363,2025-09-10,32.0,Standard,3896.6,4,Corporate,Business,No
+HB5214,2025-10-23,11.0,Deluxe,7723.91,3,Direct Website,Leisure,No
+HB7915,2025-11-24,22.0,Standard,5152.89,3,Corporate,Business,No
+HB4995,2025-05-10,20.0,Standard,4746.91,3,Corporate,Business,No
+HB7216,2026-06-16,34.0,Standard,5796.25,7,Travel Agent,Leisure,No
+HB7637,2026-07-22,71.0,Deluxe,8170.72,2,Corporate,Business,No
+HB2243,2025-12-26,30.0,Deluxe,9022.46,4,OTA,Leisure,No
+HB8520,2025-06-14,33.0,Standard,,9,Direct Website,Leisure,No
+HB8385,2026-10-04,94.0,Deluxe,8449.99,3,OTA,Leisure,No
+HB8231,2026-01-05,31.0,Standard,4555.52,1,Travel Agent,Leisure,No
+HB8117,2026-04-09,180.0,Deluxe,7713.59,1,OTA,Business,No
+HB5770,2025-04-05,26.0,Standard,5784.76,6,Corporate,Business,No
+HB7142,2026-05-11,43.0,Deluxe,7379.15,7,Direct Website,Leisure,No
+HB4606,2026-04-21,135.0,Standard,4790.21,4,OTA,Leisure,Yes
+HB8221,2026-10-15,126.0,Deluxe,9366.74,2,OTA,Business,Yes
+HB3880,2025-10-28,180.0,Standard,5891.27,2,OTA,Leisure,No
+HB5523,2025-10-15,73.0,Deluxe,8424.73,6,OTA,Leisure,Yes
+HB6508,2025-06-23,180.0,Standard,4663.87,1,OTA,Business,No
+HB5409,2025-03-26,70.0,Deluxe,,5,Direct Website,Leisure,No
+HB4104,2025-09-25,44.0,Deluxe,7392.85,7,Direct Website,Leisure,No
+HB2147,2025-06-15,20.0,Deluxe,7723.13,1,Corporate,Business,Yes
+HB6739,2025-10-03,16.0,Deluxe,9437.79,4,Direct Website,Leisure,No
+HB6070,2026-01-05,63.0,Deluxe,7591.99,1,Corporate,Business,No
+HB2657,2025-09-09,93.0,Standard,3031.54,1,Travel Agent,Business,No
+HB2022,2026-10-23,56.0,Standard,4824.76,4,Direct Website,Leisure,No
+HB6352,2026-05-07,64.0,Deluxe,8242.06,5,Direct Website,Leisure,No
+HB5595,2025-12-22,180.0,Standard,4831.66,4,Travel Agent,Leisure,Yes
+HB7191,2026-10-17,47.0,Standard,5823.6,5,Direct Website,Leisure,No
+HB2193,2025-11-06,180.0,Standard,4318.29,1,OTA,Business,No
+HB2827,2026-05-25,34.0,Standard,4169.83,3,OTA,Business,No
+HB6691,2026-06-14,61.0,Suite,14398.57,2,Corporate,Business,No
+HB7241,2026-02-08,50.0,Standard,3776.05,3,Corporate,Business,No
+HB5442,2025-09-17,17.0,Standard,4623.59,4,Direct Website,Leisure,No
+HB7838,2025-10-12,81.0,Standard,5287.05,10,Travel Agent,Leisure,No
+HB5472,2026-09-11,180.0,Standard,4901.89,8,OTA,Leisure,No
+HB8196,2025-05-06,137.0,Deluxe,7354.48,1,OTA,Business,No
+HB4799,2026-08-23,145.0,Standard,3505.8,2,Travel Agent,Leisure,No
+HB3857,2025-11-27,29.0,Standard,5379.43,3,OTA,Business,No
+HB4951,2025-09-27,52.0,Deluxe,8292.74,3,Corporate,Business,No
+HB2318,2026-10-24,180.0,Suite,14770.03,5,Travel Agent,Leisure,No
+HB2429,2026-08-04,115.0,Standard,3520.93,2,OTA,Business,No
+HB2304,2026-06-06,50.0,Suite,14015.31,1,Corporate,Business,Yes
+HB5559,2025-08-09,35.0,Deluxe,7806.98,2,OTA,Leisure,No
+HB8720,2025-11-10,67.0,Deluxe,8240.68,4,OTA,Leisure,Yes
+HB5014,2026-03-12,28.0,Standard,4516.21,1,Corporate,Business,No
+HB2305,2026-05-13,180.0,Standard,4340.46,6,OTA,Leisure,Yes
+HB5389,2025-07-28,149.0,Standard,4239.9,5,Travel Agent,Business,No
+HB7035,2025-08-29,109.0,Standard,4714.12,4,OTA,Leisure,No
+HB2441,2026-10-03,5.0,Deluxe,8972.46,1,Corporate,Business,No
+HB3103,2025-07-01,91.0,Standard,3290.37,4,OTA,Leisure,Yes
+HB7262,2025-03-16,21.0,Deluxe,7157.06,4,Corporate,Business,No
+HB3781,2026-05-13,36.0,Standard,4890.2,5,OTA,Leisure,Yes
+HB6936,2026-03-22,80.0,Standard,3238.22,3,OTA,Business,No
+HB3922,2026-07-21,124.0,Suite,11025.97,1,Travel Agent,Business,No
+HB7111,2026-01-10,180.0,Standard,5959.92,5,Travel Agent,Leisure,Yes
+HB7774,2025-09-17,74.0,Deluxe,7608.32,2,Direct Website,Leisure,No
+HB2223,2025-05-23,89.0,Standard,4474.16,3,OTA,Business,No
+HB5088,2026-10-18,109.0,Standard,4620.36,2,OTA,Business,Yes
+HB5547,2025-04-21,67.0,Suite,13882.75,5,Travel Agent,Leisure,No
+HB2952,2026-06-24,52.0,Deluxe,8058.44,3,OTA,Leisure,No
+HB2069,2025-12-07,29.0,Standard,6258.89,4,OTA,Leisure,No
+HB2009,2025-09-16,51.0,Standard,4151.84,4,Travel Agent,Leisure,No
+HB9785,2025-07-06,70.0,Suite,14103.82,9,Direct Website,Leisure,Yes
+HB9981,2025-12-31,19.0,Deluxe,10685.24,3,Corporate,Business,No
+HB5864,2026-08-10,38.0,Standard,4241.42,3,Corporate,Business,Yes
+HB6777,2025-04-05,59.0,Deluxe,5946.32,4,Direct Website,Leisure,No
+HB3641,2026-05-21,23.0,Suite,13843.48,4,Corporate,Business,No
+HB2572,2025-07-03,25.0,Deluxe,6407.1,7,Direct Website,Leisure,No
+HB8058,2025-11-13,116.0,Standard,4751.7,4,OTA,Leisure,Yes
+HB4980,2025-10-16,12.0,Standard,6211.03,7,Direct Website,Leisure,No
+HB3685,2026-08-12,93.0,Deluxe,6326.29,3,Travel Agent,Leisure,No
+HB3853,2026-06-14,48.0,Standard,6005.19,4,Corporate,Business,No
+HB9170,2025-10-31,96.0,Standard,6235.47,4,Direct Website,Leisure,No
+HB8662,2026-05-15,27.0,Deluxe,9375.04,9,OTA,Leisure,No
+HB7377,2025-03-24,111.0,Standard,5892.76,10,OTA,Leisure,Yes
+HB5917,2025-08-01,22.0,Standard,4256.87,1,OTA,Leisure,Yes
+HB9144,2025-07-09,19.0,Standard,3721.28,8,OTA,Leisure,No
+HB4701,2026-07-30,70.0,Deluxe,5648.64,2,Travel Agent,Leisure,No
+HB7426,2025-12-19,119.0,Standard,5519.51,2,OTA,Leisure,Yes
+HB2509,2026-04-23,65.0,Deluxe,7927.93,7,OTA,Leisure,No
+HB2720,2025-09-30,83.0,Standard,4648.83,4,Travel Agent,Leisure,No
+HB3064,2026-02-23,87.0,Deluxe,7233.51,1,OTA,Business,Yes
+HB7999,2026-02-11,157.0,Standard,3162.13,1,OTA,Business,No
+HB9123,2025-06-06,21.0,Standard,5040.32,2,Corporate,Business,No
+HB5226,2026-01-01,180.0,Standard,4568.69,2,Travel Agent,Leisure,No
+HB8381,2026-01-25,74.0,Deluxe,7784.09,3,Direct Website,Leisure,No
+HB7349,2025-11-26,84.0,Suite,10802.39,2,Travel Agent,Leisure,Yes
+HB7009,2026-01-28,120.0,Standard,4835.03,5,Travel Agent,Business,No
+HB9407,2025-11-09,49.0,Deluxe,7735.92,3,Travel Agent,Leisure,No
+HB2480,2026-10-23,32.0,Deluxe,10295.92,3,OTA,Business,No
+HB9528,2025-08-26,4.0,Deluxe,8766.32,3,Corporate,Business,No
+HB6640,2025-04-13,11.0,Deluxe,7546.09,1,Direct Website,Business,No
+HB4851,2026-09-27,11.0,Suite,9724.38,3,Corporate,Leisure,No
+HB4119,2025-04-01,30.0,Standard,6594.42,6,Direct Website,Leisure,No
+HB8103,2026-08-10,38.0,Standard,3890.97,6,Travel Agent,Leisure,No
+HB7226,2026-10-28,14.0,Standard,4486.4,2,Corporate,Business,No
+HB4736,2025-04-14,18.0,Standard,5161.51,2,Direct Website,Leisure,No
+HB4100,2025-10-17,78.0,Deluxe,6600.39,5,OTA,Leisure,No
+HB6565,2025-08-24,9.0,Standard,5280.63,4,OTA,Leisure,Yes
+HB7885,2025-12-01,27.0,Standard,,2,Corporate,Business,No
+HB7606,2025-05-06,47.0,Standard,4273.27,3,Travel Agent,Business,No
+HB6013,2025-12-05,49.0,Standard,5420.38,3,Direct Website,Business,No
+HB7824,2025-03-09,86.0,Standard,4884.55,4,Travel Agent,Business,No
+HB4549,2025-12-24,43.0,Deluxe,8466.48,7,Corporate,Business,No
+HB2653,2025-06-08,180.0,Deluxe,7540.17,4,OTA,Business,Yes
+HB7403,2025-10-23,64.0,Deluxe,10243.42,9,Direct Website,Leisure,No
+HB8724,2025-09-11,65.0,Standard,4401.32,5,OTA,Leisure,Yes
+HB5971,2025-11-11,95.0,Standard,3424.52,5,Travel Agent,Leisure,No
+HB6154,2025-09-02,38.0,Standard,4967.37,2,OTA,Business,Yes
+HB2887,2025-05-16,130.0,Deluxe,8971.47,7,OTA,Leisure,Yes
+HB7552,2025-09-05,122.0,Deluxe,5191.1,3,Travel Agent,Leisure,Yes
+HB4816,2025-10-22,53.0,Standard,6519.07,4,OTA,Leisure,No
+HB3069,2025-12-03,141.0,Standard,4317.72,3,Direct Website,Leisure,No
+HB5827,2025-07-13,54.0,Standard,4802.81,3,Corporate,Business,No
+HB6619,2026-01-08,180.0,Standard,4703.8,6,OTA,Leisure,Yes
+HB8210,2025-05-09,111.0,Suite,14433.1,1,OTA,Leisure,No
+HB5376,2026-07-22,180.0,Standard,3545.75,5,Direct Website,Leisure,No
+HB9330,2026-06-08,21.0,Standard,4444.69,2,Corporate,Business,No
+HB8377,2026-01-31,145.0,Deluxe,7805.64,3,Travel Agent,Leisure,No
+HB6506,2026-01-26,104.0,Standard,3495.87,2,Corporate,Business,No
+HB8873,2025-11-24,42.0,Standard,4747.72,3,Direct Website,Leisure,No
+HB5652,2026-06-12,119.0,Standard,4378.27,9,Direct Website,Leisure,No
+HB7432,2025-05-10,122.0,Deluxe,8804.03,5,OTA,Leisure,Yes
+HB6688,2026-01-11,31.0,Deluxe,7989.5,5,Travel Agent,Leisure,No
+HB7755,2026-05-23,58.0,Deluxe,9570.73,4,Travel Agent,Leisure,No
+HB5486,2025-07-02,93.0,Suite,9572.31,9,OTA,Leisure,No
+HB2021,2026-06-25,146.0,Deluxe,7225.61,4,Travel Agent,Business,Yes
+HB7297,2025-09-13,17.0,Suite,13436.72,1,Direct Website,Business,Yes
+HB3444,2026-09-01,180.0,Deluxe,6421.64,1,Travel Agent,Business,No
+HB7146,2025-09-03,153.0,Suite,9510.35,2,Direct Website,Business,No
+HB6229,2025-07-23,98.0,Suite,12723.15,8,OTA,Leisure,No
+HB9127,2026-03-18,,Standard,3145.64,1,Corporate,Business,No
+HB4740,2025-11-10,49.0,Standard,,4,Travel Agent,Business,No
+HB5148,2025-10-18,60.0,Deluxe,9180.81,2,OTA,Business,No
+HB7407,2026-04-21,38.0,Deluxe,8323.03,1,Travel Agent,Business,No
+HB4138,2025-06-05,109.0,Suite,10598.1,6,Travel Agent,Leisure,No
+HB9026,2026-04-15,15.0,Deluxe,8907.79,3,Corporate,Business,No
+HB7587,2025-12-03,62.0,Deluxe,7865.56,2,OTA,Leisure,No
+HB7453,2026-01-17,168.0,Standard,5260.76,1,Travel Agent,Business,No
+HB2597,2026-10-24,140.0,Suite,15447.3,2,Direct Website,Business,No
+HB9135,2025-04-01,16.0,Deluxe,7153.09,2,Corporate,Business,No
+HB9257,2025-12-29,32.0,Standard,5068.12,6,OTA,Leisure,No
+HB6630,2026-09-12,180.0,Standard,6204.01,7,Travel Agent,Leisure,No
+HB9758,2025-06-06,33.0,Suite,14649.44,1,Corporate,Business,No
+HB5769,2025-03-26,91.0,Standard,4440.65,1,Direct Website,Business,No
+HB7981,2025-10-26,34.0,Standard,5060.39,1,Corporate,Business,No
+HB4744,2026-10-13,24.0,Standard,4212.69,2,Corporate,Business,No
+HB8145,2026-03-23,21.0,Standard,4491.85,2,Travel Agent,Business,No
+HB9774,2026-10-29,37.0,Deluxe,8827.92,3,Direct Website,Business,Yes
+HB8896,2026-07-26,14.0,Standard,4376.81,2,Corporate,Business,No
+HB7420,2026-03-18,68.0,Suite,13072.01,5,Direct Website,Leisure,No
+HB2669,2026-03-10,8.0,Deluxe,8328.39,3,Travel Agent,Leisure,No
+HB3314,2025-06-19,26.0,Deluxe,9537.45,3,Corporate,Business,No
+HB7526,2025-10-21,68.0,Standard,6596.71,3,OTA,Leisure,Yes
+HB6514,2025-07-16,65.0,Standard,4037.73,3,OTA,Leisure,No
+HB8621,2026-04-06,28.0,Standard,5733.13,1,Corporate,Business,No
+HB2323,2025-09-09,90.0,Standard,4244.46,4,Travel Agent,Leisure,No
+HB3334,2026-03-30,26.0,Standard,4292.93,1,Travel Agent,Leisure,No
+HB7431,2025-12-04,22.0,Suite,13748.64,9,Direct Website,Leisure,No
+HB2743,2026-02-09,55.0,Standard,4060.01,1,Corporate,Business,No
+HB9541,2025-09-25,141.0,Standard,4423.98,4,Direct Website,Leisure,No
+HB5150,2025-04-02,32.0,Standard,5476.89,1,Travel Agent,Business,No
+HB2160,2026-04-10,59.0,Standard,4519.42,7,OTA,Leisure,No
+HB6007,2026-10-01,180.0,Standard,4582.99,4,Travel Agent,Leisure,No
+HB6471,2025-05-24,36.0,Standard,4656.91,3,Corporate,Leisure,No
+HB7444,2026-05-18,17.0,Standard,6876.65,1,Corporate,Business,No
+HB5767,2025-06-14,9.0,Standard,6289.49,5,Direct Website,Business,No
+HB2781,2025-04-05,76.0,Standard,4913.86,7,Travel Agent,Leisure,No
+HB5533,2026-08-25,,Deluxe,5195.51,1,OTA,Business,No
+HB6110,2026-04-04,102.0,Standard,4467.16,1,Corporate,Business,No
+HB3044,2026-10-05,119.0,Standard,5524.7,8,Direct Website,Leisure,No
+HB4957,2025-05-03,,Standard,4463.89,3,Travel Agent,Leisure,No
+HB4900,2026-09-26,16.0,Suite,9210.63,3,Direct Website,Leisure,No
+HB5255,2025-03-21,67.0,Deluxe,7425.7,2,Travel Agent,Leisure,No
+HB7548,2026-07-30,26.0,Standard,5941.95,5,Corporate,Business,No
+HB6029,2025-07-19,67.0,Deluxe,5424.79,2,Travel Agent,Leisure,No
+HB2234,2026-08-10,,Deluxe,6448.86,5,OTA,Leisure,No
+HB3402,2025-11-20,180.0,Deluxe,6623.79,5,OTA,Leisure,Yes
+HB9647,2025-07-15,180.0,Standard,3122.29,3,Travel Agent,Leisure,No
+HB4612,2026-10-15,89.0,Standard,4486.9,7,Travel Agent,Leisure,No
+HB2521,2025-11-20,71.0,Standard,3895.39,8,OTA,Leisure,No
+HB3170,2026-10-07,15.0,Deluxe,8596.29,4,Direct Website,Leisure,No
+HB5591,2025-12-09,22.0,Deluxe,7719.99,5,OTA,Leisure,No
+HB3448,2025-12-25,31.0,Deluxe,9982.98,4,Direct Website,Business,No
+HB2948,2025-07-12,33.0,Deluxe,7102.74,3,Direct Website,Business,No
+HB6410,2026-06-20,175.0,Standard,4498.54,3,Travel Agent,Leisure,Yes
+HB7553,2026-07-08,34.0,Suite,13413.53,5,Travel Agent,Leisure,No
+HB4625,2025-05-08,4.0,Deluxe,9143.35,7,Direct Website,Leisure,No
+HB9269,2025-04-07,67.0,Standard,4826.08,3,Direct Website,Leisure,No
+HB3169,2026-04-27,180.0,Standard,5259.77,4,Direct Website,Leisure,No
+HB5434,2026-09-03,126.0,Deluxe,7719.22,3,OTA,Leisure,No
+HB7762,2025-04-06,48.0,Standard,4710.12,1,Corporate,Business,No
+HB7647,2025-12-01,30.0,Suite,14972.14,3,OTA,Leisure,No
+HB6350,2025-12-14,37.0,Standard,7034.64,2,Direct Website,Leisure,No
+HB7928,2025-12-18,28.0,Standard,6026.4,3,Corporate,Business,No
+HB2866,2025-05-11,51.0,Deluxe,9929.7,3,Corporate,Business,No
+HB8758,2026-10-15,69.0,Suite,14265.49,5,Direct Website,Leisure,No
+HB6595,2025-05-24,63.0,Suite,10796.32,3,OTA,Leisure,No
+HB8899,2025-09-11,41.0,Standard,4615.7,1,Travel Agent,Business,No
+HB5168,2025-12-25,71.0,Deluxe,8447.81,6,Direct Website,Leisure,Yes
+HB6210,2025-11-24,62.0,Suite,12626.78,6,Travel Agent,Leisure,No
+HB6434,2025-09-16,180.0,Standard,5074.67,2,OTA,Business,No
+HB2404,2026-08-25,72.0,Standard,3742.29,2,Corporate,Business,No
+HB3251,2025-04-13,13.0,Suite,12417.98,1,Corporate,Business,No
+HB7604,2025-06-29,52.0,Standard,4318.5,2,OTA,Business,No
+HB3299,2025-08-30,69.0,Standard,5156.79,2,Corporate,Business,No
+HB7939,2025-10-17,122.0,Deluxe,8082.85,7,OTA,Leisure,No
+HB5167,2026-06-13,54.0,Standard,5911.16,8,Direct Website,Leisure,No
+HB3932,2025-04-17,164.0,Standard,5737.47,5,OTA,Leisure,Yes
+HB6146,2025-09-27,34.0,Standard,3488.98,1,Corporate,Business,No
+HB3703,2025-03-02,14.0,Deluxe,9143.91,4,OTA,Leisure,No
+HB6038,2026-03-26,136.0,Standard,4829.18,6,Direct Website,Leisure,No
+HB9197,2026-04-23,11.0,Suite,11376.92,6,Direct Website,Business,No
+HB6915,2026-10-03,43.0,Standard,6082.75,3,OTA,Leisure,No
+HB2120,2026-06-22,180.0,Standard,5199.5,5,OTA,Leisure,No
+HB9219,2025-12-30,66.0,Standard,4566.35,2,Travel Agent,Business,No
+HB7503,2025-11-11,100.0,Suite,11901.58,8,Travel Agent,Leisure,No
+HB8492,2026-10-25,42.0,Deluxe,9091.91,5,Direct Website,Leisure,No
+HB6458,2025-04-15,24.0,Deluxe,8787.41,3,Direct Website,Leisure,No
+HB5745,2026-04-11,86.0,Standard,4881.59,4,Travel Agent,Leisure,No
+HB4713,2025-05-18,57.0,Standard,5917.96,1,Direct Website,Leisure,No
+HB2944,2026-02-01,20.0,Standard,3526.08,5,Direct Website,Business,No
+HB8635,2026-05-14,170.0,Deluxe,7980.13,7,OTA,Leisure,No
+HB3825,2026-09-16,20.0,Deluxe,6037.77,2,OTA,Business,No
+HB4023,2025-10-23,21.0,Standard,4933.04,2,Travel Agent,Business,Yes
+HB8904,2026-03-21,123.0,Deluxe,7204.72,2,OTA,Business,Yes
+HB4520,2025-06-30,116.0,Deluxe,8417.94,5,OTA,Leisure,No
+HB8722,2026-05-29,9.0,Standard,5860.29,2,Corporate,Leisure,Yes
+HB3192,2025-10-28,88.0,Deluxe,7635.14,4,Travel Agent,Leisure,No
+HB5964,2025-04-02,27.0,Deluxe,8311.01,6,Corporate,Business,No
+HB2519,2026-06-28,48.0,Standard,4659.11,5,Travel Agent,Leisure,No
+HB9532,2026-06-10,180.0,Deluxe,8425.59,4,Direct Website,Leisure,No
+HB4596,2026-06-30,65.0,Suite,9945.26,7,Direct Website,Leisure,No
+HB8022,2026-01-02,92.0,Standard,4961.14,2,Corporate,Business,No
+HB4186,2025-10-22,57.0,Standard,5454.21,1,OTA,Leisure,No
+HB6867,2025-04-06,44.0,Deluxe,8021.68,3,Direct Website,Leisure,No
+HB2195,2025-11-23,180.0,Standard,4222.39,5,OTA,Leisure,Yes
+HB6083,2026-09-30,8.0,Standard,4392.06,2,Corporate,Leisure,No
+HB7767,2025-12-11,63.0,Standard,3681.61,6,Direct Website,Leisure,No
+HB5221,2026-01-12,124.0,Standard,4577.14,4,Direct Website,Leisure,Yes
+HB4117,2026-10-27,180.0,Standard,5332.75,3,OTA,Business,No
+HB3975,2026-06-15,12.0,Standard,5791.07,1,Corporate,Business,No
+HB9222,2026-06-22,10.0,Standard,4096.48,3,Travel Agent,Leisure,No
+HB2897,2026-03-03,124.0,Standard,4717.71,3,OTA,Leisure,Yes
+HB9174,2025-09-30,20.0,Deluxe,6930.35,1,OTA,Business,No
+HB2634,2026-06-16,46.0,Standard,4901.83,3,Corporate,Business,No
+HB5011,2026-02-21,,Standard,4830.1,1,OTA,Business,No
+HB2813,2026-09-27,33.0,Deluxe,8514.72,4,Travel Agent,Leisure,No
+HB4849,2025-10-16,5.0,Deluxe,7940.59,2,Corporate,Business,No
+HB6621,2026-05-13,7.0,Standard,6329.47,4,Corporate,Business,No
+HB2794,2026-10-22,57.0,Deluxe,6776.26,3,Direct Website,Business,No
+HB9267,2026-01-28,127.0,Standard,4318.23,2,OTA,Leisure,No
+HB7582,2025-04-04,180.0,Standard,4807.3,5,Travel Agent,Leisure,No
+HB9972,2026-06-10,18.0,Suite,14975.74,2,Direct Website,Business,No
+HB4371,2026-10-02,97.0,Standard,3603.89,4,Direct Website,Leisure,No
+HB4252,2025-05-05,17.0,Deluxe,9295.39,1,Corporate,Business,No
+HB2488,2025-09-07,15.0,Suite,11008.89,1,Corporate,Business,No
+HB5065,2025-06-03,41.0,Standard,4603.54,2,Travel Agent,Business,No
+HB4489,2026-08-26,36.0,Standard,4425.31,1,Travel Agent,Leisure,No
+HB8994,2026-08-22,124.0,Standard,4621.44,3,Direct Website,Leisure,Yes
+HB9010,2025-09-11,165.0,Deluxe,8043.07,4,OTA,Leisure,Yes
+HB9754,2025-05-23,47.0,Deluxe,9160.72,5,Travel Agent,Leisure,No
+HB7320,2025-08-19,99.0,Suite,9607.74,3,Travel Agent,Leisure,No
+HB5306,2025-08-10,81.0,Suite,11609.91,5,Travel Agent,Business,Yes
+HB3113,2026-08-25,91.0,Suite,14614.76,4,OTA,Leisure,Yes
+HB9561,2025-06-29,14.0,Deluxe,8558.28,1,OTA,Leisure,No
+HB8349,2026-10-06,180.0,Standard,5445.31,2,Direct Website,Leisure,Yes
+HB4009,2025-11-26,99.0,Suite,11316.46,3,Travel Agent,Business,Yes
+HB3080,2026-08-11,180.0,Suite,10875.79,2,Direct Website,Business,No
+HB2348,2025-09-08,140.0,Deluxe,7481.92,5,Direct Website,Leisure,No
+HB8944,2026-05-14,54.0,Deluxe,19217.61,3,Travel Agent,Leisure,No
+HB8834,2026-09-14,19.0,Standard,4782.18,1,Corporate,Business,No
+HB4897,2026-10-10,48.0,Standard,5535.58,2,OTA,Leisure,No
+HB2119,2025-09-24,107.0,Standard,3789.37,6,Direct Website,Business,No
+HB5820,2025-06-22,12.0,Suite,12741.21,1,Corporate,Business,No
+HB7956,2025-10-07,60.0,Standard,4126.18,1,Travel Agent,Business,No
+HB4817,2026-05-04,,Suite,11457.28,5,OTA,Leisure,Yes
+HB2636,2026-04-14,180.0,Deluxe,8547.83,2,Travel Agent,Business,No
+HB3997,2025-03-07,58.0,Deluxe,8558.07,8,OTA,Leisure,Yes
+HB3293,2026-01-28,38.0,Suite,14224.69,5,OTA,Leisure,No
+HB3159,2025-03-22,109.0,Standard,3800.16,6,Direct Website,Business,No
+HB5892,2026-05-28,73.0,Standard,4418.13,2,Travel Agent,Leisure,No
+HB5314,2026-01-25,178.0,Suite,14497.26,3,OTA,Leisure,No
+HB6912,2025-05-14,45.0,Deluxe,7369.38,4,OTA,Leisure,Yes
+HB9065,2025-12-29,96.0,Deluxe,9447.02,5,Travel Agent,Leisure,No
+HB5772,2026-04-20,69.0,Standard,3902.74,6,OTA,Leisure,No
+HB2070,2026-10-11,49.0,Standard,5150.39,6,Direct Website,Leisure,No
+HB3969,2025-08-30,180.0,Standard,3045.75,1,Travel Agent,Business,No
+HB7179,2026-02-01,179.0,Standard,5091.74,4,Travel Agent,Leisure,No
+HB2256,2025-12-22,24.0,Deluxe,8425.79,4,Corporate,Business,No
+HB6134,2025-04-25,162.0,Standard,3516.04,3,Direct Website,Business,No
+HB6686,2025-09-30,46.0,Suite,9407.0,4,Direct Website,Business,No
+HB8432,2026-09-17,24.0,Standard,4228.89,1,Corporate,Business,Yes
+HB7259,2025-06-15,32.0,Deluxe,8403.47,9,OTA,Leisure,No
+HB7370,2026-01-11,8.0,Standard,5215.92,1,Corporate,Business,No
+HB3874,2025-11-09,80.0,Standard,3451.6,1,Corporate,Business,No
+HB4096,2026-06-23,42.0,Standard,4891.14,5,Corporate,Business,No
+HB6615,2025-11-22,21.0,Standard,4431.11,7,Direct Website,Leisure,No
+HB2738,2025-04-28,58.0,Deluxe,9428.78,9,Direct Website,Leisure,No
+HB9429,2025-10-11,67.0,Deluxe,9097.13,4,Travel Agent,Leisure,No
+HB9865,2026-08-01,31.0,Suite,10652.69,1,OTA,Leisure,No
+HB3540,2026-07-05,38.0,Standard,4112.48,5,Direct Website,Leisure,No
+HB3719,2026-04-13,7.0,Suite,12864.21,1,Direct Website,Leisure,No
+HB8574,2026-06-08,35.0,Suite,11709.62,2,Direct Website,Leisure,No
+HB2609,2025-11-22,107.0,Deluxe,5775.77,6,OTA,Leisure,Yes
+HB3996,2026-09-21,180.0,Suite,12246.93,4,OTA,Business,No
+HB2542,2026-05-06,34.0,Standard,4902.43,1,OTA,Leisure,No
+HB8069,2026-06-10,139.0,Deluxe,6789.31,7,OTA,Leisure,Yes
+HB3359,2026-07-21,25.0,Suite,9920.57,3,Direct Website,Business,No
+HB2400,2025-03-10,91.0,Standard,4783.25,1,OTA,Business,No
+HB3679,2026-07-02,14.0,Deluxe,5943.88,1,Direct Website,Leisure,No
+HB9483,2025-11-27,50.0,Standard,3614.41,10,Travel Agent,Leisure,No
+HB8251,2026-10-25,180.0,Standard,5208.13,5,OTA,Leisure,No
+HB6213,2026-10-10,9.0,Standard,4317.3,1,Corporate,Business,No
+HB6430,2026-09-12,166.0,Deluxe,7048.59,5,OTA,Leisure,No
+HB5428,2026-01-01,14.0,Deluxe,6322.49,4,Direct Website,Leisure,No
+HB8348,2025-12-12,100.0,Standard,7008.03,3,Corporate,Business,No
+HB5650,2025-12-01,58.0,Standard,5790.04,3,Corporate,Business,No
+HB6495,2025-12-16,9.0,Standard,4591.5,4,OTA,Leisure,No
+HB4344,2025-06-21,96.0,Suite,12035.26,8,OTA,Leisure,No
+HB5678,2025-05-04,180.0,Deluxe,10022.79,4,Travel Agent,Leisure,No
+HB3595,2025-12-26,64.0,Suite,15711.33,2,Travel Agent,Business,No
+HB5446,2026-09-08,61.0,Suite,11165.66,1,Corporate,Business,No
+HB8468,2025-12-28,75.0,Deluxe,11154.55,2,OTA,Business,Yes
+HB9931,2025-04-18,,Deluxe,6247.23,1,Corporate,Business,No
+HB6576,2026-10-12,20.0,Standard,4551.0,4,Corporate,Business,No
+HB6474,2026-05-28,109.0,Standard,4961.99,1,OTA,Business,No
+HB5907,2026-02-06,25.0,Deluxe,6152.43,3,Corporate,Business,No
+HB6293,2025-06-15,180.0,Standard,3892.95,3,Travel Agent,Business,No
+HB4657,2025-03-22,39.0,Deluxe,8448.99,2,Corporate,Business,Yes
+HB6242,2025-05-29,17.0,Standard,4918.47,3,Direct Website,Leisure,No
+HB5130,2026-05-14,114.0,Standard,4729.64,4,Direct Website,Leisure,No
+HB5352,2026-03-07,19.0,Standard,6029.94,7,Direct Website,Leisure,No
+HB2853,2025-05-28,180.0,Standard,4878.96,2,Direct Website,Leisure,No
+HB8719,2025-12-01,131.0,Suite,15345.73,1,OTA,Business,No
+HB6477,2025-07-24,35.0,Deluxe,7979.79,2,Corporate,Business,No
+HB6993,2025-06-06,125.0,Standard,4803.68,5,Direct Website,Leisure,Yes
+HB4806,2025-10-29,127.0,Standard,5463.56,1,Travel Agent,Business,No
+HB9395,2025-06-03,167.0,Deluxe,8444.35,1,Travel Agent,Leisure,No
+HB3655,2026-09-18,75.0,Deluxe,8561.0,4,OTA,Leisure,No
+HB2083,2025-10-16,64.0,Standard,4589.93,6,Direct Website,Leisure,No
+HB9034,2026-04-19,8.0,Standard,4189.62,3,Corporate,Business,No
+HB6924,2026-06-26,96.0,Standard,4222.92,8,Travel Agent,Leisure,No
+HB5528,2025-09-28,90.0,Standard,2796.5,1,Corporate,Business,No
+HB8763,2026-01-04,180.0,Suite,13146.25,2,OTA,Business,No
+HB6378,2025-10-28,72.0,Standard,3967.7,5,OTA,Leisure,No
+HB6308,2026-05-08,,Deluxe,8499.44,5,OTA,Leisure,Yes
+HB6999,2025-10-18,47.0,Deluxe,6992.34,7,Direct Website,Leisure,No
+HB9777,2025-10-09,34.0,Standard,4983.95,3,OTA,Leisure,No
+HB4808,2025-09-21,74.0,Deluxe,6526.94,2,OTA,Business,No
+HB6436,2025-11-15,46.0,Standard,3974.74,4,Corporate,Business,No
+HB3608,2025-03-31,64.0,Deluxe,8648.57,8,OTA,Leisure,No
+HB8532,2026-01-17,45.0,Standard,4151.53,5,Corporate,Business,No
+HB8254,2026-09-29,63.0,Deluxe,9469.55,2,Direct Website,Business,No
+HB2918,2025-05-31,123.0,Deluxe,7690.53,4,OTA,Leisure,No
+HB9571,2025-12-25,23.0,Deluxe,9644.46,2,Direct Website,Business,No
+HB9185,2025-12-20,145.0,Deluxe,8881.4,3,Travel Agent,Leisure,No
+HB4809,2026-03-27,22.0,Deluxe,6685.07,1,Direct Website,Leisure,No
+HB2073,2025-11-02,14.0,Standard,5367.4,2,Direct Website,Leisure,No
+HB7568,2025-09-08,19.0,Standard,3856.39,10,Corporate,Leisure,No
+HB5361,2025-06-23,180.0,Deluxe,7815.48,2,OTA,Business,No
+HB6631,2026-03-01,53.0,Standard,3879.81,7,Travel Agent,Business,No
+HB7450,2025-12-01,64.0,Standard,5606.6,2,OTA,Leisure,Yes
+HB7608,2026-10-21,19.0,Suite,16594.18,2,Corporate,Business,No
+HB7128,2026-07-25,145.0,Deluxe,7437.7,5,Travel Agent,Leisure,No
+HB5202,2026-01-05,47.0,Standard,4601.09,2,Corporate,Business,No
+HB3049,2026-05-13,180.0,Standard,4793.04,4,OTA,Business,Yes
+HB9104,2025-10-17,65.0,Deluxe,10107.68,3,Direct Website,Business,Yes
+HB3823,2026-01-10,89.0,Deluxe,8209.48,1,OTA,Leisure,No
+HB4286,2025-10-03,54.0,Deluxe,8773.3,5,OTA,Leisure,No
+HB9112,2025-11-25,20.0,Deluxe,8259.01,3,OTA,Leisure,No
+HB4087,2025-07-20,65.0,Deluxe,6551.84,5,Travel Agent,Leisure,No
+HB4692,2025-07-23,144.0,Suite,12826.5,7,OTA,Leisure,No
+HB8339,2025-06-12,105.0,Deluxe,8259.24,3,Travel Agent,Business,No
+HB9500,2026-02-11,124.0,Suite,11782.79,3,OTA,Leisure,No
+HB6546,2026-10-17,,Standard,5540.14,2,Travel Agent,Leisure,No
+HB8849,2026-01-18,180.0,Standard,4651.58,1,OTA,Business,Yes
+HB5486,2025-07-02,93.0,Suite,9572.31,9,OTA,Leisure,No
+HB8681,2025-10-01,150.0,Standard,4661.5,1,Travel Agent,Business,No
+HB6211,2025-10-25,37.0,Standard,5389.04,6,Direct Website,Leisure,No
+HB5257,2026-10-10,70.0,Standard,5853.96,1,Corporate,Business,Yes
+HB7577,2026-02-02,57.0,Suite,13150.37,3,Travel Agent,Business,No
+HB2819,2025-09-15,104.0,Standard,4800.36,6,Travel Agent,Leisure,Yes
+HB7007,2026-03-06,108.0,Standard,3744.52,4,Direct Website,Leisure,No
+HB5310,2026-05-16,49.0,Standard,5678.54,5,Direct Website,Leisure,No
+HB3042,2025-05-12,113.0,Standard,5162.74,8,OTA,Leisure,No
+HB6888,2025-06-13,54.0,Suite,17378.63,2,Corporate,Business,No
+HB9812,2025-04-25,169.0,Standard,5217.14,6,OTA,Leisure,Yes
+HB7201,2026-10-05,117.0,Standard,4088.78,6,OTA,Leisure,Yes
+HB7903,2025-09-11,59.0,Standard,3846.89,1,OTA,Leisure,No
+HB8883,2025-12-08,180.0,Standard,5448.57,4,OTA,Leisure,No
+HB8975,2026-10-17,21.0,Deluxe,8805.69,5,Travel Agent,Leisure,No
+HB8555,2025-06-22,,Standard,5164.38,3,OTA,Leisure,No
+HB8793,2025-09-12,55.0,Deluxe,7267.16,2,OTA,Business,No
+HB3222,2026-10-13,92.0,Standard,4607.34,2,OTA,Business,No
+HB8610,2026-10-04,180.0,Deluxe,8309.23,4,Travel Agent,Leisure,No
+HB3812,2026-05-09,113.0,Suite,10401.47,5,Direct Website,Leisure,No
+HB5914,2026-09-23,85.0,Suite,10625.38,9,Direct Website,Leisure,No
+HB7184,2025-04-28,180.0,Deluxe,8731.74,10,OTA,Leisure,Yes
+HB7908,2026-08-01,136.0,Standard,3598.46,2,Travel Agent,Business,No
+HB8479,2026-10-05,81.0,Deluxe,8398.3,5,Travel Agent,Leisure,Yes
+HB8914,2025-05-10,23.0,Deluxe,9131.28,7,Corporate,Business,No
+HB7386,2025-05-07,117.0,Standard,4245.52,3,OTA,Leisure,No
+HB7966,2026-10-08,164.0,Standard,5895.25,1,Travel Agent,Business,No
+HB5290,2026-09-08,118.0,Standard,4526.34,3,OTA,Leisure,No
+HB4777,2026-09-12,180.0,Standard,5071.56,5,OTA,Business,No
+HB3317,2026-06-22,31.0,Standard,7040.78,4,Direct Website,Business,Yes
+HB9094,2026-08-20,5.0,Standard,4714.26,7,Corporate,Business,No
+HB5729,2026-04-18,17.0,Deluxe,8298.91,8,Travel Agent,Leisure,No
+HB8051,2025-11-19,83.0,Deluxe,6411.59,6,Travel Agent,Leisure,No
+HB9520,2025-04-25,78.0,Deluxe,8111.58,6,Travel Agent,Leisure,No
+HB5600,2026-05-21,39.0,Deluxe,7508.4,3,Corporate,Business,No
+HB7279,2026-02-17,135.0,Standard,4331.01,10,OTA,Leisure,Yes
+HB6172,2026-04-20,50.0,Deluxe,8374.38,1,Corporate,Business,No
+HB8464,2025-03-13,35.0,Standard,3458.46,2,Corporate,Business,No
+HB2248,2026-10-18,27.0,Deluxe,7999.22,8,Corporate,Leisure,No
+HB8086,2026-04-14,14.0,Deluxe,6943.71,2,Corporate,Business,No
+HB8007,2025-04-30,180.0,Deluxe,7673.59,4,OTA,Leisure,No
+HB3555,2026-03-08,117.0,Standard,4465.07,5,Travel Agent,Leisure,No
+HB6885,2026-04-09,39.0,Standard,6521.08,6,OTA,Leisure,No
+HB4782,2025-03-26,91.0,Suite,10671.87,5,Direct Website,Leisure,No
+HB4039,2026-07-16,92.0,Standard,3452.09,6,Direct Website,Leisure,No
+HB5323,2026-02-15,82.0,Suite,9638.11,2,OTA,Leisure,Yes
+HB6361,2025-05-26,56.0,Standard,3743.93,5,OTA,Leisure,No
+HB2953,2025-03-16,27.0,Suite,11650.62,8,Direct Website,Leisure,No
+HB5397,2026-08-02,46.0,Standard,3932.39,4,Direct Website,Business,No
+HB3796,2026-08-28,125.0,Deluxe,7548.88,1,OTA,Business,No
+HB5660,2025-07-17,32.0,Standard,3980.56,3,Direct Website,Leisure,No
+HB7209,2026-03-11,17.0,Standard,3486.54,1,Corporate,Business,No
+HB9911,2025-09-21,159.0,Standard,3998.43,2,OTA,Business,No
+HB3078,2026-09-26,17.0,Standard,4618.58,3,Travel Agent,Leisure,No
+HB2262,2025-10-06,94.0,Deluxe,9358.35,5,Direct Website,Leisure,No
+HB8907,2025-11-20,49.0,Suite,14798.4,1,Direct Website,Leisure,No
+HB5317,2025-10-30,69.0,Standard,4884.21,2,Travel Agent,Business,No
+HB8437,2026-10-01,18.0,Standard,7506.58,7,Direct Website,Leisure,No
+HB8362,2025-04-27,45.0,Standard,4809.01,3,OTA,Leisure,No
+HB8238,2026-08-27,44.0,Suite,9270.74,2,Travel Agent,Leisure,No
+HB7649,2026-07-24,17.0,Suite,13820.24,3,OTA,Leisure,Yes
+HB2785,2025-12-13,98.0,Deluxe,,6,Direct Website,Leisure,No
+HB6986,2026-05-17,152.0,Standard,4160.7,1,Direct Website,Leisure,No
+HB7171,2026-05-06,21.0,Deluxe,7563.57,5,Travel Agent,Leisure,No
+HB3354,2025-11-14,95.0,Deluxe,6876.59,2,Direct Website,Leisure,No
+HB3326,2026-02-24,47.0,Deluxe,7503.36,5,Direct Website,Leisure,No
+HB9892,2026-03-18,16.0,Suite,13784.63,5,Direct Website,Leisure,No
+HB6100,2026-07-22,20.0,Standard,3747.13,5,Travel Agent,Leisure,No
+HB5115,2025-12-10,178.0,Standard,5221.35,4,OTA,Leisure,Yes
+HB2085,2025-06-28,34.0,Deluxe,7547.02,4,Corporate,Business,No
+HB8078,2026-07-14,140.0,Deluxe,7330.89,1,Travel Agent,Business,No
+HB3806,2026-02-02,33.0,Standard,3920.93,1,Corporate,Business,No
+HB5244,2025-07-01,105.0,Deluxe,8175.99,2,OTA,Leisure,No
+HB7322,2026-03-21,15.0,Deluxe,7509.43,9,Direct Website,Leisure,No
+HB3714,2026-03-05,16.0,Standard,4031.73,5,Corporate,Leisure,Yes
+HB9583,2026-03-24,56.0,Standard,5240.43,8,Travel Agent,Leisure,No
+HB2606,2025-09-01,156.0,Suite,12140.9,3,OTA,Leisure,No
+HB8732,2025-10-21,180.0,Standard,5715.27,5,Direct Website,Leisure,No
+HB5345,2026-09-13,172.0,Standard,4097.5,3,OTA,Leisure,No
+HB9192,2025-09-01,179.0,Suite,,4,Direct Website,Business,No
+HB8274,2025-10-15,145.0,Deluxe,8997.76,3,Travel Agent,Leisure,Yes
+HB9062,2026-02-01,32.0,Suite,14203.33,3,Corporate,Business,No
+HB2409,2025-11-09,180.0,Suite,11821.49,1,Travel Agent,Leisure,No
+HB8247,2025-09-30,133.0,Standard,2858.49,5,OTA,Leisure,No
+HB8403,2026-03-28,46.0,Standard,4371.06,2,Travel Agent,Business,No
+HB2380,2025-08-18,111.0,Standard,3268.82,4,Direct Website,Leisure,No
+HB3778,2025-04-06,28.0,Standard,5254.5,3,Travel Agent,Business,No
+HB6962,2026-03-28,10.0,Standard,4825.0,4,Corporate,Leisure,No
+HB3548,2026-04-13,41.0,Standard,5513.74,2,Corporate,Business,No
+HB4123,2026-10-10,52.0,Standard,5911.59,2,Corporate,Business,No
+HB7323,2026-03-23,60.0,Standard,4869.91,5,OTA,Leisure,No
+HB2906,2026-03-06,34.0,Deluxe,6838.62,2,OTA,Business,No
+HB9331,2025-05-27,22.0,Suite,13107.27,4,Travel Agent,Leisure,Yes
+HB4312,2025-12-22,180.0,Suite,14730.56,2,Travel Agent,Leisure,Yes
+HB2497,2025-07-17,98.0,Standard,4779.2,10,Travel Agent,Leisure,No
+HB2444,2026-01-29,49.0,Deluxe,6144.58,7,Travel Agent,Leisure,No
+HB4321,2025-11-09,66.0,Standard,4492.49,3,Travel Agent,Leisure,No
+HB4538,2025-07-29,56.0,Standard,4129.05,2,Corporate,Business,No
+HB3175,2026-04-05,111.0,Deluxe,9149.04,5,OTA,Leisure,Yes
+HB5994,2026-04-08,61.0,Standard,4862.08,1,Corporate,Business,No
+HB4078,2025-12-03,60.0,Standard,3693.7,2,OTA,Leisure,No
+HB4879,2025-12-28,65.0,Standard,5776.2,1,OTA,Leisure,No
+HB5934,2026-10-22,30.0,Suite,14432.13,1,Direct Website,Business,No
+HB5998,2025-09-14,72.0,Standard,4796.39,7,Direct Website,Leisure,No
+HB7343,2025-09-14,38.0,Standard,3890.66,1,OTA,Leisure,No
+HB4213,2026-04-09,36.0,Standard,4904.78,2,Corporate,Business,No
+HB4902,2025-10-05,180.0,Standard,5508.06,4,Direct Website,Leisure,No
+HB9139,2026-05-15,10.0,Deluxe,8810.22,3,Travel Agent,Leisure,No
+HB8351,2025-08-05,21.0,Deluxe,6184.63,3,Direct Website,Leisure,No
+HB2755,2025-04-03,25.0,Standard,4296.12,2,Direct Website,Leisure,No
+HB8270,2026-09-22,137.0,Standard,3685.09,2,OTA,Leisure,No
+HB9238,2026-02-21,83.0,Standard,4181.01,4,Travel Agent,Business,No
+HB2940,2026-06-09,91.0,Suite,13937.34,4,Direct Website,Leisure,No
+HB7743,2025-11-13,85.0,Deluxe,7211.64,3,Direct Website,Business,No
+HB7800,2026-02-25,84.0,Deluxe,7176.7,4,Travel Agent,Leisure,No
+HB8291,2025-10-21,13.0,Deluxe,8161.58,1,Corporate,Business,No
+HB2590,2025-04-07,93.0,Standard,5311.12,7,Travel Agent,Leisure,No
+HB9838,2025-12-31,117.0,Suite,16527.61,1,OTA,Leisure,Yes
+HB2589,2026-09-10,66.0,Standard,4187.55,5,Travel Agent,Leisure,Yes
+HB6126,2025-06-16,33.0,Standard,4200.42,2,Corporate,Business,No
+HB4721,2025-05-31,48.0,Deluxe,8109.94,2,OTA,Business,No
+HB6943,2025-10-27,55.0,Standard,4599.44,6,OTA,Business,Yes
+HB6448,2025-08-20,84.0,Standard,4014.98,5,Travel Agent,Business,No
+HB3971,2025-05-23,49.0,Deluxe,8571.43,1,Corporate,Business,No
+HB5815,2025-07-20,106.0,Suite,14977.88,3,Travel Agent,Business,Yes
+HB3675,2025-11-01,173.0,Deluxe,6184.53,6,OTA,Leisure,No
+HB2903,2026-08-21,120.0,Deluxe,7086.09,9,Direct Website,Leisure,No
+HB9775,2026-06-11,30.0,Deluxe,7589.81,1,Corporate,Business,No
+HB5266,2025-04-02,104.0,Deluxe,6282.4,3,Travel Agent,Leisure,No
+HB5896,2026-01-12,14.0,Deluxe,6686.83,3,Travel Agent,Business,No
+HB7916,2026-05-07,39.0,Deluxe,9533.2,3,Direct Website,Leisure,No
+HB3201,2025-05-05,,Standard,3435.87,8,Direct Website,Leisure,No
+HB8698,2025-09-11,77.0,Suite,13468.13,7,Corporate,Leisure,No
+HB2529,2025-08-03,36.0,Suite,10107.51,3,OTA,Business,No
+HB3677,2025-09-25,,Deluxe,8389.07,4,OTA,Leisure,No
+HB3737,2025-10-25,57.0,Standard,5255.14,1,Corporate,Business,No
+HB8703,2025-06-25,,Suite,12815.68,2,Direct Website,Leisure,No
+HB9850,2025-12-21,121.0,Standard,5023.01,4,Direct Website,Leisure,Yes
+HB7163,2026-10-28,124.0,Suite,11834.6,1,OTA,Business,Yes
+HB2740,2025-07-26,56.0,Suite,13167.71,3,Travel Agent,Leisure,No
+HB7762,2025-04-06,48.0,Standard,4710.12,1,Corporate,Business,No
+HB6411,2026-09-16,166.0,Deluxe,5831.29,5,OTA,Leisure,No
+HB5527,2026-01-24,43.0,Deluxe,8059.18,6,Direct Website,Leisure,No
+HB5823,2026-02-20,96.0,Standard,4320.7,5,Direct Website,Leisure,No
+HB2561,2026-02-09,32.0,Deluxe,7253.42,1,Corporate,Business,No
+HB5584,2026-03-16,20.0,Standard,5553.82,6,Direct Website,Business,No
+HB2267,2026-10-27,101.0,Deluxe,8917.23,2,OTA,Leisure,No
+HB6467,2025-07-10,49.0,Deluxe,7136.56,2,Corporate,Business,No
+HB8521,2026-01-28,124.0,Standard,4026.2,1,OTA,Leisure,Yes
+HB4440,2026-05-17,180.0,Suite,13363.53,3,OTA,Leisure,No
+HB2518,2025-12-03,17.0,Suite,13572.1,4,Direct Website,Leisure,No
+HB2445,2025-12-09,177.0,Suite,17882.37,1,Direct Website,Business,No
+HB6223,2025-07-06,86.0,Deluxe,6240.62,5,Direct Website,Leisure,No
+HB5573,2026-10-02,72.0,Deluxe,21709.24,5,Direct Website,Business,No
+HB7724,2025-04-08,102.0,Standard,4837.61,3,Direct Website,Business,No
+HB3507,2026-04-23,21.0,Standard,4518.6,2,Corporate,Business,No
+HB3120,2025-03-20,29.0,Standard,3133.21,1,Corporate,Business,No
+HB4867,2026-05-27,19.0,Standard,4748.72,9,OTA,Leisure,Yes
+HB4524,2025-03-10,65.0,Standard,4630.7,5,OTA,Business,Yes
+HB9930,2026-05-22,68.0,Suite,12455.53,7,OTA,Leisure,Yes
+HB4600,2025-03-23,37.0,Deluxe,7900.06,6,Direct Website,Leisure,No
+HB3349,2025-08-19,45.0,Deluxe,5816.74,3,Direct Website,Leisure,No
+HB3706,2025-03-09,18.0,Standard,4727.05,1,Corporate,Business,No
+HB4834,2026-03-09,122.0,Deluxe,6211.04,8,OTA,Leisure,Yes
+HB8597,2026-04-02,180.0,Deluxe,7970.15,4,OTA,Leisure,No
+HB8426,2026-03-15,36.0,Standard,2742.54,2,Direct Website,Business,No
+HB3320,2026-01-04,168.0,Deluxe,7827.0,3,Travel Agent,Leisure,No
+HB2586,2025-06-12,90.0,Standard,5987.67,3,Travel Agent,Leisure,No
+HB8928,2026-02-27,92.0,Standard,,6,Corporate,Leisure,No
+HB8324,2025-04-02,48.0,Standard,3351.5,6,Direct Website,Leisure,No
+HB7607,2026-09-13,,Standard,4336.72,4,OTA,Leisure,No
+HB3523,2025-06-27,144.0,Standard,5803.73,7,Direct Website,Leisure,No
+HB6276,2026-01-22,53.0,Standard,4956.48,1,Corporate,Business,No
+HB2489,2025-06-17,35.0,Standard,4752.7,1,Corporate,Business,No
+HB2377,2025-03-23,40.0,Suite,10753.92,1,Corporate,Business,No
+HB8087,2026-06-06,80.0,Suite,14062.5,8,OTA,Leisure,No
+HB4036,2025-11-12,133.0,Suite,12954.53,3,Travel Agent,Leisure,No
+HB9897,2025-03-26,56.0,Deluxe,6239.05,2,Corporate,Business,No
+HB5063,2025-06-28,95.0,Deluxe,8850.36,3,Direct Website,Leisure,No
+HB9970,2026-04-26,58.0,Standard,5324.47,1,OTA,Business,No
+HB4674,2026-10-27,54.0,Deluxe,7461.09,4,Direct Website,Leisure,No
+HB9218,2026-05-03,17.0,Standard,5405.02,1,Corporate,Business,No
+HB7738,2025-03-13,27.0,Standard,5171.53,5,Corporate,Leisure,No
+HB7990,2025-10-17,44.0,Suite,13890.24,6,Corporate,Leisure,No
+HB9531,2025-12-24,132.0,Standard,7296.48,2,OTA,Leisure,No
+HB6474,2026-05-28,109.0,Standard,4961.99,1,OTA,Business,No
+HB4363,2026-04-12,28.0,Deluxe,8065.94,6,Direct Website,Business,No
+HB8830,2025-11-19,65.0,Suite,15302.86,1,Corporate,Business,No
+HB5997,2026-10-20,158.0,Deluxe,7667.16,3,OTA,Business,No
+HB9187,2026-05-17,37.0,Standard,5743.79,4,Corporate,Business,No
+HB9857,2025-11-02,53.0,Standard,4733.02,5,OTA,Leisure,No
+HB8330,2025-03-12,110.0,Standard,4424.99,4,OTA,Leisure,Yes
+HB5168,2025-12-25,71.0,Deluxe,8447.81,6,Direct Website,Leisure,Yes
+HB3126,2025-06-28,41.0,Deluxe,7697.98,6,OTA,Leisure,No
+HB4349,2025-09-01,37.0,Standard,4389.83,4,OTA,Leisure,No
+HB3276,2025-10-04,99.0,Standard,,2,Direct Website,Leisure,No
+HB7685,2025-06-23,15.0,Standard,4879.77,2,Corporate,Business,No
+HB7210,2025-04-13,69.0,Standard,5775.73,1,OTA,Business,Yes
+HB2113,2025-05-05,93.0,Standard,4772.51,2,Direct Website,Leisure,No
+HB3506,2025-06-21,16.0,Deluxe,6884.64,2,Corporate,Business,No
+HB4063,2025-06-06,32.0,Standard,4982.49,2,OTA,Leisure,Yes
+HB3818,2025-09-10,39.0,Standard,4041.68,1,Direct Website,Business,No
+HB6598,2025-04-28,115.0,Deluxe,8347.15,1,Direct Website,Business,No
+HB5017,2025-05-01,56.0,Suite,15323.0,3,OTA,Business,No
+HB3462,2025-04-17,81.0,Standard,5280.28,1,Travel Agent,Business,No
+HB5292,2025-06-07,74.0,Standard,5519.02,7,Travel Agent,Leisure,No
+HB2235,2026-06-07,180.0,Deluxe,9310.97,6,Travel Agent,Leisure,No
+HB9726,2025-03-09,92.0,Suite,11180.48,5,OTA,Leisure,No
+HB2835,2026-10-02,21.0,Standard,6023.15,1,OTA,Business,No
+HB5975,2026-09-10,3.0,Suite,13312.2,2,Corporate,Business,No
+HB6299,2026-03-27,36.0,Standard,4267.13,4,Direct Website,Leisure,No
+HB4473,2025-04-04,159.0,Deluxe,7599.1,3,OTA,Leisure,No
+HB9720,2025-10-10,59.0,Deluxe,7826.02,4,Corporate,Business,No
+HB7713,2025-03-19,148.0,Deluxe,6100.06,2,OTA,Leisure,Yes
+HB7881,2025-03-30,171.0,Standard,4057.92,3,OTA,Leisure,No
+HB3761,2026-10-19,161.0,Suite,10239.4,3,Travel Agent,Leisure,No
+HB4367,2025-12-08,12.0,Standard,5593.59,6,Direct Website,Leisure,No
+HB3272,2026-10-17,46.0,Suite,14477.15,2,Direct Website,Business,No
+HB2665,2026-06-06,108.0,Deluxe,9224.16,4,Travel Agent,Leisure,No
+HB3331,2025-10-13,15.0,Standard,4423.48,3,Direct Website,Leisure,No
+HB8998,2025-07-09,45.0,Standard,3294.85,3,Corporate,Business,No
+HB9582,2025-03-22,118.0,Deluxe,8260.87,3,OTA,Business,No
+HB4562,2026-07-02,75.0,Deluxe,8624.67,1,OTA,Business,No
+HB6551,2025-10-15,131.0,Standard,5049.09,3,Direct Website,Leisure,No
+HB9569,2025-12-25,180.0,Deluxe,10434.3,6,OTA,Leisure,No
+HB3988,2025-03-04,4.0,Deluxe,7330.98,2,Corporate,Business,No
+HB4865,2025-12-18,142.0,Suite,14917.13,5,Travel Agent,Leisure,Yes
+HB8634,2025-03-19,58.0,Deluxe,7096.56,1,Travel Agent,Leisure,Yes
+HB7865,2025-06-01,58.0,Deluxe,6505.69,3,Corporate,Business,No
+HB2611,2026-03-08,75.0,Suite,11623.58,3,Travel Agent,Leisure,No
+HB3741,2026-02-15,45.0,Standard,4855.88,7,OTA,Leisure,No
+HB9837,2026-04-28,15.0,Standard,5242.88,5,Corporate,Leisure,No
+HB3877,2025-12-21,120.0,Deluxe,8891.91,4,Travel Agent,Leisure,No
+HB4457,2026-02-04,56.0,Standard,3249.21,2,Corporate,Business,No
+HB4485,2025-08-12,46.0,Deluxe,,7,Corporate,Leisure,No
+HB2975,2026-10-04,54.0,Deluxe,7845.12,1,OTA,Leisure,No
+HB5593,2026-06-20,83.0,Standard,5536.83,3,OTA,Leisure,No
+HB8004,2025-11-28,10.0,Standard,4605.22,2,Corporate,Business,No
+HB3601,2025-12-09,59.0,Standard,5227.81,6,Corporate,Business,No
+HB6216,2026-04-02,65.0,Standard,4865.33,6,Travel Agent,Leisure,No
+HB5028,2025-08-21,84.0,Standard,4504.93,4,Direct Website,Business,No
+HB5858,2026-01-10,17.0,Deluxe,7309.34,1,OTA,Leisure,No
+HB8993,2026-07-17,50.0,Standard,4402.02,7,Travel Agent,Leisure,No
+HB6656,2025-06-21,15.0,Standard,4429.89,9,Direct Website,Leisure,No
+HB6460,2025-05-29,54.0,Deluxe,6507.59,1,Corporate,Business,No
+HB7842,2026-08-13,140.0,Suite,12789.09,3,Travel Agent,Leisure,Yes
+HB5841,2026-09-13,6.0,Suite,13482.27,10,OTA,Leisure,No
+HB7137,2026-09-01,20.0,Deluxe,6797.71,2,OTA,Business,No
+HB4447,2025-10-06,73.0,Standard,5152.23,6,Direct Website,Leisure,No
+HB5256,2026-10-28,45.0,Standard,5034.77,3,Corporate,Business,No
+HB4177,2025-04-04,,Standard,4885.24,6,Travel Agent,Leisure,Yes
+HB2150,2025-12-16,65.0,Standard,7177.96,2,OTA,Business,No
+HB3340,2026-05-11,7.0,Standard,4798.9,1,Corporate,Business,No
+HB4984,2026-04-03,39.0,Standard,3427.48,2,Corporate,Business,No
+HB4573,2026-01-12,53.0,Deluxe,7998.74,6,Direct Website,Leisure,No
+HB4253,2025-04-28,50.0,Suite,12481.8,2,OTA,Leisure,No
+HB6966,2026-10-12,74.0,Deluxe,7964.04,2,OTA,Leisure,No
+HB9688,2026-09-08,19.0,Deluxe,6315.6,4,Corporate,Leisure,No
+HB8802,2025-12-07,77.0,Deluxe,10031.09,8,Travel Agent,Leisure,Yes
+HB3872,2025-05-10,52.0,Standard,5974.95,5,OTA,Leisure,Yes
+HB7904,2025-04-14,84.0,Standard,4424.51,7,Direct Website,Leisure,No
+HB2547,2025-06-11,17.0,Suite,9055.6,1,Corporate,Business,No
+HB6025,2025-08-20,62.0,Standard,4930.82,6,OTA,Leisure,No
+HB7818,2025-04-10,120.0,Standard,3837.98,2,Travel Agent,Leisure,Yes
+HB7250,2026-06-04,50.0,Standard,4390.24,1,Direct Website,Leisure,No
+HB7779,2025-12-01,130.0,Standard,5394.25,6,Direct Website,Leisure,No
+HB9986,2025-03-04,158.0,Standard,4910.88,2,OTA,Leisure,No
+HB8380,2025-12-09,16.0,Deluxe,9216.95,1,Travel Agent,Business,No
+HB5587,2025-06-06,10.0,Standard,5873.13,1,Direct Website,Business,No
+HB4237,2025-05-21,,Standard,5876.68,4,Travel Agent,Leisure,No
+HB4281,2025-04-29,109.0,Standard,4900.33,3,Travel Agent,Leisure,No
+HB5694,2025-12-09,61.0,Standard,4767.26,2,Corporate,Business,No
+HB5701,2025-10-22,12.0,Suite,15663.83,1,Corporate,Business,No
+HB3264,2025-06-17,40.0,Deluxe,8092.31,4,Direct Website,Leisure,No
+HB9384,2025-07-24,59.0,Standard,4148.07,9,OTA,Leisure,Yes
+HB8226,2026-06-07,36.0,Deluxe,,2,Direct Website,Business,No

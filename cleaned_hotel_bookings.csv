@@ -1,0 +1,821 @@
+Booking_ID,Checkin_Date,Lead_Time_Days,Room_Type,Room_Rate,Nights,Booking_Channel,Traveler_Type,Canceled,Arrival_Month,Arrival_Weekday,Year_Month,Is_Canceled,Booking_Revenue,Lead_Band
+HB5918,2026-09-13,18.0,Deluxe,6958.56,3,Direct Website,Leisure,No,September,Sunday,2026-09,False,20875.68,Short-Term
+HB5891,2026-04-18,18.0,Standard,5363.15,2,Corporate,Business,No,April,Saturday,2026-04,False,10726.3,Short-Term
+HB2274,2026-04-10,18.0,Suite,12868.79,5,Corporate,Business,No,April,Friday,2026-04,False,64343.95,Short-Term
+HB3341,2026-03-22,43.0,Deluxe,7136.33,5,OTA,Leisure,No,March,Sunday,2026-03,False,35681.65,Medium-Term
+HB5041,2026-06-20,180.0,Standard,4269.01,8,OTA,Leisure,Yes,June,Saturday,2026-06,True,0.0,Advance
+HB3710,2025-11-16,180.0,Standard,4530.05,6,Travel Agent,Leisure,Yes,November,Sunday,2025-11,True,0.0,Advance
+HB5255,2025-03-21,67.0,Deluxe,7425.7,2,Travel Agent,Leisure,No,March,Friday,2025-03,False,14851.4,Medium-Term
+HB3897,2025-03-29,4.0,Deluxe,7939.85,2,Corporate,Business,No,March,Saturday,2025-03,False,15879.7,Last-Minute
+HB8197,2026-05-29,43.0,Suite,12722.2,3,Travel Agent,Leisure,No,May,Friday,2026-05,False,38166.6,Medium-Term
+HB3039,2026-05-05,31.0,Standard,5068.28,2,Direct Website,Business,Yes,May,Tuesday,2026-05,True,0.0,Medium-Term
+HB9340,2026-08-29,79.0,Deluxe,5177.43,2,OTA,Business,No,August,Saturday,2026-08,False,10354.86,Medium-Term
+HB7922,2026-05-09,60.0,Deluxe,8455.59,4,Direct Website,Leisure,No,May,Saturday,2026-05,False,33822.36,Medium-Term
+HB9398,2026-01-24,135.0,Deluxe,6949.88,1,Direct Website,Business,No,January,Saturday,2026-01,False,6949.88,Advance
+HB5025,2025-12-20,125.0,Standard,4975.75,6,OTA,Leisure,No,December,Saturday,2025-12,False,29854.5,Advance
+HB7333,2025-05-22,55.0,Standard,5054.23,4,Corporate,Business,No,May,Thursday,2025-05,False,20216.92,Medium-Term
+HB6317,2025-11-04,9.0,Suite,15720.09,2,OTA,Business,No,November,Tuesday,2025-11,False,31440.18,Short-Term
+HB3566,2025-10-26,18.0,Standard,6217.12,7,Direct Website,Leisure,No,October,Sunday,2025-10,False,43519.84,Short-Term
+HB4394,2026-06-11,64.0,Standard,4296.82,1,Travel Agent,Business,No,June,Thursday,2026-06,False,4296.82,Medium-Term
+HB4192,2025-10-14,74.0,Standard,5181.83,8,OTA,Leisure,Yes,October,Tuesday,2025-10,True,0.0,Medium-Term
+HB9035,2025-10-11,73.0,Standard,5187.14,2,Travel Agent,Business,No,October,Saturday,2025-10,False,10374.28,Medium-Term
+HB7722,2025-11-26,20.0,Suite,14793.67,7,OTA,Leisure,No,November,Wednesday,2025-11,False,103555.69,Short-Term
+HB7473,2025-06-16,180.0,Deluxe,9963.55,3,OTA,Leisure,No,June,Monday,2025-06,False,29890.65,Advance
+HB6950,2025-11-07,167.0,Standard,4190.58,6,OTA,Leisure,No,November,Friday,2025-11,False,25143.48,Advance
+HB5539,2025-06-28,125.0,Standard,4680.22,6,Travel Agent,Leisure,No,June,Saturday,2025-06,False,28081.32,Advance
+HB8506,2026-05-11,72.0,Suite,16577.81,5,Travel Agent,Leisure,No,May,Monday,2026-05,False,82889.05,Medium-Term
+HB9864,2025-10-27,77.0,Deluxe,8969.24,5,OTA,Leisure,No,October,Monday,2025-10,False,44846.2,Medium-Term
+HB4802,2025-07-28,30.0,Suite,10149.65,1,Corporate,Business,No,July,Monday,2025-07,False,10149.65,Short-Term
+HB3231,2025-05-17,93.0,Suite,12999.01,4,Travel Agent,Leisure,No,May,Saturday,2025-05,False,51996.04,Advance
+HB2912,2026-02-01,180.0,Standard,4685.93,1,OTA,Business,Yes,February,Sunday,2026-02,True,0.0,Advance
+HB3547,2025-12-06,92.0,Suite,16173.56,4,OTA,Leisure,No,December,Saturday,2025-12,False,64694.24,Advance
+HB3371,2026-02-28,25.0,Standard,4926.21,2,Direct Website,Business,No,February,Saturday,2026-02,False,9852.42,Short-Term
+HB4242,2026-10-09,14.0,Standard,5762.27,2,Corporate,Business,No,October,Friday,2026-10,False,11524.54,Short-Term
+HB7703,2025-09-24,33.0,Standard,5161.03,3,Corporate,Business,No,September,Wednesday,2025-09,False,15483.09,Medium-Term
+HB3635,2026-07-02,144.0,Deluxe,7157.11,4,Travel Agent,Business,No,July,Thursday,2026-07,False,28628.44,Advance
+HB9552,2025-09-02,105.0,Suite,10962.41,5,OTA,Leisure,No,September,Tuesday,2025-09,False,54812.05,Advance
+HB7372,2026-10-14,134.0,Standard,13331.83,6,Direct Website,Leisure,No,October,Wednesday,2026-10,False,79990.98,Advance
+HB3792,2025-06-11,34.0,Suite,13124.55,1,Corporate,Business,No,June,Wednesday,2025-06,False,13124.55,Medium-Term
+HB9920,2026-10-09,81.0,Deluxe,9642.84,3,Travel Agent,Leisure,No,October,Friday,2026-10,False,28928.52,Medium-Term
+HB4723,2025-09-06,88.0,Suite,28559.94,3,Direct Website,Leisure,No,September,Saturday,2025-09,False,85679.82,Medium-Term
+HB6459,2025-06-04,90.0,Deluxe,6867.12,4,OTA,Leisure,Yes,June,Wednesday,2025-06,True,0.0,Medium-Term
+HB6250,2026-04-01,94.0,Suite,14458.46,3,Travel Agent,Leisure,No,April,Wednesday,2026-04,False,43375.38,Advance
+HB4958,2025-04-13,180.0,Standard,4626.84,2,Travel Agent,Business,Yes,April,Sunday,2025-04,True,0.0,Advance
+HB5904,2026-10-10,34.0,Suite,11173.93,6,Direct Website,Leisure,No,October,Saturday,2026-10,False,67043.58,Medium-Term
+HB7541,2025-05-20,131.0,Deluxe,6960.65,6,OTA,Business,Yes,May,Tuesday,2025-05,True,0.0,Advance
+HB6009,2025-06-25,124.0,Standard,4538.23,1,OTA,Business,No,June,Wednesday,2025-06,False,4538.23,Advance
+HB8725,2026-04-21,165.0,Deluxe,7479.03,7,OTA,Leisure,Yes,April,Tuesday,2026-04,True,0.0,Advance
+HB5454,2026-09-07,40.0,Deluxe,7299.49,2,Corporate,Business,No,September,Monday,2026-09,False,14598.98,Medium-Term
+HB6916,2026-01-02,50.0,Suite,13528.08,1,Corporate,Business,No,January,Friday,2026-01,False,13528.08,Medium-Term
+HB5003,2026-10-01,70.0,Suite,14018.74,2,OTA,Leisure,No,October,Thursday,2026-10,False,28037.48,Medium-Term
+HB9872,2025-09-10,16.0,Standard,4371.76,1,Corporate,Business,Yes,September,Wednesday,2025-09,True,0.0,Short-Term
+HB8498,2025-12-30,20.0,Suite,14297.57,2,Direct Website,Business,No,December,Tuesday,2025-12,False,28595.14,Short-Term
+HB6609,2025-06-01,71.0,Standard,4132.37,6,Direct Website,Leisure,No,June,Sunday,2025-06,False,24794.22,Medium-Term
+HB8789,2025-07-05,180.0,Deluxe,5037.17,1,OTA,Leisure,No,July,Saturday,2025-07,False,5037.17,Advance
+HB4551,2025-05-27,91.0,Deluxe,9093.03,3,OTA,Leisure,No,May,Tuesday,2025-05,False,27279.09,Advance
+HB9102,2025-12-26,17.0,Deluxe,9442.81,3,Direct Website,Leisure,No,December,Friday,2025-12,False,28328.43,Short-Term
+HB2403,2026-10-24,84.0,Deluxe,6367.14,7,Direct Website,Leisure,No,October,Saturday,2026-10,False,44569.98,Medium-Term
+HB3850,2026-05-09,33.0,Standard,4458.27,4,Travel Agent,Leisure,No,May,Saturday,2026-05,False,17833.08,Medium-Term
+HB9497,2025-10-13,41.0,Deluxe,9004.93,4,Direct Website,Leisure,Yes,October,Monday,2025-10,True,0.0,Medium-Term
+HB6468,2026-06-01,180.0,Suite,14133.48,1,OTA,Business,No,June,Monday,2026-06,False,14133.48,Advance
+HB6581,2025-03-31,32.0,Deluxe,6954.08,3,Direct Website,Leisure,No,March,Monday,2025-03,False,20862.24,Medium-Term
+HB6884,2025-11-06,49.0,Standard,3301.55,1,OTA,Business,No,November,Thursday,2025-11,False,3301.55,Medium-Term
+HB3789,2026-01-16,180.0,Deluxe,7494.13,1,OTA,Business,No,January,Friday,2026-01,False,7494.13,Advance
+HB9727,2025-07-21,165.0,Standard,4255.06,8,Travel Agent,Leisure,Yes,July,Monday,2025-07,True,0.0,Advance
+HB5032,2025-10-16,128.0,Standard,4532.64,6,OTA,Leisure,No,October,Thursday,2025-10,False,27195.84,Advance
+HB8171,2026-10-28,83.0,Deluxe,8211.28,6,OTA,Leisure,No,October,Wednesday,2026-10,False,49267.68,Medium-Term
+HB5024,2026-04-04,16.0,Suite,11817.05,4,Direct Website,Leisure,No,April,Saturday,2026-04,False,47268.2,Short-Term
+HB6933,2025-10-18,49.0,Suite,10930.14,6,OTA,Business,No,October,Saturday,2025-10,False,65580.84,Medium-Term
+HB7602,2025-09-25,81.0,Deluxe,7241.86,5,OTA,Leisure,Yes,September,Thursday,2025-09,True,0.0,Medium-Term
+HB8490,2025-04-05,25.0,Standard,5254.46,3,Direct Website,Leisure,No,April,Saturday,2025-04,False,15763.38,Short-Term
+HB2284,2026-02-22,117.0,Standard,4747.3150000000005,3,Direct Website,Leisure,No,February,Sunday,2026-02,False,14241.95,Advance
+HB7713,2025-03-19,148.0,Deluxe,6100.06,2,OTA,Leisure,Yes,March,Wednesday,2025-03,True,0.0,Advance
+HB3887,2025-06-23,46.0,Deluxe,7487.26,4,Travel Agent,Leisure,No,June,Monday,2025-06,False,29949.04,Medium-Term
+HB6743,2026-10-21,42.0,Standard,5368.89,2,Corporate,Business,No,October,Wednesday,2026-10,False,10737.78,Medium-Term
+HB7268,2025-04-18,167.0,Standard,5031.1,4,Travel Agent,Leisure,No,April,Friday,2025-04,False,20124.4,Advance
+HB3678,2025-06-16,33.0,Deluxe,8240.94,1,OTA,Leisure,No,June,Monday,2025-06,False,8240.94,Medium-Term
+HB7373,2026-07-14,57.0,Standard,3404.73,5,OTA,Leisure,No,July,Tuesday,2026-07,False,17023.65,Medium-Term
+HB5496,2026-10-12,34.0,Suite,16380.1,4,Direct Website,Business,No,October,Monday,2026-10,False,65520.4,Medium-Term
+HB6285,2026-07-07,86.0,Suite,11607.52,3,Travel Agent,Leisure,No,July,Tuesday,2026-07,False,34822.56,Medium-Term
+HB2050,2025-03-18,115.0,Deluxe,8461.71,4,OTA,Leisure,Yes,March,Tuesday,2025-03,True,0.0,Advance
+HB9842,2025-12-14,65.0,Standard,5352.64,2,Direct Website,Leisure,No,December,Sunday,2025-12,False,10705.28,Medium-Term
+HB8364,2026-05-10,180.0,Deluxe,8698.15,2,Direct Website,Business,Yes,May,Sunday,2026-05,True,0.0,Advance
+HB6782,2026-10-28,84.0,Deluxe,9640.59,2,Travel Agent,Business,No,October,Wednesday,2026-10,False,19281.18,Medium-Term
+HB9620,2026-02-21,16.0,Standard,3790.57,3,Corporate,Business,No,February,Saturday,2026-02,False,11371.71,Short-Term
+HB3019,2026-09-16,67.0,Standard,4712.38,1,Travel Agent,Business,No,September,Wednesday,2026-09,False,4712.38,Medium-Term
+HB9261,2026-05-17,41.0,Standard,5176.04,8,Direct Website,Leisure,No,May,Sunday,2026-05,False,41408.32,Medium-Term
+HB4459,2025-05-23,180.0,Standard,5551.8,2,Direct Website,Business,No,May,Friday,2025-05,False,11103.6,Advance
+HB4969,2025-12-13,29.0,Standard,6600.14,2,Direct Website,Business,No,December,Saturday,2025-12,False,13200.28,Short-Term
+HB4912,2026-06-06,85.0,Standard,5927.19,2,OTA,Business,No,June,Saturday,2026-06,False,11854.38,Medium-Term
+HB6415,2025-06-07,148.0,Standard,4372.74,3,Travel Agent,Business,Yes,June,Saturday,2025-06,True,0.0,Advance
+HB2264,2025-04-05,39.0,Suite,14779.56,2,Corporate,Business,No,April,Saturday,2025-04,False,29559.12,Medium-Term
+HB7213,2025-10-21,127.0,Standard,4747.3150000000005,4,Travel Agent,Leisure,No,October,Tuesday,2025-10,False,18989.26,Advance
+HB9322,2026-03-30,31.0,Standard,5500.34,3,OTA,Business,No,March,Monday,2026-03,False,16501.02,Medium-Term
+HB9988,2025-04-13,53.0,Deluxe,6371.05,2,Corporate,Business,No,April,Sunday,2025-04,False,12742.1,Medium-Term
+HB5124,2026-01-29,81.0,Deluxe,6871.33,7,Travel Agent,Leisure,Yes,January,Thursday,2026-01,True,0.0,Medium-Term
+HB7354,2026-10-16,107.0,Standard,5151.68,2,OTA,Business,No,October,Friday,2026-10,False,10303.36,Advance
+HB7909,2026-01-06,97.0,Deluxe,6103.45,3,OTA,Business,Yes,January,Tuesday,2026-01,True,0.0,Advance
+HB2236,2025-03-21,75.0,Standard,4303.01,3,OTA,Business,Yes,March,Friday,2025-03,True,0.0,Medium-Term
+HB9504,2026-04-18,50.0,Suite,12984.94,5,Direct Website,Leisure,No,April,Saturday,2026-04,False,64924.7,Medium-Term
+HB8436,2026-06-29,83.0,Deluxe,8068.87,2,OTA,Business,No,June,Monday,2026-06,False,16137.74,Medium-Term
+HB3672,2025-12-20,52.0,Standard,5316.3,2,Direct Website,Leisure,No,December,Saturday,2025-12,False,10632.6,Medium-Term
+HB5819,2026-02-20,21.0,Deluxe,6360.5,2,Corporate,Business,No,February,Friday,2026-02,False,12721.0,Short-Term
+HB2565,2025-09-20,52.0,Standard,3921.42,4,Direct Website,Leisure,No,September,Saturday,2025-09,False,15685.68,Medium-Term
+HB2076,2025-03-09,108.0,Suite,13741.98,7,Direct Website,Leisure,No,March,Sunday,2025-03,False,96193.86,Advance
+HB4025,2026-04-12,180.0,Deluxe,7958.3,9,OTA,Leisure,Yes,April,Sunday,2026-04,True,0.0,Advance
+HB9866,2025-07-03,101.0,Standard,4298.83,2,OTA,Leisure,No,July,Thursday,2025-07,False,8597.66,Advance
+HB6717,2025-11-25,48.0,Suite,13496.69,3,Direct Website,Leisure,No,November,Tuesday,2025-11,False,40490.07,Medium-Term
+HB2335,2025-06-19,66.0,Deluxe,10386.14,1,Travel Agent,Business,No,June,Thursday,2025-06,False,10386.14,Medium-Term
+HB9442,2026-06-13,97.0,Suite,12627.2,5,Direct Website,Business,No,June,Saturday,2026-06,False,63136.0,Advance
+HB9862,2026-07-26,53.0,Deluxe,9364.6,1,Corporate,Business,No,July,Sunday,2026-07,False,9364.6,Medium-Term
+HB4381,2026-10-05,51.0,Suite,14718.64,3,OTA,Business,No,October,Monday,2026-10,False,44155.92,Medium-Term
+HB2555,2026-01-04,37.0,Deluxe,7085.71,8,Corporate,Leisure,Yes,January,Sunday,2026-01,True,0.0,Medium-Term
+HB5021,2025-03-29,98.0,Standard,4200.77,4,Travel Agent,Leisure,No,March,Saturday,2025-03,False,16803.08,Advance
+HB8588,2025-05-08,22.0,Deluxe,16541.52,2,Direct Website,Leisure,No,May,Thursday,2025-05,False,33083.04,Short-Term
+HB2891,2026-01-24,65.0,Standard,5330.47,8,OTA,Leisure,No,January,Saturday,2026-01,False,42643.76,Medium-Term
+HB2171,2025-04-21,51.0,Standard,4323.33,10,Direct Website,Leisure,No,April,Monday,2025-04,False,43233.3,Medium-Term
+HB9393,2026-03-14,94.0,Deluxe,7557.27,5,OTA,Leisure,Yes,March,Saturday,2026-03,True,0.0,Advance
+HB7589,2026-07-29,33.0,Deluxe,7839.65,3,Direct Website,Business,No,July,Wednesday,2026-07,False,23518.95,Medium-Term
+HB8750,2025-12-18,12.0,Deluxe,8250.52,2,Corporate,Business,No,December,Thursday,2025-12,False,16501.04,Short-Term
+HB5236,2025-12-23,172.0,Standard,4867.1,4,Travel Agent,Leisure,No,December,Tuesday,2025-12,False,19468.4,Advance
+HB9815,2025-06-28,75.0,Deluxe,7863.71,1,Travel Agent,Business,No,June,Saturday,2025-06,False,7863.71,Medium-Term
+HB9240,2026-10-05,124.0,Standard,4525.26,6,Travel Agent,Leisure,No,October,Monday,2026-10,False,27151.56,Advance
+HB4137,2026-09-09,24.0,Standard,4908.07,9,OTA,Leisure,No,September,Wednesday,2026-09,False,44172.63,Short-Term
+HB9262,2025-05-13,125.0,Deluxe,6346.51,4,Direct Website,Leisure,No,May,Tuesday,2025-05,False,25386.04,Advance
+HB3597,2026-02-28,148.0,Suite,13885.95,5,OTA,Leisure,No,February,Saturday,2026-02,False,69429.75,Advance
+HB8700,2026-06-07,143.0,Standard,5889.6,6,Direct Website,Leisure,No,June,Sunday,2026-06,False,35337.6,Advance
+HB4938,2025-06-12,14.0,Suite,15641.51,5,Direct Website,Leisure,Yes,June,Thursday,2025-06,True,0.0,Short-Term
+HB7694,2026-07-08,31.0,Standard,3722.94,2,Travel Agent,Leisure,No,July,Wednesday,2026-07,False,7445.88,Medium-Term
+HB3408,2025-10-31,84.0,Deluxe,7657.93,3,Direct Website,Leisure,Yes,October,Friday,2025-10,True,0.0,Medium-Term
+HB8642,2025-06-16,16.0,Suite,13124.55,7,Direct Website,Leisure,No,June,Monday,2025-06,False,91871.85,Short-Term
+HB4273,2026-10-10,122.0,Standard,5409.52,3,OTA,Business,No,October,Saturday,2026-10,False,16228.56,Advance
+HB7031,2025-04-03,25.0,Deluxe,9088.63,1,Corporate,Business,No,April,Thursday,2025-04,False,9088.63,Short-Term
+HB4169,2026-02-12,30.0,Deluxe,7937.575000000001,3,OTA,Leisure,No,February,Thursday,2026-02,False,23812.72,Short-Term
+HB8702,2025-07-19,124.0,Deluxe,7937.575000000001,5,OTA,Leisure,No,July,Saturday,2025-07,False,39687.88,Advance
+HB4800,2025-04-22,32.0,Standard,5290.03,7,Corporate,Business,No,April,Tuesday,2025-04,False,37030.21,Medium-Term
+HB6944,2025-04-21,55.0,Deluxe,8623.59,7,Direct Website,Leisure,No,April,Monday,2025-04,False,60365.13,Medium-Term
+HB4473,2025-04-04,159.0,Deluxe,7599.1,3,OTA,Leisure,No,April,Friday,2025-04,False,22797.3,Advance
+HB2996,2026-01-27,141.0,Standard,4658.55,6,OTA,Leisure,No,January,Tuesday,2026-01,False,27951.3,Advance
+HB2016,2025-06-09,13.0,Standard,5314.34,2,Corporate,Business,No,June,Monday,2025-06,False,10628.68,Short-Term
+HB6384,2025-10-13,60.0,Deluxe,7935.3,2,Direct Website,Business,No,October,Monday,2025-10,False,15870.6,Medium-Term
+HB4439,2025-03-21,20.0,Suite,9904.18,1,Direct Website,Business,No,March,Friday,2025-03,False,9904.18,Short-Term
+HB5830,2026-04-05,51.0,Standard,4548.86,4,OTA,Leisure,No,April,Sunday,2026-04,False,18195.44,Medium-Term
+HB7387,2025-05-29,122.0,Suite,11602.49,6,OTA,Leisure,No,May,Thursday,2025-05,False,69614.94,Advance
+HB6703,2025-05-01,76.0,Suite,13698.72,4,Direct Website,Leisure,No,May,Thursday,2025-05,False,54794.88,Medium-Term
+HB7112,2025-12-11,38.0,Standard,4905.34,7,Direct Website,Leisure,No,December,Thursday,2025-12,False,34337.38,Medium-Term
+HB5733,2025-09-13,83.0,Standard,4130.66,4,Travel Agent,Leisure,Yes,September,Saturday,2025-09,True,0.0,Medium-Term
+HB4356,2025-06-14,6.0,Deluxe,7504.42,5,Corporate,Leisure,No,June,Saturday,2025-06,False,37522.1,Last-Minute
+HB4474,2026-10-15,6.0,Deluxe,7463.07,3,Corporate,Business,No,October,Thursday,2026-10,False,22389.21,Last-Minute
+HB5146,2025-04-01,111.0,Deluxe,7922.96,5,OTA,Leisure,No,April,Tuesday,2025-04,False,39614.8,Advance
+HB7656,2025-09-05,40.0,Suite,10270.13,7,Travel Agent,Leisure,No,September,Friday,2025-09,False,71890.91,Medium-Term
+HB9904,2026-10-09,131.0,Standard,5367.6,2,OTA,Leisure,Yes,October,Friday,2026-10,True,0.0,Advance
+HB7290,2026-02-15,91.0,Standard,4747.3150000000005,7,OTA,Leisure,No,February,Sunday,2026-02,False,33231.2,Advance
+HB9601,2025-03-29,11.0,Standard,5545.12,1,Direct Website,Business,No,March,Saturday,2025-03,False,5545.12,Short-Term
+HB9256,2025-04-24,18.0,Standard,3354.51,6,OTA,Leisure,No,April,Thursday,2025-04,False,20127.06,Short-Term
+HB5932,2025-03-14,29.0,Standard,4764.06,2,Direct Website,Leisure,No,March,Friday,2025-03,False,9528.12,Short-Term
+HB7814,2025-11-22,146.0,Suite,13124.55,3,Direct Website,Leisure,No,November,Saturday,2025-11,False,39373.65,Advance
+HB4576,2026-04-07,31.0,Standard,5766.81,5,Corporate,Business,No,April,Tuesday,2026-04,False,28834.05,Medium-Term
+HB7988,2026-01-07,112.0,Standard,4157.02,6,Direct Website,Leisure,No,January,Wednesday,2026-01,False,24942.12,Advance
+HB3555,2026-03-08,117.0,Standard,4465.07,5,Travel Agent,Leisure,No,March,Sunday,2026-03,False,22325.35,Advance
+HB2249,2026-09-11,146.0,Deluxe,8914.25,2,Direct Website,Leisure,No,September,Friday,2026-09,False,17828.5,Advance
+HB7862,2025-08-05,105.0,Suite,14339.12,4,Travel Agent,Leisure,No,August,Tuesday,2025-08,False,57356.48,Advance
+HB2734,2026-06-23,48.0,Standard,5687.77,1,Corporate,Business,No,June,Tuesday,2026-06,False,5687.77,Medium-Term
+HB9701,2026-02-21,62.0,Standard,4526.52,8,Direct Website,Leisure,No,February,Saturday,2026-02,False,36212.16,Medium-Term
+HB7741,2026-10-28,36.0,Deluxe,8970.02,6,Corporate,Leisure,No,October,Wednesday,2026-10,False,53820.12,Medium-Term
+HB7735,2025-05-13,91.0,Suite,34495.39,4,OTA,Leisure,Yes,May,Tuesday,2025-05,True,0.0,Advance
+HB2526,2026-04-16,10.0,Standard,5186.34,1,Corporate,Business,No,April,Thursday,2026-04,False,5186.34,Short-Term
+HB5833,2026-01-31,60.0,Standard,5072.56,10,Direct Website,Leisure,No,January,Saturday,2026-01,False,50725.6,Medium-Term
+HB3007,2026-09-03,22.0,Standard,5038.93,10,Direct Website,Leisure,No,September,Thursday,2026-09,False,50389.3,Short-Term
+HB5920,2026-03-01,53.0,Suite,14369.52,1,OTA,Business,No,March,Sunday,2026-03,False,14369.52,Medium-Term
+HB9277,2026-08-22,175.0,Standard,3823.36,4,Travel Agent,Leisure,No,August,Saturday,2026-08,False,15293.44,Advance
+HB9281,2026-10-26,65.0,Standard,4861.05,3,Direct Website,Leisure,No,October,Monday,2026-10,False,14583.15,Medium-Term
+HB2956,2026-01-22,168.0,Standard,5718.1,10,OTA,Leisure,Yes,January,Thursday,2026-01,True,0.0,Advance
+HB3167,2025-10-31,98.0,Standard,6487.29,2,OTA,Business,Yes,October,Friday,2025-10,True,0.0,Advance
+HB9020,2025-11-24,28.0,Deluxe,7326.18,3,OTA,Business,No,November,Monday,2025-11,False,21978.54,Short-Term
+HB2620,2025-07-20,180.0,Suite,10904.27,3,Travel Agent,Leisure,No,July,Sunday,2025-07,False,32712.81,Advance
+HB6214,2026-01-08,53.0,Deluxe,8658.12,4,Travel Agent,Leisure,Yes,January,Thursday,2026-01,True,0.0,Medium-Term
+HB9363,2025-09-10,32.0,Standard,3896.6,4,Corporate,Business,No,September,Wednesday,2025-09,False,15586.4,Medium-Term
+HB5214,2025-10-23,11.0,Deluxe,7723.91,3,Direct Website,Leisure,No,October,Thursday,2025-10,False,23171.73,Short-Term
+HB7915,2025-11-24,22.0,Standard,5152.89,3,Corporate,Business,No,November,Monday,2025-11,False,15458.67,Short-Term
+HB4995,2025-05-10,20.0,Standard,4746.91,3,Corporate,Business,No,May,Saturday,2025-05,False,14240.73,Short-Term
+HB7216,2026-06-16,34.0,Standard,5796.25,7,Travel Agent,Leisure,No,June,Tuesday,2026-06,False,40573.75,Medium-Term
+HB7637,2026-07-22,71.0,Deluxe,8170.72,2,Corporate,Business,No,July,Wednesday,2026-07,False,16341.44,Medium-Term
+HB2243,2025-12-26,30.0,Deluxe,9022.46,4,OTA,Leisure,No,December,Friday,2025-12,False,36089.84,Short-Term
+HB8520,2025-06-14,33.0,Standard,4747.3150000000005,9,Direct Website,Leisure,No,June,Saturday,2025-06,False,42725.84,Medium-Term
+HB8385,2026-10-04,94.0,Deluxe,8449.99,3,OTA,Leisure,No,October,Sunday,2026-10,False,25349.97,Advance
+HB8231,2026-01-05,31.0,Standard,4555.52,1,Travel Agent,Leisure,No,January,Monday,2026-01,False,4555.52,Medium-Term
+HB8117,2026-04-09,180.0,Deluxe,7713.59,1,OTA,Business,No,April,Thursday,2026-04,False,7713.59,Advance
+HB5770,2025-04-05,26.0,Standard,5784.76,6,Corporate,Business,No,April,Saturday,2025-04,False,34708.56,Short-Term
+HB7142,2026-05-11,43.0,Deluxe,7379.15,7,Direct Website,Leisure,No,May,Monday,2026-05,False,51654.05,Medium-Term
+HB4606,2026-04-21,135.0,Standard,4790.21,4,OTA,Leisure,Yes,April,Tuesday,2026-04,True,0.0,Advance
+HB8221,2026-10-15,126.0,Deluxe,9366.74,2,OTA,Business,Yes,October,Thursday,2026-10,True,0.0,Advance
+HB3880,2025-10-28,180.0,Standard,5891.27,2,OTA,Leisure,No,October,Tuesday,2025-10,False,11782.54,Advance
+HB5523,2025-10-15,73.0,Deluxe,8424.73,6,OTA,Leisure,Yes,October,Wednesday,2025-10,True,0.0,Medium-Term
+HB6508,2025-06-23,180.0,Standard,4663.87,1,OTA,Business,No,June,Monday,2025-06,False,4663.87,Advance
+HB5409,2025-03-26,70.0,Deluxe,7937.575000000001,5,Direct Website,Leisure,No,March,Wednesday,2025-03,False,39687.88,Medium-Term
+HB4104,2025-09-25,44.0,Deluxe,7392.85,7,Direct Website,Leisure,No,September,Thursday,2025-09,False,51749.95,Medium-Term
+HB2147,2025-06-15,20.0,Deluxe,7723.13,1,Corporate,Business,Yes,June,Sunday,2025-06,True,0.0,Short-Term
+HB6739,2025-10-03,16.0,Deluxe,9437.79,4,Direct Website,Leisure,No,October,Friday,2025-10,False,37751.16,Short-Term
+HB6070,2026-01-05,63.0,Deluxe,7591.99,1,Corporate,Business,No,January,Monday,2026-01,False,7591.99,Medium-Term
+HB2657,2025-09-09,93.0,Standard,3031.54,1,Travel Agent,Business,No,September,Tuesday,2025-09,False,3031.54,Advance
+HB2022,2026-10-23,56.0,Standard,4824.76,4,Direct Website,Leisure,No,October,Friday,2026-10,False,19299.04,Medium-Term
+HB6352,2026-05-07,64.0,Deluxe,8242.06,5,Direct Website,Leisure,No,May,Thursday,2026-05,False,41210.3,Medium-Term
+HB5595,2025-12-22,180.0,Standard,4831.66,4,Travel Agent,Leisure,Yes,December,Monday,2025-12,True,0.0,Advance
+HB7191,2026-10-17,47.0,Standard,5823.6,5,Direct Website,Leisure,No,October,Saturday,2026-10,False,29118.0,Medium-Term
+HB2193,2025-11-06,180.0,Standard,4318.29,1,OTA,Business,No,November,Thursday,2025-11,False,4318.29,Advance
+HB2827,2026-05-25,34.0,Standard,4169.83,3,OTA,Business,No,May,Monday,2026-05,False,12509.49,Medium-Term
+HB6691,2026-06-14,61.0,Suite,14398.57,2,Corporate,Business,No,June,Sunday,2026-06,False,28797.14,Medium-Term
+HB7241,2026-02-08,50.0,Standard,3776.05,3,Corporate,Business,No,February,Sunday,2026-02,False,11328.15,Medium-Term
+HB5442,2025-09-17,17.0,Standard,4623.59,4,Direct Website,Leisure,No,September,Wednesday,2025-09,False,18494.36,Short-Term
+HB7838,2025-10-12,81.0,Standard,5287.05,10,Travel Agent,Leisure,No,October,Sunday,2025-10,False,52870.5,Medium-Term
+HB5472,2026-09-11,180.0,Standard,4901.89,8,OTA,Leisure,No,September,Friday,2026-09,False,39215.12,Advance
+HB8196,2025-05-06,137.0,Deluxe,7354.48,1,OTA,Business,No,May,Tuesday,2025-05,False,7354.48,Advance
+HB4799,2026-08-23,145.0,Standard,3505.8,2,Travel Agent,Leisure,No,August,Sunday,2026-08,False,7011.6,Advance
+HB3857,2025-11-27,29.0,Standard,5379.43,3,OTA,Business,No,November,Thursday,2025-11,False,16138.29,Short-Term
+HB4951,2025-09-27,52.0,Deluxe,8292.74,3,Corporate,Business,No,September,Saturday,2025-09,False,24878.22,Medium-Term
+HB2318,2026-10-24,180.0,Suite,14770.03,5,Travel Agent,Leisure,No,October,Saturday,2026-10,False,73850.15,Advance
+HB2429,2026-08-04,115.0,Standard,3520.93,2,OTA,Business,No,August,Tuesday,2026-08,False,7041.86,Advance
+HB2304,2026-06-06,50.0,Suite,14015.31,1,Corporate,Business,Yes,June,Saturday,2026-06,True,0.0,Medium-Term
+HB5559,2025-08-09,35.0,Deluxe,7806.98,2,OTA,Leisure,No,August,Saturday,2025-08,False,15613.96,Medium-Term
+HB8720,2025-11-10,67.0,Deluxe,8240.68,4,OTA,Leisure,Yes,November,Monday,2025-11,True,0.0,Medium-Term
+HB5014,2026-03-12,28.0,Standard,4516.21,1,Corporate,Business,No,March,Thursday,2026-03,False,4516.21,Short-Term
+HB2305,2026-05-13,180.0,Standard,4340.46,6,OTA,Leisure,Yes,May,Wednesday,2026-05,True,0.0,Advance
+HB5389,2025-07-28,149.0,Standard,4239.9,5,Travel Agent,Business,No,July,Monday,2025-07,False,21199.5,Advance
+HB7035,2025-08-29,109.0,Standard,4714.12,4,OTA,Leisure,No,August,Friday,2025-08,False,18856.48,Advance
+HB2441,2026-10-03,5.0,Deluxe,8972.46,1,Corporate,Business,No,October,Saturday,2026-10,False,8972.46,Last-Minute
+HB3103,2025-07-01,91.0,Standard,3290.37,4,OTA,Leisure,Yes,July,Tuesday,2025-07,True,0.0,Advance
+HB7262,2025-03-16,21.0,Deluxe,7157.06,4,Corporate,Business,No,March,Sunday,2025-03,False,28628.24,Short-Term
+HB3781,2026-05-13,36.0,Standard,4890.2,5,OTA,Leisure,Yes,May,Wednesday,2026-05,True,0.0,Medium-Term
+HB6936,2026-03-22,80.0,Standard,3238.22,3,OTA,Business,No,March,Sunday,2026-03,False,9714.66,Medium-Term
+HB3922,2026-07-21,124.0,Suite,11025.97,1,Travel Agent,Business,No,July,Tuesday,2026-07,False,11025.97,Advance
+HB7111,2026-01-10,180.0,Standard,5959.92,5,Travel Agent,Leisure,Yes,January,Saturday,2026-01,True,0.0,Advance
+HB7774,2025-09-17,74.0,Deluxe,7608.32,2,Direct Website,Leisure,No,September,Wednesday,2025-09,False,15216.64,Medium-Term
+HB2223,2025-05-23,89.0,Standard,4474.16,3,OTA,Business,No,May,Friday,2025-05,False,13422.48,Medium-Term
+HB5088,2026-10-18,109.0,Standard,4620.36,2,OTA,Business,Yes,October,Sunday,2026-10,True,0.0,Advance
+HB5547,2025-04-21,67.0,Suite,13882.75,5,Travel Agent,Leisure,No,April,Monday,2025-04,False,69413.75,Medium-Term
+HB2952,2026-06-24,52.0,Deluxe,8058.44,3,OTA,Leisure,No,June,Wednesday,2026-06,False,24175.32,Medium-Term
+HB2069,2025-12-07,29.0,Standard,6258.89,4,OTA,Leisure,No,December,Sunday,2025-12,False,25035.56,Short-Term
+HB2009,2025-09-16,51.0,Standard,4151.84,4,Travel Agent,Leisure,No,September,Tuesday,2025-09,False,16607.36,Medium-Term
+HB9785,2025-07-06,70.0,Suite,14103.82,9,Direct Website,Leisure,Yes,July,Sunday,2025-07,True,0.0,Medium-Term
+HB9981,2025-12-31,19.0,Deluxe,10685.24,3,Corporate,Business,No,December,Wednesday,2025-12,False,32055.72,Short-Term
+HB5864,2026-08-10,38.0,Standard,4241.42,3,Corporate,Business,Yes,August,Monday,2026-08,True,0.0,Medium-Term
+HB6777,2025-04-05,59.0,Deluxe,5946.32,4,Direct Website,Leisure,No,April,Saturday,2025-04,False,23785.28,Medium-Term
+HB3641,2026-05-21,23.0,Suite,13843.48,4,Corporate,Business,No,May,Thursday,2026-05,False,55373.92,Short-Term
+HB2572,2025-07-03,25.0,Deluxe,6407.1,7,Direct Website,Leisure,No,July,Thursday,2025-07,False,44849.7,Short-Term
+HB8058,2025-11-13,116.0,Standard,4751.7,4,OTA,Leisure,Yes,November,Thursday,2025-11,True,0.0,Advance
+HB4980,2025-10-16,12.0,Standard,6211.03,7,Direct Website,Leisure,No,October,Thursday,2025-10,False,43477.21,Short-Term
+HB3685,2026-08-12,93.0,Deluxe,6326.29,3,Travel Agent,Leisure,No,August,Wednesday,2026-08,False,18978.87,Advance
+HB3853,2026-06-14,48.0,Standard,6005.19,4,Corporate,Business,No,June,Sunday,2026-06,False,24020.76,Medium-Term
+HB9170,2025-10-31,96.0,Standard,6235.47,4,Direct Website,Leisure,No,October,Friday,2025-10,False,24941.88,Advance
+HB8662,2026-05-15,27.0,Deluxe,9375.04,9,OTA,Leisure,No,May,Friday,2026-05,False,84375.36,Short-Term
+HB7377,2025-03-24,111.0,Standard,5892.76,10,OTA,Leisure,Yes,March,Monday,2025-03,True,0.0,Advance
+HB5917,2025-08-01,22.0,Standard,4256.87,1,OTA,Leisure,Yes,August,Friday,2025-08,True,0.0,Short-Term
+HB9144,2025-07-09,19.0,Standard,3721.28,8,OTA,Leisure,No,July,Wednesday,2025-07,False,29770.24,Short-Term
+HB4701,2026-07-30,70.0,Deluxe,5648.64,2,Travel Agent,Leisure,No,July,Thursday,2026-07,False,11297.28,Medium-Term
+HB7426,2025-12-19,119.0,Standard,5519.51,2,OTA,Leisure,Yes,December,Friday,2025-12,True,0.0,Advance
+HB2509,2026-04-23,65.0,Deluxe,7927.93,7,OTA,Leisure,No,April,Thursday,2026-04,False,55495.51,Medium-Term
+HB2720,2025-09-30,83.0,Standard,4648.83,4,Travel Agent,Leisure,No,September,Tuesday,2025-09,False,18595.32,Medium-Term
+HB3064,2026-02-23,87.0,Deluxe,7233.51,1,OTA,Business,Yes,February,Monday,2026-02,True,0.0,Medium-Term
+HB7999,2026-02-11,157.0,Standard,3162.13,1,OTA,Business,No,February,Wednesday,2026-02,False,3162.13,Advance
+HB9123,2025-06-06,21.0,Standard,5040.32,2,Corporate,Business,No,June,Friday,2025-06,False,10080.64,Short-Term
+HB5226,2026-01-01,180.0,Standard,4568.69,2,Travel Agent,Leisure,No,January,Thursday,2026-01,False,9137.38,Advance
+HB8381,2026-01-25,74.0,Deluxe,7784.09,3,Direct Website,Leisure,No,January,Sunday,2026-01,False,23352.27,Medium-Term
+HB7349,2025-11-26,84.0,Suite,10802.39,2,Travel Agent,Leisure,Yes,November,Wednesday,2025-11,True,0.0,Medium-Term
+HB7009,2026-01-28,120.0,Standard,4835.03,5,Travel Agent,Business,No,January,Wednesday,2026-01,False,24175.15,Advance
+HB9407,2025-11-09,49.0,Deluxe,7735.92,3,Travel Agent,Leisure,No,November,Sunday,2025-11,False,23207.76,Medium-Term
+HB2480,2026-10-23,32.0,Deluxe,10295.92,3,OTA,Business,No,October,Friday,2026-10,False,30887.76,Medium-Term
+HB9528,2025-08-26,4.0,Deluxe,8766.32,3,Corporate,Business,No,August,Tuesday,2025-08,False,26298.96,Last-Minute
+HB6640,2025-04-13,11.0,Deluxe,7546.09,1,Direct Website,Business,No,April,Sunday,2025-04,False,7546.09,Short-Term
+HB4851,2026-09-27,11.0,Suite,9724.38,3,Corporate,Leisure,No,September,Sunday,2026-09,False,29173.14,Short-Term
+HB4119,2025-04-01,30.0,Standard,6594.42,6,Direct Website,Leisure,No,April,Tuesday,2025-04,False,39566.52,Short-Term
+HB8103,2026-08-10,38.0,Standard,3890.97,6,Travel Agent,Leisure,No,August,Monday,2026-08,False,23345.82,Medium-Term
+HB7226,2026-10-28,14.0,Standard,4486.4,2,Corporate,Business,No,October,Wednesday,2026-10,False,8972.8,Short-Term
+HB4736,2025-04-14,18.0,Standard,5161.51,2,Direct Website,Leisure,No,April,Monday,2025-04,False,10323.02,Short-Term
+HB4100,2025-10-17,78.0,Deluxe,6600.39,5,OTA,Leisure,No,October,Friday,2025-10,False,33001.95,Medium-Term
+HB6565,2025-08-24,9.0,Standard,5280.63,4,OTA,Leisure,Yes,August,Sunday,2025-08,True,0.0,Short-Term
+HB7885,2025-12-01,27.0,Standard,4747.3150000000005,2,Corporate,Business,No,December,Monday,2025-12,False,9494.63,Short-Term
+HB7606,2025-05-06,47.0,Standard,4273.27,3,Travel Agent,Business,No,May,Tuesday,2025-05,False,12819.81,Medium-Term
+HB6013,2025-12-05,49.0,Standard,5420.38,3,Direct Website,Business,No,December,Friday,2025-12,False,16261.14,Medium-Term
+HB7824,2025-03-09,86.0,Standard,4884.55,4,Travel Agent,Business,No,March,Sunday,2025-03,False,19538.2,Medium-Term
+HB4549,2025-12-24,43.0,Deluxe,8466.48,7,Corporate,Business,No,December,Wednesday,2025-12,False,59265.36,Medium-Term
+HB2653,2025-06-08,180.0,Deluxe,7540.17,4,OTA,Business,Yes,June,Sunday,2025-06,True,0.0,Advance
+HB7403,2025-10-23,64.0,Deluxe,10243.42,9,Direct Website,Leisure,No,October,Thursday,2025-10,False,92190.78,Medium-Term
+HB8724,2025-09-11,65.0,Standard,4401.32,5,OTA,Leisure,Yes,September,Thursday,2025-09,True,0.0,Medium-Term
+HB5971,2025-11-11,95.0,Standard,3424.52,5,Travel Agent,Leisure,No,November,Tuesday,2025-11,False,17122.6,Advance
+HB6154,2025-09-02,38.0,Standard,4967.37,2,OTA,Business,Yes,September,Tuesday,2025-09,True,0.0,Medium-Term
+HB2887,2025-05-16,130.0,Deluxe,8971.47,7,OTA,Leisure,Yes,May,Friday,2025-05,True,0.0,Advance
+HB7552,2025-09-05,122.0,Deluxe,5191.1,3,Travel Agent,Leisure,Yes,September,Friday,2025-09,True,0.0,Advance
+HB4816,2025-10-22,53.0,Standard,6519.07,4,OTA,Leisure,No,October,Wednesday,2025-10,False,26076.28,Medium-Term
+HB3069,2025-12-03,141.0,Standard,4317.72,3,Direct Website,Leisure,No,December,Wednesday,2025-12,False,12953.16,Advance
+HB5827,2025-07-13,54.0,Standard,4802.81,3,Corporate,Business,No,July,Sunday,2025-07,False,14408.43,Medium-Term
+HB6619,2026-01-08,180.0,Standard,4703.8,6,OTA,Leisure,Yes,January,Thursday,2026-01,True,0.0,Advance
+HB8210,2025-05-09,111.0,Suite,14433.1,1,OTA,Leisure,No,May,Friday,2025-05,False,14433.1,Advance
+HB5376,2026-07-22,180.0,Standard,3545.75,5,Direct Website,Leisure,No,July,Wednesday,2026-07,False,17728.75,Advance
+HB9330,2026-06-08,21.0,Standard,4444.69,2,Corporate,Business,No,June,Monday,2026-06,False,8889.38,Short-Term
+HB8377,2026-01-31,145.0,Deluxe,7805.64,3,Travel Agent,Leisure,No,January,Saturday,2026-01,False,23416.92,Advance
+HB6506,2026-01-26,104.0,Standard,3495.87,2,Corporate,Business,No,January,Monday,2026-01,False,6991.74,Advance
+HB8873,2025-11-24,42.0,Standard,4747.72,3,Direct Website,Leisure,No,November,Monday,2025-11,False,14243.16,Medium-Term
+HB5652,2026-06-12,119.0,Standard,4378.27,9,Direct Website,Leisure,No,June,Friday,2026-06,False,39404.43,Advance
+HB7432,2025-05-10,122.0,Deluxe,8804.03,5,OTA,Leisure,Yes,May,Saturday,2025-05,True,0.0,Advance
+HB6688,2026-01-11,31.0,Deluxe,7989.5,5,Travel Agent,Leisure,No,January,Sunday,2026-01,False,39947.5,Medium-Term
+HB7755,2026-05-23,58.0,Deluxe,9570.73,4,Travel Agent,Leisure,No,May,Saturday,2026-05,False,38282.92,Medium-Term
+HB5486,2025-07-02,93.0,Suite,9572.31,9,OTA,Leisure,No,July,Wednesday,2025-07,False,86150.79,Advance
+HB2021,2026-06-25,146.0,Deluxe,7225.61,4,Travel Agent,Business,Yes,June,Thursday,2026-06,True,0.0,Advance
+HB7297,2025-09-13,17.0,Suite,13436.72,1,Direct Website,Business,Yes,September,Saturday,2025-09,True,0.0,Short-Term
+HB3444,2026-09-01,180.0,Deluxe,6421.64,1,Travel Agent,Business,No,September,Tuesday,2026-09,False,6421.64,Advance
+HB7146,2025-09-03,153.0,Suite,9510.35,2,Direct Website,Business,No,September,Wednesday,2025-09,False,19020.7,Advance
+HB6229,2025-07-23,98.0,Suite,12723.15,8,OTA,Leisure,No,July,Wednesday,2025-07,False,101785.2,Advance
+HB9127,2026-03-18,32.0,Standard,3145.64,1,Corporate,Business,No,March,Wednesday,2026-03,False,3145.64,Medium-Term
+HB4740,2025-11-10,49.0,Standard,4747.3150000000005,4,Travel Agent,Business,No,November,Monday,2025-11,False,18989.26,Medium-Term
+HB5148,2025-10-18,60.0,Deluxe,9180.81,2,OTA,Business,No,October,Saturday,2025-10,False,18361.62,Medium-Term
+HB7407,2026-04-21,38.0,Deluxe,8323.03,1,Travel Agent,Business,No,April,Tuesday,2026-04,False,8323.03,Medium-Term
+HB4138,2025-06-05,109.0,Suite,10598.1,6,Travel Agent,Leisure,No,June,Thursday,2025-06,False,63588.6,Advance
+HB9026,2026-04-15,15.0,Deluxe,8907.79,3,Corporate,Business,No,April,Wednesday,2026-04,False,26723.37,Short-Term
+HB7587,2025-12-03,62.0,Deluxe,7865.56,2,OTA,Leisure,No,December,Wednesday,2025-12,False,15731.12,Medium-Term
+HB7453,2026-01-17,168.0,Standard,5260.76,1,Travel Agent,Business,No,January,Saturday,2026-01,False,5260.76,Advance
+HB2597,2026-10-24,140.0,Suite,15447.3,2,Direct Website,Business,No,October,Saturday,2026-10,False,30894.6,Advance
+HB9135,2025-04-01,16.0,Deluxe,7153.09,2,Corporate,Business,No,April,Tuesday,2025-04,False,14306.18,Short-Term
+HB9257,2025-12-29,32.0,Standard,5068.12,6,OTA,Leisure,No,December,Monday,2025-12,False,30408.72,Medium-Term
+HB6630,2026-09-12,180.0,Standard,6204.01,7,Travel Agent,Leisure,No,September,Saturday,2026-09,False,43428.07,Advance
+HB9758,2025-06-06,33.0,Suite,14649.44,1,Corporate,Business,No,June,Friday,2025-06,False,14649.44,Medium-Term
+HB5769,2025-03-26,91.0,Standard,4440.65,1,Direct Website,Business,No,March,Wednesday,2025-03,False,4440.65,Advance
+HB7981,2025-10-26,34.0,Standard,5060.39,1,Corporate,Business,No,October,Sunday,2025-10,False,5060.39,Medium-Term
+HB4744,2026-10-13,24.0,Standard,4212.69,2,Corporate,Business,No,October,Tuesday,2026-10,False,8425.38,Short-Term
+HB8145,2026-03-23,21.0,Standard,4491.85,2,Travel Agent,Business,No,March,Monday,2026-03,False,8983.7,Short-Term
+HB9774,2026-10-29,37.0,Deluxe,8827.92,3,Direct Website,Business,Yes,October,Thursday,2026-10,True,0.0,Medium-Term
+HB8896,2026-07-26,14.0,Standard,4376.81,2,Corporate,Business,No,July,Sunday,2026-07,False,8753.62,Short-Term
+HB7420,2026-03-18,68.0,Suite,13072.01,5,Direct Website,Leisure,No,March,Wednesday,2026-03,False,65360.05,Medium-Term
+HB2669,2026-03-10,8.0,Deluxe,8328.39,3,Travel Agent,Leisure,No,March,Tuesday,2026-03,False,24985.17,Short-Term
+HB3314,2025-06-19,26.0,Deluxe,9537.45,3,Corporate,Business,No,June,Thursday,2025-06,False,28612.35,Short-Term
+HB7526,2025-10-21,68.0,Standard,6596.71,3,OTA,Leisure,Yes,October,Tuesday,2025-10,True,0.0,Medium-Term
+HB6514,2025-07-16,65.0,Standard,4037.73,3,OTA,Leisure,No,July,Wednesday,2025-07,False,12113.19,Medium-Term
+HB8621,2026-04-06,28.0,Standard,5733.13,1,Corporate,Business,No,April,Monday,2026-04,False,5733.13,Short-Term
+HB2323,2025-09-09,90.0,Standard,4244.46,4,Travel Agent,Leisure,No,September,Tuesday,2025-09,False,16977.84,Medium-Term
+HB3334,2026-03-30,26.0,Standard,4292.93,1,Travel Agent,Leisure,No,March,Monday,2026-03,False,4292.93,Short-Term
+HB7431,2025-12-04,22.0,Suite,13748.64,9,Direct Website,Leisure,No,December,Thursday,2025-12,False,123737.76,Short-Term
+HB2743,2026-02-09,55.0,Standard,4060.01,1,Corporate,Business,No,February,Monday,2026-02,False,4060.01,Medium-Term
+HB9541,2025-09-25,141.0,Standard,4423.98,4,Direct Website,Leisure,No,September,Thursday,2025-09,False,17695.92,Advance
+HB5150,2025-04-02,32.0,Standard,5476.89,1,Travel Agent,Business,No,April,Wednesday,2025-04,False,5476.89,Medium-Term
+HB2160,2026-04-10,59.0,Standard,4519.42,7,OTA,Leisure,No,April,Friday,2026-04,False,31635.94,Medium-Term
+HB6007,2026-10-01,180.0,Standard,4582.99,4,Travel Agent,Leisure,No,October,Thursday,2026-10,False,18331.96,Advance
+HB6471,2025-05-24,36.0,Standard,4656.91,3,Corporate,Leisure,No,May,Saturday,2025-05,False,13970.73,Medium-Term
+HB7444,2026-05-18,17.0,Standard,6876.65,1,Corporate,Business,No,May,Monday,2026-05,False,6876.65,Short-Term
+HB5767,2025-06-14,9.0,Standard,6289.49,5,Direct Website,Business,No,June,Saturday,2025-06,False,31447.45,Short-Term
+HB2781,2025-04-05,76.0,Standard,4913.86,7,Travel Agent,Leisure,No,April,Saturday,2025-04,False,34397.02,Medium-Term
+HB5533,2026-08-25,91.0,Deluxe,5195.51,1,OTA,Business,No,August,Tuesday,2026-08,False,5195.51,Advance
+HB6110,2026-04-04,102.0,Standard,4467.16,1,Corporate,Business,No,April,Saturday,2026-04,False,4467.16,Advance
+HB3044,2026-10-05,119.0,Standard,5524.7,8,Direct Website,Leisure,No,October,Monday,2026-10,False,44197.6,Advance
+HB4957,2025-05-03,84.0,Standard,4463.89,3,Travel Agent,Leisure,No,May,Saturday,2025-05,False,13391.67,Medium-Term
+HB4900,2026-09-26,16.0,Suite,9210.63,3,Direct Website,Leisure,No,September,Saturday,2026-09,False,27631.89,Short-Term
+HB7548,2026-07-30,26.0,Standard,5941.95,5,Corporate,Business,No,July,Thursday,2026-07,False,29709.75,Short-Term
+HB6029,2025-07-19,67.0,Deluxe,5424.79,2,Travel Agent,Leisure,No,July,Saturday,2025-07,False,10849.58,Medium-Term
+HB2234,2026-08-10,91.0,Deluxe,6448.86,5,OTA,Leisure,No,August,Monday,2026-08,False,32244.3,Advance
+HB3402,2025-11-20,180.0,Deluxe,6623.79,5,OTA,Leisure,Yes,November,Thursday,2025-11,True,0.0,Advance
+HB9647,2025-07-15,180.0,Standard,3122.29,3,Travel Agent,Leisure,No,July,Tuesday,2025-07,False,9366.87,Advance
+HB4612,2026-10-15,89.0,Standard,4486.9,7,Travel Agent,Leisure,No,October,Thursday,2026-10,False,31408.3,Medium-Term
+HB2521,2025-11-20,71.0,Standard,3895.39,8,OTA,Leisure,No,November,Thursday,2025-11,False,31163.12,Medium-Term
+HB3170,2026-10-07,15.0,Deluxe,8596.29,4,Direct Website,Leisure,No,October,Wednesday,2026-10,False,34385.16,Short-Term
+HB5591,2025-12-09,22.0,Deluxe,7719.99,5,OTA,Leisure,No,December,Tuesday,2025-12,False,38599.95,Short-Term
+HB3448,2025-12-25,31.0,Deluxe,9982.98,4,Direct Website,Business,No,December,Thursday,2025-12,False,39931.92,Medium-Term
+HB2948,2025-07-12,33.0,Deluxe,7102.74,3,Direct Website,Business,No,July,Saturday,2025-07,False,21308.22,Medium-Term
+HB6410,2026-06-20,175.0,Standard,4498.54,3,Travel Agent,Leisure,Yes,June,Saturday,2026-06,True,0.0,Advance
+HB7553,2026-07-08,34.0,Suite,13413.53,5,Travel Agent,Leisure,No,July,Wednesday,2026-07,False,67067.65,Medium-Term
+HB4625,2025-05-08,4.0,Deluxe,9143.35,7,Direct Website,Leisure,No,May,Thursday,2025-05,False,64003.45,Last-Minute
+HB9269,2025-04-07,67.0,Standard,4826.08,3,Direct Website,Leisure,No,April,Monday,2025-04,False,14478.24,Medium-Term
+HB3169,2026-04-27,180.0,Standard,5259.77,4,Direct Website,Leisure,No,April,Monday,2026-04,False,21039.08,Advance
+HB5434,2026-09-03,126.0,Deluxe,7719.22,3,OTA,Leisure,No,September,Thursday,2026-09,False,23157.66,Advance
+HB7762,2025-04-06,48.0,Standard,4710.12,1,Corporate,Business,No,April,Sunday,2025-04,False,4710.12,Medium-Term
+HB7647,2025-12-01,30.0,Suite,14972.14,3,OTA,Leisure,No,December,Monday,2025-12,False,44916.42,Short-Term
+HB6350,2025-12-14,37.0,Standard,7034.64,2,Direct Website,Leisure,No,December,Sunday,2025-12,False,14069.28,Medium-Term
+HB7928,2025-12-18,28.0,Standard,6026.4,3,Corporate,Business,No,December,Thursday,2025-12,False,18079.2,Short-Term
+HB2866,2025-05-11,51.0,Deluxe,9929.7,3,Corporate,Business,No,May,Sunday,2025-05,False,29789.1,Medium-Term
+HB8758,2026-10-15,69.0,Suite,14265.49,5,Direct Website,Leisure,No,October,Thursday,2026-10,False,71327.45,Medium-Term
+HB6595,2025-05-24,63.0,Suite,10796.32,3,OTA,Leisure,No,May,Saturday,2025-05,False,32388.96,Medium-Term
+HB8899,2025-09-11,41.0,Standard,4615.7,1,Travel Agent,Business,No,September,Thursday,2025-09,False,4615.7,Medium-Term
+HB5168,2025-12-25,71.0,Deluxe,8447.81,6,Direct Website,Leisure,Yes,December,Thursday,2025-12,True,0.0,Medium-Term
+HB6210,2025-11-24,62.0,Suite,12626.78,6,Travel Agent,Leisure,No,November,Monday,2025-11,False,75760.68,Medium-Term
+HB6434,2025-09-16,180.0,Standard,5074.67,2,OTA,Business,No,September,Tuesday,2025-09,False,10149.34,Advance
+HB2404,2026-08-25,72.0,Standard,3742.29,2,Corporate,Business,No,August,Tuesday,2026-08,False,7484.58,Medium-Term
+HB3251,2025-04-13,13.0,Suite,12417.98,1,Corporate,Business,No,April,Sunday,2025-04,False,12417.98,Short-Term
+HB7604,2025-06-29,52.0,Standard,4318.5,2,OTA,Business,No,June,Sunday,2025-06,False,8637.0,Medium-Term
+HB3299,2025-08-30,69.0,Standard,5156.79,2,Corporate,Business,No,August,Saturday,2025-08,False,10313.58,Medium-Term
+HB7939,2025-10-17,122.0,Deluxe,8082.85,7,OTA,Leisure,No,October,Friday,2025-10,False,56579.95,Advance
+HB5167,2026-06-13,54.0,Standard,5911.16,8,Direct Website,Leisure,No,June,Saturday,2026-06,False,47289.28,Medium-Term
+HB3932,2025-04-17,164.0,Standard,5737.47,5,OTA,Leisure,Yes,April,Thursday,2025-04,True,0.0,Advance
+HB6146,2025-09-27,34.0,Standard,3488.98,1,Corporate,Business,No,September,Saturday,2025-09,False,3488.98,Medium-Term
+HB3703,2025-03-02,14.0,Deluxe,9143.91,4,OTA,Leisure,No,March,Sunday,2025-03,False,36575.64,Short-Term
+HB6038,2026-03-26,136.0,Standard,4829.18,6,Direct Website,Leisure,No,March,Thursday,2026-03,False,28975.08,Advance
+HB9197,2026-04-23,11.0,Suite,11376.92,6,Direct Website,Business,No,April,Thursday,2026-04,False,68261.52,Short-Term
+HB6915,2026-10-03,43.0,Standard,6082.75,3,OTA,Leisure,No,October,Saturday,2026-10,False,18248.25,Medium-Term
+HB2120,2026-06-22,180.0,Standard,5199.5,5,OTA,Leisure,No,June,Monday,2026-06,False,25997.5,Advance
+HB9219,2025-12-30,66.0,Standard,4566.35,2,Travel Agent,Business,No,December,Tuesday,2025-12,False,9132.7,Medium-Term
+HB7503,2025-11-11,100.0,Suite,11901.58,8,Travel Agent,Leisure,No,November,Tuesday,2025-11,False,95212.64,Advance
+HB8492,2026-10-25,42.0,Deluxe,9091.91,5,Direct Website,Leisure,No,October,Sunday,2026-10,False,45459.55,Medium-Term
+HB6458,2025-04-15,24.0,Deluxe,8787.41,3,Direct Website,Leisure,No,April,Tuesday,2025-04,False,26362.23,Short-Term
+HB5745,2026-04-11,86.0,Standard,4881.59,4,Travel Agent,Leisure,No,April,Saturday,2026-04,False,19526.36,Medium-Term
+HB4713,2025-05-18,57.0,Standard,5917.96,1,Direct Website,Leisure,No,May,Sunday,2025-05,False,5917.96,Medium-Term
+HB2944,2026-02-01,20.0,Standard,3526.08,5,Direct Website,Business,No,February,Sunday,2026-02,False,17630.4,Short-Term
+HB8635,2026-05-14,170.0,Deluxe,7980.13,7,OTA,Leisure,No,May,Thursday,2026-05,False,55860.91,Advance
+HB3825,2026-09-16,20.0,Deluxe,6037.77,2,OTA,Business,No,September,Wednesday,2026-09,False,12075.54,Short-Term
+HB4023,2025-10-23,21.0,Standard,4933.04,2,Travel Agent,Business,Yes,October,Thursday,2025-10,True,0.0,Short-Term
+HB8904,2026-03-21,123.0,Deluxe,7204.72,2,OTA,Business,Yes,March,Saturday,2026-03,True,0.0,Advance
+HB4520,2025-06-30,116.0,Deluxe,8417.94,5,OTA,Leisure,No,June,Monday,2025-06,False,42089.7,Advance
+HB8722,2026-05-29,9.0,Standard,5860.29,2,Corporate,Leisure,Yes,May,Friday,2026-05,True,0.0,Short-Term
+HB3192,2025-10-28,88.0,Deluxe,7635.14,4,Travel Agent,Leisure,No,October,Tuesday,2025-10,False,30540.56,Medium-Term
+HB5964,2025-04-02,27.0,Deluxe,8311.01,6,Corporate,Business,No,April,Wednesday,2025-04,False,49866.06,Short-Term
+HB2519,2026-06-28,48.0,Standard,4659.11,5,Travel Agent,Leisure,No,June,Sunday,2026-06,False,23295.55,Medium-Term
+HB9532,2026-06-10,180.0,Deluxe,8425.59,4,Direct Website,Leisure,No,June,Wednesday,2026-06,False,33702.36,Advance
+HB4596,2026-06-30,65.0,Suite,9945.26,7,Direct Website,Leisure,No,June,Tuesday,2026-06,False,69616.82,Medium-Term
+HB8022,2026-01-02,92.0,Standard,4961.14,2,Corporate,Business,No,January,Friday,2026-01,False,9922.28,Advance
+HB4186,2025-10-22,57.0,Standard,5454.21,1,OTA,Leisure,No,October,Wednesday,2025-10,False,5454.21,Medium-Term
+HB6867,2025-04-06,44.0,Deluxe,8021.68,3,Direct Website,Leisure,No,April,Sunday,2025-04,False,24065.04,Medium-Term
+HB2195,2025-11-23,180.0,Standard,4222.39,5,OTA,Leisure,Yes,November,Sunday,2025-11,True,0.0,Advance
+HB6083,2026-09-30,8.0,Standard,4392.06,2,Corporate,Leisure,No,September,Wednesday,2026-09,False,8784.12,Short-Term
+HB7767,2025-12-11,63.0,Standard,3681.61,6,Direct Website,Leisure,No,December,Thursday,2025-12,False,22089.66,Medium-Term
+HB5221,2026-01-12,124.0,Standard,4577.14,4,Direct Website,Leisure,Yes,January,Monday,2026-01,True,0.0,Advance
+HB4117,2026-10-27,180.0,Standard,5332.75,3,OTA,Business,No,October,Tuesday,2026-10,False,15998.25,Advance
+HB3975,2026-06-15,12.0,Standard,5791.07,1,Corporate,Business,No,June,Monday,2026-06,False,5791.07,Short-Term
+HB9222,2026-06-22,10.0,Standard,4096.48,3,Travel Agent,Leisure,No,June,Monday,2026-06,False,12289.44,Short-Term
+HB2897,2026-03-03,124.0,Standard,4717.71,3,OTA,Leisure,Yes,March,Tuesday,2026-03,True,0.0,Advance
+HB9174,2025-09-30,20.0,Deluxe,6930.35,1,OTA,Business,No,September,Tuesday,2025-09,False,6930.35,Short-Term
+HB2634,2026-06-16,46.0,Standard,4901.83,3,Corporate,Business,No,June,Tuesday,2026-06,False,14705.49,Medium-Term
+HB5011,2026-02-21,91.0,Standard,4830.1,1,OTA,Business,No,February,Saturday,2026-02,False,4830.1,Advance
+HB2813,2026-09-27,33.0,Deluxe,8514.72,4,Travel Agent,Leisure,No,September,Sunday,2026-09,False,34058.88,Medium-Term
+HB4849,2025-10-16,5.0,Deluxe,7940.59,2,Corporate,Business,No,October,Thursday,2025-10,False,15881.18,Last-Minute
+HB6621,2026-05-13,7.0,Standard,6329.47,4,Corporate,Business,No,May,Wednesday,2026-05,False,25317.88,Last-Minute
+HB2794,2026-10-22,57.0,Deluxe,6776.26,3,Direct Website,Business,No,October,Thursday,2026-10,False,20328.78,Medium-Term
+HB9267,2026-01-28,127.0,Standard,4318.23,2,OTA,Leisure,No,January,Wednesday,2026-01,False,8636.46,Advance
+HB7582,2025-04-04,180.0,Standard,4807.3,5,Travel Agent,Leisure,No,April,Friday,2025-04,False,24036.5,Advance
+HB9972,2026-06-10,18.0,Suite,14975.74,2,Direct Website,Business,No,June,Wednesday,2026-06,False,29951.48,Short-Term
+HB4371,2026-10-02,97.0,Standard,3603.89,4,Direct Website,Leisure,No,October,Friday,2026-10,False,14415.56,Advance
+HB4252,2025-05-05,17.0,Deluxe,9295.39,1,Corporate,Business,No,May,Monday,2025-05,False,9295.39,Short-Term
+HB2488,2025-09-07,15.0,Suite,11008.89,1,Corporate,Business,No,September,Sunday,2025-09,False,11008.89,Short-Term
+HB5065,2025-06-03,41.0,Standard,4603.54,2,Travel Agent,Business,No,June,Tuesday,2025-06,False,9207.08,Medium-Term
+HB4489,2026-08-26,36.0,Standard,4425.31,1,Travel Agent,Leisure,No,August,Wednesday,2026-08,False,4425.31,Medium-Term
+HB8994,2026-08-22,124.0,Standard,4621.44,3,Direct Website,Leisure,Yes,August,Saturday,2026-08,True,0.0,Advance
+HB9010,2025-09-11,165.0,Deluxe,8043.07,4,OTA,Leisure,Yes,September,Thursday,2025-09,True,0.0,Advance
+HB9754,2025-05-23,47.0,Deluxe,9160.72,5,Travel Agent,Leisure,No,May,Friday,2025-05,False,45803.6,Medium-Term
+HB7320,2025-08-19,99.0,Suite,9607.74,3,Travel Agent,Leisure,No,August,Tuesday,2025-08,False,28823.22,Advance
+HB5306,2025-08-10,81.0,Suite,11609.91,5,Travel Agent,Business,Yes,August,Sunday,2025-08,True,0.0,Medium-Term
+HB3113,2026-08-25,91.0,Suite,14614.76,4,OTA,Leisure,Yes,August,Tuesday,2026-08,True,0.0,Advance
+HB9561,2025-06-29,14.0,Deluxe,8558.28,1,OTA,Leisure,No,June,Sunday,2025-06,False,8558.28,Short-Term
+HB8349,2026-10-06,180.0,Standard,5445.31,2,Direct Website,Leisure,Yes,October,Tuesday,2026-10,True,0.0,Advance
+HB4009,2025-11-26,99.0,Suite,11316.46,3,Travel Agent,Business,Yes,November,Wednesday,2025-11,True,0.0,Advance
+HB3080,2026-08-11,180.0,Suite,10875.79,2,Direct Website,Business,No,August,Tuesday,2026-08,False,21751.58,Advance
+HB2348,2025-09-08,140.0,Deluxe,7481.92,5,Direct Website,Leisure,No,September,Monday,2025-09,False,37409.6,Advance
+HB8944,2026-05-14,54.0,Deluxe,19217.61,3,Travel Agent,Leisure,No,May,Thursday,2026-05,False,57652.83,Medium-Term
+HB8834,2026-09-14,19.0,Standard,4782.18,1,Corporate,Business,No,September,Monday,2026-09,False,4782.18,Short-Term
+HB4897,2026-10-10,48.0,Standard,5535.58,2,OTA,Leisure,No,October,Saturday,2026-10,False,11071.16,Medium-Term
+HB2119,2025-09-24,107.0,Standard,3789.37,6,Direct Website,Business,No,September,Wednesday,2025-09,False,22736.22,Advance
+HB5820,2025-06-22,12.0,Suite,12741.21,1,Corporate,Business,No,June,Sunday,2025-06,False,12741.21,Short-Term
+HB7956,2025-10-07,60.0,Standard,4126.18,1,Travel Agent,Business,No,October,Tuesday,2025-10,False,4126.18,Medium-Term
+HB4817,2026-05-04,91.0,Suite,11457.28,5,OTA,Leisure,Yes,May,Monday,2026-05,True,0.0,Advance
+HB2636,2026-04-14,180.0,Deluxe,8547.83,2,Travel Agent,Business,No,April,Tuesday,2026-04,False,17095.66,Advance
+HB3997,2025-03-07,58.0,Deluxe,8558.07,8,OTA,Leisure,Yes,March,Friday,2025-03,True,0.0,Medium-Term
+HB3293,2026-01-28,38.0,Suite,14224.69,5,OTA,Leisure,No,January,Wednesday,2026-01,False,71123.45,Medium-Term
+HB3159,2025-03-22,109.0,Standard,3800.16,6,Direct Website,Business,No,March,Saturday,2025-03,False,22800.96,Advance
+HB5892,2026-05-28,73.0,Standard,4418.13,2,Travel Agent,Leisure,No,May,Thursday,2026-05,False,8836.26,Medium-Term
+HB5314,2026-01-25,178.0,Suite,14497.26,3,OTA,Leisure,No,January,Sunday,2026-01,False,43491.78,Advance
+HB6912,2025-05-14,45.0,Deluxe,7369.38,4,OTA,Leisure,Yes,May,Wednesday,2025-05,True,0.0,Medium-Term
+HB9065,2025-12-29,96.0,Deluxe,9447.02,5,Travel Agent,Leisure,No,December,Monday,2025-12,False,47235.1,Advance
+HB5772,2026-04-20,69.0,Standard,3902.74,6,OTA,Leisure,No,April,Monday,2026-04,False,23416.44,Medium-Term
+HB2070,2026-10-11,49.0,Standard,5150.39,6,Direct Website,Leisure,No,October,Sunday,2026-10,False,30902.34,Medium-Term
+HB3969,2025-08-30,180.0,Standard,3045.75,1,Travel Agent,Business,No,August,Saturday,2025-08,False,3045.75,Advance
+HB7179,2026-02-01,179.0,Standard,5091.74,4,Travel Agent,Leisure,No,February,Sunday,2026-02,False,20366.96,Advance
+HB2256,2025-12-22,24.0,Deluxe,8425.79,4,Corporate,Business,No,December,Monday,2025-12,False,33703.16,Short-Term
+HB6134,2025-04-25,162.0,Standard,3516.04,3,Direct Website,Business,No,April,Friday,2025-04,False,10548.12,Advance
+HB6686,2025-09-30,46.0,Suite,9407.0,4,Direct Website,Business,No,September,Tuesday,2025-09,False,37628.0,Medium-Term
+HB8432,2026-09-17,24.0,Standard,4228.89,1,Corporate,Business,Yes,September,Thursday,2026-09,True,0.0,Short-Term
+HB7259,2025-06-15,32.0,Deluxe,8403.47,9,OTA,Leisure,No,June,Sunday,2025-06,False,75631.23,Medium-Term
+HB7370,2026-01-11,8.0,Standard,5215.92,1,Corporate,Business,No,January,Sunday,2026-01,False,5215.92,Short-Term
+HB3874,2025-11-09,80.0,Standard,3451.6,1,Corporate,Business,No,November,Sunday,2025-11,False,3451.6,Medium-Term
+HB4096,2026-06-23,42.0,Standard,4891.14,5,Corporate,Business,No,June,Tuesday,2026-06,False,24455.7,Medium-Term
+HB6615,2025-11-22,21.0,Standard,4431.11,7,Direct Website,Leisure,No,November,Saturday,2025-11,False,31017.77,Short-Term
+HB2738,2025-04-28,58.0,Deluxe,9428.78,9,Direct Website,Leisure,No,April,Monday,2025-04,False,84859.02,Medium-Term
+HB9429,2025-10-11,67.0,Deluxe,9097.13,4,Travel Agent,Leisure,No,October,Saturday,2025-10,False,36388.52,Medium-Term
+HB9865,2026-08-01,31.0,Suite,10652.69,1,OTA,Leisure,No,August,Saturday,2026-08,False,10652.69,Medium-Term
+HB3540,2026-07-05,38.0,Standard,4112.48,5,Direct Website,Leisure,No,July,Sunday,2026-07,False,20562.4,Medium-Term
+HB3719,2026-04-13,7.0,Suite,12864.21,1,Direct Website,Leisure,No,April,Monday,2026-04,False,12864.21,Last-Minute
+HB8574,2026-06-08,35.0,Suite,11709.62,2,Direct Website,Leisure,No,June,Monday,2026-06,False,23419.24,Medium-Term
+HB2609,2025-11-22,107.0,Deluxe,5775.77,6,OTA,Leisure,Yes,November,Saturday,2025-11,True,0.0,Advance
+HB3996,2026-09-21,180.0,Suite,12246.93,4,OTA,Business,No,September,Monday,2026-09,False,48987.72,Advance
+HB2542,2026-05-06,34.0,Standard,4902.43,1,OTA,Leisure,No,May,Wednesday,2026-05,False,4902.43,Medium-Term
+HB8069,2026-06-10,139.0,Deluxe,6789.31,7,OTA,Leisure,Yes,June,Wednesday,2026-06,True,0.0,Advance
+HB3359,2026-07-21,25.0,Suite,9920.57,3,Direct Website,Business,No,July,Tuesday,2026-07,False,29761.71,Short-Term
+HB2400,2025-03-10,91.0,Standard,4783.25,1,OTA,Business,No,March,Monday,2025-03,False,4783.25,Advance
+HB3679,2026-07-02,14.0,Deluxe,5943.88,1,Direct Website,Leisure,No,July,Thursday,2026-07,False,5943.88,Short-Term
+HB9483,2025-11-27,50.0,Standard,3614.41,10,Travel Agent,Leisure,No,November,Thursday,2025-11,False,36144.1,Medium-Term
+HB8251,2026-10-25,180.0,Standard,5208.13,5,OTA,Leisure,No,October,Sunday,2026-10,False,26040.65,Advance
+HB6213,2026-10-10,9.0,Standard,4317.3,1,Corporate,Business,No,October,Saturday,2026-10,False,4317.3,Short-Term
+HB6430,2026-09-12,166.0,Deluxe,7048.59,5,OTA,Leisure,No,September,Saturday,2026-09,False,35242.95,Advance
+HB5428,2026-01-01,14.0,Deluxe,6322.49,4,Direct Website,Leisure,No,January,Thursday,2026-01,False,25289.96,Short-Term
+HB8348,2025-12-12,100.0,Standard,7008.03,3,Corporate,Business,No,December,Friday,2025-12,False,21024.09,Advance
+HB5650,2025-12-01,58.0,Standard,5790.04,3,Corporate,Business,No,December,Monday,2025-12,False,17370.12,Medium-Term
+HB6495,2025-12-16,9.0,Standard,4591.5,4,OTA,Leisure,No,December,Tuesday,2025-12,False,18366.0,Short-Term
+HB4344,2025-06-21,96.0,Suite,12035.26,8,OTA,Leisure,No,June,Saturday,2025-06,False,96282.08,Advance
+HB5678,2025-05-04,180.0,Deluxe,10022.79,4,Travel Agent,Leisure,No,May,Sunday,2025-05,False,40091.16,Advance
+HB3595,2025-12-26,64.0,Suite,15711.33,2,Travel Agent,Business,No,December,Friday,2025-12,False,31422.66,Medium-Term
+HB5446,2026-09-08,61.0,Suite,11165.66,1,Corporate,Business,No,September,Tuesday,2026-09,False,11165.66,Medium-Term
+HB8468,2025-12-28,75.0,Deluxe,11154.55,2,OTA,Business,Yes,December,Sunday,2025-12,True,0.0,Medium-Term
+HB9931,2025-04-18,32.0,Deluxe,6247.23,1,Corporate,Business,No,April,Friday,2025-04,False,6247.23,Medium-Term
+HB6576,2026-10-12,20.0,Standard,4551.0,4,Corporate,Business,No,October,Monday,2026-10,False,18204.0,Short-Term
+HB6474,2026-05-28,109.0,Standard,4961.99,1,OTA,Business,No,May,Thursday,2026-05,False,4961.99,Advance
+HB5907,2026-02-06,25.0,Deluxe,6152.43,3,Corporate,Business,No,February,Friday,2026-02,False,18457.29,Short-Term
+HB6293,2025-06-15,180.0,Standard,3892.95,3,Travel Agent,Business,No,June,Sunday,2025-06,False,11678.85,Advance
+HB4657,2025-03-22,39.0,Deluxe,8448.99,2,Corporate,Business,Yes,March,Saturday,2025-03,True,0.0,Medium-Term
+HB6242,2025-05-29,17.0,Standard,4918.47,3,Direct Website,Leisure,No,May,Thursday,2025-05,False,14755.41,Short-Term
+HB5130,2026-05-14,114.0,Standard,4729.64,4,Direct Website,Leisure,No,May,Thursday,2026-05,False,18918.56,Advance
+HB5352,2026-03-07,19.0,Standard,6029.94,7,Direct Website,Leisure,No,March,Saturday,2026-03,False,42209.58,Short-Term
+HB2853,2025-05-28,180.0,Standard,4878.96,2,Direct Website,Leisure,No,May,Wednesday,2025-05,False,9757.92,Advance
+HB8719,2025-12-01,131.0,Suite,15345.73,1,OTA,Business,No,December,Monday,2025-12,False,15345.73,Advance
+HB6477,2025-07-24,35.0,Deluxe,7979.79,2,Corporate,Business,No,July,Thursday,2025-07,False,15959.58,Medium-Term
+HB6993,2025-06-06,125.0,Standard,4803.68,5,Direct Website,Leisure,Yes,June,Friday,2025-06,True,0.0,Advance
+HB4806,2025-10-29,127.0,Standard,5463.56,1,Travel Agent,Business,No,October,Wednesday,2025-10,False,5463.56,Advance
+HB9395,2025-06-03,167.0,Deluxe,8444.35,1,Travel Agent,Leisure,No,June,Tuesday,2025-06,False,8444.35,Advance
+HB3655,2026-09-18,75.0,Deluxe,8561.0,4,OTA,Leisure,No,September,Friday,2026-09,False,34244.0,Medium-Term
+HB2083,2025-10-16,64.0,Standard,4589.93,6,Direct Website,Leisure,No,October,Thursday,2025-10,False,27539.58,Medium-Term
+HB9034,2026-04-19,8.0,Standard,4189.62,3,Corporate,Business,No,April,Sunday,2026-04,False,12568.86,Short-Term
+HB6924,2026-06-26,96.0,Standard,4222.92,8,Travel Agent,Leisure,No,June,Friday,2026-06,False,33783.36,Advance
+HB5528,2025-09-28,90.0,Standard,2796.5,1,Corporate,Business,No,September,Sunday,2025-09,False,2796.5,Medium-Term
+HB8763,2026-01-04,180.0,Suite,13146.25,2,OTA,Business,No,January,Sunday,2026-01,False,26292.5,Advance
+HB6378,2025-10-28,72.0,Standard,3967.7,5,OTA,Leisure,No,October,Tuesday,2025-10,False,19838.5,Medium-Term
+HB6308,2026-05-08,91.0,Deluxe,8499.44,5,OTA,Leisure,Yes,May,Friday,2026-05,True,0.0,Advance
+HB6999,2025-10-18,47.0,Deluxe,6992.34,7,Direct Website,Leisure,No,October,Saturday,2025-10,False,48946.38,Medium-Term
+HB9777,2025-10-09,34.0,Standard,4983.95,3,OTA,Leisure,No,October,Thursday,2025-10,False,14951.85,Medium-Term
+HB4808,2025-09-21,74.0,Deluxe,6526.94,2,OTA,Business,No,September,Sunday,2025-09,False,13053.88,Medium-Term
+HB6436,2025-11-15,46.0,Standard,3974.74,4,Corporate,Business,No,November,Saturday,2025-11,False,15898.96,Medium-Term
+HB3608,2025-03-31,64.0,Deluxe,8648.57,8,OTA,Leisure,No,March,Monday,2025-03,False,69188.56,Medium-Term
+HB8532,2026-01-17,45.0,Standard,4151.53,5,Corporate,Business,No,January,Saturday,2026-01,False,20757.65,Medium-Term
+HB8254,2026-09-29,63.0,Deluxe,9469.55,2,Direct Website,Business,No,September,Tuesday,2026-09,False,18939.1,Medium-Term
+HB2918,2025-05-31,123.0,Deluxe,7690.53,4,OTA,Leisure,No,May,Saturday,2025-05,False,30762.12,Advance
+HB9571,2025-12-25,23.0,Deluxe,9644.46,2,Direct Website,Business,No,December,Thursday,2025-12,False,19288.92,Short-Term
+HB9185,2025-12-20,145.0,Deluxe,8881.4,3,Travel Agent,Leisure,No,December,Saturday,2025-12,False,26644.2,Advance
+HB4809,2026-03-27,22.0,Deluxe,6685.07,1,Direct Website,Leisure,No,March,Friday,2026-03,False,6685.07,Short-Term
+HB2073,2025-11-02,14.0,Standard,5367.4,2,Direct Website,Leisure,No,November,Sunday,2025-11,False,10734.8,Short-Term
+HB7568,2025-09-08,19.0,Standard,3856.39,10,Corporate,Leisure,No,September,Monday,2025-09,False,38563.9,Short-Term
+HB5361,2025-06-23,180.0,Deluxe,7815.48,2,OTA,Business,No,June,Monday,2025-06,False,15630.96,Advance
+HB6631,2026-03-01,53.0,Standard,3879.81,7,Travel Agent,Business,No,March,Sunday,2026-03,False,27158.67,Medium-Term
+HB7450,2025-12-01,64.0,Standard,5606.6,2,OTA,Leisure,Yes,December,Monday,2025-12,True,0.0,Medium-Term
+HB7608,2026-10-21,19.0,Suite,16594.18,2,Corporate,Business,No,October,Wednesday,2026-10,False,33188.36,Short-Term
+HB7128,2026-07-25,145.0,Deluxe,7437.7,5,Travel Agent,Leisure,No,July,Saturday,2026-07,False,37188.5,Advance
+HB5202,2026-01-05,47.0,Standard,4601.09,2,Corporate,Business,No,January,Monday,2026-01,False,9202.18,Medium-Term
+HB3049,2026-05-13,180.0,Standard,4793.04,4,OTA,Business,Yes,May,Wednesday,2026-05,True,0.0,Advance
+HB9104,2025-10-17,65.0,Deluxe,10107.68,3,Direct Website,Business,Yes,October,Friday,2025-10,True,0.0,Medium-Term
+HB3823,2026-01-10,89.0,Deluxe,8209.48,1,OTA,Leisure,No,January,Saturday,2026-01,False,8209.48,Medium-Term
+HB4286,2025-10-03,54.0,Deluxe,8773.3,5,OTA,Leisure,No,October,Friday,2025-10,False,43866.5,Medium-Term
+HB9112,2025-11-25,20.0,Deluxe,8259.01,3,OTA,Leisure,No,November,Tuesday,2025-11,False,24777.03,Short-Term
+HB4087,2025-07-20,65.0,Deluxe,6551.84,5,Travel Agent,Leisure,No,July,Sunday,2025-07,False,32759.2,Medium-Term
+HB4692,2025-07-23,144.0,Suite,12826.5,7,OTA,Leisure,No,July,Wednesday,2025-07,False,89785.5,Advance
+HB8339,2025-06-12,105.0,Deluxe,8259.24,3,Travel Agent,Business,No,June,Thursday,2025-06,False,24777.72,Advance
+HB9500,2026-02-11,124.0,Suite,11782.79,3,OTA,Leisure,No,February,Wednesday,2026-02,False,35348.37,Advance
+HB6546,2026-10-17,84.0,Standard,5540.14,2,Travel Agent,Leisure,No,October,Saturday,2026-10,False,11080.28,Medium-Term
+HB8849,2026-01-18,180.0,Standard,4651.58,1,OTA,Business,Yes,January,Sunday,2026-01,True,0.0,Advance
+HB8681,2025-10-01,150.0,Standard,4661.5,1,Travel Agent,Business,No,October,Wednesday,2025-10,False,4661.5,Advance
+HB6211,2025-10-25,37.0,Standard,5389.04,6,Direct Website,Leisure,No,October,Saturday,2025-10,False,32334.24,Medium-Term
+HB5257,2026-10-10,70.0,Standard,5853.96,1,Corporate,Business,Yes,October,Saturday,2026-10,True,0.0,Medium-Term
+HB7577,2026-02-02,57.0,Suite,13150.37,3,Travel Agent,Business,No,February,Monday,2026-02,False,39451.11,Medium-Term
+HB2819,2025-09-15,104.0,Standard,4800.36,6,Travel Agent,Leisure,Yes,September,Monday,2025-09,True,0.0,Advance
+HB7007,2026-03-06,108.0,Standard,3744.52,4,Direct Website,Leisure,No,March,Friday,2026-03,False,14978.08,Advance
+HB5310,2026-05-16,49.0,Standard,5678.54,5,Direct Website,Leisure,No,May,Saturday,2026-05,False,28392.7,Medium-Term
+HB3042,2025-05-12,113.0,Standard,5162.74,8,OTA,Leisure,No,May,Monday,2025-05,False,41301.92,Advance
+HB6888,2025-06-13,54.0,Suite,17378.63,2,Corporate,Business,No,June,Friday,2025-06,False,34757.26,Medium-Term
+HB9812,2025-04-25,169.0,Standard,5217.14,6,OTA,Leisure,Yes,April,Friday,2025-04,True,0.0,Advance
+HB7201,2026-10-05,117.0,Standard,4088.78,6,OTA,Leisure,Yes,October,Monday,2026-10,True,0.0,Advance
+HB7903,2025-09-11,59.0,Standard,3846.89,1,OTA,Leisure,No,September,Thursday,2025-09,False,3846.89,Medium-Term
+HB8883,2025-12-08,180.0,Standard,5448.57,4,OTA,Leisure,No,December,Monday,2025-12,False,21794.28,Advance
+HB8975,2026-10-17,21.0,Deluxe,8805.69,5,Travel Agent,Leisure,No,October,Saturday,2026-10,False,44028.45,Short-Term
+HB8555,2025-06-22,91.0,Standard,5164.38,3,OTA,Leisure,No,June,Sunday,2025-06,False,15493.14,Advance
+HB8793,2025-09-12,55.0,Deluxe,7267.16,2,OTA,Business,No,September,Friday,2025-09,False,14534.32,Medium-Term
+HB3222,2026-10-13,92.0,Standard,4607.34,2,OTA,Business,No,October,Tuesday,2026-10,False,9214.68,Advance
+HB8610,2026-10-04,180.0,Deluxe,8309.23,4,Travel Agent,Leisure,No,October,Sunday,2026-10,False,33236.92,Advance
+HB3812,2026-05-09,113.0,Suite,10401.47,5,Direct Website,Leisure,No,May,Saturday,2026-05,False,52007.35,Advance
+HB5914,2026-09-23,85.0,Suite,10625.38,9,Direct Website,Leisure,No,September,Wednesday,2026-09,False,95628.42,Medium-Term
+HB7184,2025-04-28,180.0,Deluxe,8731.74,10,OTA,Leisure,Yes,April,Monday,2025-04,True,0.0,Advance
+HB7908,2026-08-01,136.0,Standard,3598.46,2,Travel Agent,Business,No,August,Saturday,2026-08,False,7196.92,Advance
+HB8479,2026-10-05,81.0,Deluxe,8398.3,5,Travel Agent,Leisure,Yes,October,Monday,2026-10,True,0.0,Medium-Term
+HB8914,2025-05-10,23.0,Deluxe,9131.28,7,Corporate,Business,No,May,Saturday,2025-05,False,63918.96,Short-Term
+HB7386,2025-05-07,117.0,Standard,4245.52,3,OTA,Leisure,No,May,Wednesday,2025-05,False,12736.56,Advance
+HB7966,2026-10-08,164.0,Standard,5895.25,1,Travel Agent,Business,No,October,Thursday,2026-10,False,5895.25,Advance
+HB5290,2026-09-08,118.0,Standard,4526.34,3,OTA,Leisure,No,September,Tuesday,2026-09,False,13579.02,Advance
+HB4777,2026-09-12,180.0,Standard,5071.56,5,OTA,Business,No,September,Saturday,2026-09,False,25357.8,Advance
+HB3317,2026-06-22,31.0,Standard,7040.78,4,Direct Website,Business,Yes,June,Monday,2026-06,True,0.0,Medium-Term
+HB9094,2026-08-20,5.0,Standard,4714.26,7,Corporate,Business,No,August,Thursday,2026-08,False,32999.82,Last-Minute
+HB5729,2026-04-18,17.0,Deluxe,8298.91,8,Travel Agent,Leisure,No,April,Saturday,2026-04,False,66391.28,Short-Term
+HB8051,2025-11-19,83.0,Deluxe,6411.59,6,Travel Agent,Leisure,No,November,Wednesday,2025-11,False,38469.54,Medium-Term
+HB9520,2025-04-25,78.0,Deluxe,8111.58,6,Travel Agent,Leisure,No,April,Friday,2025-04,False,48669.48,Medium-Term
+HB5600,2026-05-21,39.0,Deluxe,7508.4,3,Corporate,Business,No,May,Thursday,2026-05,False,22525.2,Medium-Term
+HB7279,2026-02-17,135.0,Standard,4331.01,10,OTA,Leisure,Yes,February,Tuesday,2026-02,True,0.0,Advance
+HB6172,2026-04-20,50.0,Deluxe,8374.38,1,Corporate,Business,No,April,Monday,2026-04,False,8374.38,Medium-Term
+HB8464,2025-03-13,35.0,Standard,3458.46,2,Corporate,Business,No,March,Thursday,2025-03,False,6916.92,Medium-Term
+HB2248,2026-10-18,27.0,Deluxe,7999.22,8,Corporate,Leisure,No,October,Sunday,2026-10,False,63993.76,Short-Term
+HB8086,2026-04-14,14.0,Deluxe,6943.71,2,Corporate,Business,No,April,Tuesday,2026-04,False,13887.42,Short-Term
+HB8007,2025-04-30,180.0,Deluxe,7673.59,4,OTA,Leisure,No,April,Wednesday,2025-04,False,30694.36,Advance
+HB6885,2026-04-09,39.0,Standard,6521.08,6,OTA,Leisure,No,April,Thursday,2026-04,False,39126.48,Medium-Term
+HB4782,2025-03-26,91.0,Suite,10671.87,5,Direct Website,Leisure,No,March,Wednesday,2025-03,False,53359.35,Advance
+HB4039,2026-07-16,92.0,Standard,3452.09,6,Direct Website,Leisure,No,July,Thursday,2026-07,False,20712.54,Advance
+HB5323,2026-02-15,82.0,Suite,9638.11,2,OTA,Leisure,Yes,February,Sunday,2026-02,True,0.0,Medium-Term
+HB6361,2025-05-26,56.0,Standard,3743.93,5,OTA,Leisure,No,May,Monday,2025-05,False,18719.65,Medium-Term
+HB2953,2025-03-16,27.0,Suite,11650.62,8,Direct Website,Leisure,No,March,Sunday,2025-03,False,93204.96,Short-Term
+HB5397,2026-08-02,46.0,Standard,3932.39,4,Direct Website,Business,No,August,Sunday,2026-08,False,15729.56,Medium-Term
+HB3796,2026-08-28,125.0,Deluxe,7548.88,1,OTA,Business,No,August,Friday,2026-08,False,7548.88,Advance
+HB5660,2025-07-17,32.0,Standard,3980.56,3,Direct Website,Leisure,No,July,Thursday,2025-07,False,11941.68,Medium-Term
+HB7209,2026-03-11,17.0,Standard,3486.54,1,Corporate,Business,No,March,Wednesday,2026-03,False,3486.54,Short-Term
+HB9911,2025-09-21,159.0,Standard,3998.43,2,OTA,Business,No,September,Sunday,2025-09,False,7996.86,Advance
+HB3078,2026-09-26,17.0,Standard,4618.58,3,Travel Agent,Leisure,No,September,Saturday,2026-09,False,13855.74,Short-Term
+HB2262,2025-10-06,94.0,Deluxe,9358.35,5,Direct Website,Leisure,No,October,Monday,2025-10,False,46791.75,Advance
+HB8907,2025-11-20,49.0,Suite,14798.4,1,Direct Website,Leisure,No,November,Thursday,2025-11,False,14798.4,Medium-Term
+HB5317,2025-10-30,69.0,Standard,4884.21,2,Travel Agent,Business,No,October,Thursday,2025-10,False,9768.42,Medium-Term
+HB8437,2026-10-01,18.0,Standard,7506.58,7,Direct Website,Leisure,No,October,Thursday,2026-10,False,52546.06,Short-Term
+HB8362,2025-04-27,45.0,Standard,4809.01,3,OTA,Leisure,No,April,Sunday,2025-04,False,14427.03,Medium-Term
+HB8238,2026-08-27,44.0,Suite,9270.74,2,Travel Agent,Leisure,No,August,Thursday,2026-08,False,18541.48,Medium-Term
+HB7649,2026-07-24,17.0,Suite,13820.24,3,OTA,Leisure,Yes,July,Friday,2026-07,True,0.0,Short-Term
+HB2785,2025-12-13,98.0,Deluxe,7937.575000000001,6,Direct Website,Leisure,No,December,Saturday,2025-12,False,47625.45,Advance
+HB6986,2026-05-17,152.0,Standard,4160.7,1,Direct Website,Leisure,No,May,Sunday,2026-05,False,4160.7,Advance
+HB7171,2026-05-06,21.0,Deluxe,7563.57,5,Travel Agent,Leisure,No,May,Wednesday,2026-05,False,37817.85,Short-Term
+HB3354,2025-11-14,95.0,Deluxe,6876.59,2,Direct Website,Leisure,No,November,Friday,2025-11,False,13753.18,Advance
+HB3326,2026-02-24,47.0,Deluxe,7503.36,5,Direct Website,Leisure,No,February,Tuesday,2026-02,False,37516.8,Medium-Term
+HB9892,2026-03-18,16.0,Suite,13784.63,5,Direct Website,Leisure,No,March,Wednesday,2026-03,False,68923.15,Short-Term
+HB6100,2026-07-22,20.0,Standard,3747.13,5,Travel Agent,Leisure,No,July,Wednesday,2026-07,False,18735.65,Short-Term
+HB5115,2025-12-10,178.0,Standard,5221.35,4,OTA,Leisure,Yes,December,Wednesday,2025-12,True,0.0,Advance
+HB2085,2025-06-28,34.0,Deluxe,7547.02,4,Corporate,Business,No,June,Saturday,2025-06,False,30188.08,Medium-Term
+HB8078,2026-07-14,140.0,Deluxe,7330.89,1,Travel Agent,Business,No,July,Tuesday,2026-07,False,7330.89,Advance
+HB3806,2026-02-02,33.0,Standard,3920.93,1,Corporate,Business,No,February,Monday,2026-02,False,3920.93,Medium-Term
+HB5244,2025-07-01,105.0,Deluxe,8175.99,2,OTA,Leisure,No,July,Tuesday,2025-07,False,16351.98,Advance
+HB7322,2026-03-21,15.0,Deluxe,7509.43,9,Direct Website,Leisure,No,March,Saturday,2026-03,False,67584.87,Short-Term
+HB3714,2026-03-05,16.0,Standard,4031.73,5,Corporate,Leisure,Yes,March,Thursday,2026-03,True,0.0,Short-Term
+HB9583,2026-03-24,56.0,Standard,5240.43,8,Travel Agent,Leisure,No,March,Tuesday,2026-03,False,41923.44,Medium-Term
+HB2606,2025-09-01,156.0,Suite,12140.9,3,OTA,Leisure,No,September,Monday,2025-09,False,36422.7,Advance
+HB8732,2025-10-21,180.0,Standard,5715.27,5,Direct Website,Leisure,No,October,Tuesday,2025-10,False,28576.35,Advance
+HB5345,2026-09-13,172.0,Standard,4097.5,3,OTA,Leisure,No,September,Sunday,2026-09,False,12292.5,Advance
+HB9192,2025-09-01,179.0,Suite,13124.55,4,Direct Website,Business,No,September,Monday,2025-09,False,52498.2,Advance
+HB8274,2025-10-15,145.0,Deluxe,8997.76,3,Travel Agent,Leisure,Yes,October,Wednesday,2025-10,True,0.0,Advance
+HB9062,2026-02-01,32.0,Suite,14203.33,3,Corporate,Business,No,February,Sunday,2026-02,False,42609.99,Medium-Term
+HB2409,2025-11-09,180.0,Suite,11821.49,1,Travel Agent,Leisure,No,November,Sunday,2025-11,False,11821.49,Advance
+HB8247,2025-09-30,133.0,Standard,2858.49,5,OTA,Leisure,No,September,Tuesday,2025-09,False,14292.45,Advance
+HB8403,2026-03-28,46.0,Standard,4371.06,2,Travel Agent,Business,No,March,Saturday,2026-03,False,8742.12,Medium-Term
+HB2380,2025-08-18,111.0,Standard,3268.82,4,Direct Website,Leisure,No,August,Monday,2025-08,False,13075.28,Advance
+HB3778,2025-04-06,28.0,Standard,5254.5,3,Travel Agent,Business,No,April,Sunday,2025-04,False,15763.5,Short-Term
+HB6962,2026-03-28,10.0,Standard,4825.0,4,Corporate,Leisure,No,March,Saturday,2026-03,False,19300.0,Short-Term
+HB3548,2026-04-13,41.0,Standard,5513.74,2,Corporate,Business,No,April,Monday,2026-04,False,11027.48,Medium-Term
+HB4123,2026-10-10,52.0,Standard,5911.59,2,Corporate,Business,No,October,Saturday,2026-10,False,11823.18,Medium-Term
+HB7323,2026-03-23,60.0,Standard,4869.91,5,OTA,Leisure,No,March,Monday,2026-03,False,24349.55,Medium-Term
+HB2906,2026-03-06,34.0,Deluxe,6838.62,2,OTA,Business,No,March,Friday,2026-03,False,13677.24,Medium-Term
+HB9331,2025-05-27,22.0,Suite,13107.27,4,Travel Agent,Leisure,Yes,May,Tuesday,2025-05,True,0.0,Short-Term
+HB4312,2025-12-22,180.0,Suite,14730.56,2,Travel Agent,Leisure,Yes,December,Monday,2025-12,True,0.0,Advance
+HB2497,2025-07-17,98.0,Standard,4779.2,10,Travel Agent,Leisure,No,July,Thursday,2025-07,False,47792.0,Advance
+HB2444,2026-01-29,49.0,Deluxe,6144.58,7,Travel Agent,Leisure,No,January,Thursday,2026-01,False,43012.06,Medium-Term
+HB4321,2025-11-09,66.0,Standard,4492.49,3,Travel Agent,Leisure,No,November,Sunday,2025-11,False,13477.47,Medium-Term
+HB4538,2025-07-29,56.0,Standard,4129.05,2,Corporate,Business,No,July,Tuesday,2025-07,False,8258.1,Medium-Term
+HB3175,2026-04-05,111.0,Deluxe,9149.04,5,OTA,Leisure,Yes,April,Sunday,2026-04,True,0.0,Advance
+HB5994,2026-04-08,61.0,Standard,4862.08,1,Corporate,Business,No,April,Wednesday,2026-04,False,4862.08,Medium-Term
+HB4078,2025-12-03,60.0,Standard,3693.7,2,OTA,Leisure,No,December,Wednesday,2025-12,False,7387.4,Medium-Term
+HB4879,2025-12-28,65.0,Standard,5776.2,1,OTA,Leisure,No,December,Sunday,2025-12,False,5776.2,Medium-Term
+HB5934,2026-10-22,30.0,Suite,14432.13,1,Direct Website,Business,No,October,Thursday,2026-10,False,14432.13,Short-Term
+HB5998,2025-09-14,72.0,Standard,4796.39,7,Direct Website,Leisure,No,September,Sunday,2025-09,False,33574.73,Medium-Term
+HB7343,2025-09-14,38.0,Standard,3890.66,1,OTA,Leisure,No,September,Sunday,2025-09,False,3890.66,Medium-Term
+HB4213,2026-04-09,36.0,Standard,4904.78,2,Corporate,Business,No,April,Thursday,2026-04,False,9809.56,Medium-Term
+HB4902,2025-10-05,180.0,Standard,5508.06,4,Direct Website,Leisure,No,October,Sunday,2025-10,False,22032.24,Advance
+HB9139,2026-05-15,10.0,Deluxe,8810.22,3,Travel Agent,Leisure,No,May,Friday,2026-05,False,26430.66,Short-Term
+HB8351,2025-08-05,21.0,Deluxe,6184.63,3,Direct Website,Leisure,No,August,Tuesday,2025-08,False,18553.89,Short-Term
+HB2755,2025-04-03,25.0,Standard,4296.12,2,Direct Website,Leisure,No,April,Thursday,2025-04,False,8592.24,Short-Term
+HB8270,2026-09-22,137.0,Standard,3685.09,2,OTA,Leisure,No,September,Tuesday,2026-09,False,7370.18,Advance
+HB9238,2026-02-21,83.0,Standard,4181.01,4,Travel Agent,Business,No,February,Saturday,2026-02,False,16724.04,Medium-Term
+HB2940,2026-06-09,91.0,Suite,13937.34,4,Direct Website,Leisure,No,June,Tuesday,2026-06,False,55749.36,Advance
+HB7743,2025-11-13,85.0,Deluxe,7211.64,3,Direct Website,Business,No,November,Thursday,2025-11,False,21634.92,Medium-Term
+HB7800,2026-02-25,84.0,Deluxe,7176.7,4,Travel Agent,Leisure,No,February,Wednesday,2026-02,False,28706.8,Medium-Term
+HB8291,2025-10-21,13.0,Deluxe,8161.58,1,Corporate,Business,No,October,Tuesday,2025-10,False,8161.58,Short-Term
+HB2590,2025-04-07,93.0,Standard,5311.12,7,Travel Agent,Leisure,No,April,Monday,2025-04,False,37177.84,Advance
+HB9838,2025-12-31,117.0,Suite,16527.61,1,OTA,Leisure,Yes,December,Wednesday,2025-12,True,0.0,Advance
+HB2589,2026-09-10,66.0,Standard,4187.55,5,Travel Agent,Leisure,Yes,September,Thursday,2026-09,True,0.0,Medium-Term
+HB6126,2025-06-16,33.0,Standard,4200.42,2,Corporate,Business,No,June,Monday,2025-06,False,8400.84,Medium-Term
+HB4721,2025-05-31,48.0,Deluxe,8109.94,2,OTA,Business,No,May,Saturday,2025-05,False,16219.88,Medium-Term
+HB6943,2025-10-27,55.0,Standard,4599.44,6,OTA,Business,Yes,October,Monday,2025-10,True,0.0,Medium-Term
+HB6448,2025-08-20,84.0,Standard,4014.98,5,Travel Agent,Business,No,August,Wednesday,2025-08,False,20074.9,Medium-Term
+HB3971,2025-05-23,49.0,Deluxe,8571.43,1,Corporate,Business,No,May,Friday,2025-05,False,8571.43,Medium-Term
+HB5815,2025-07-20,106.0,Suite,14977.88,3,Travel Agent,Business,Yes,July,Sunday,2025-07,True,0.0,Advance
+HB3675,2025-11-01,173.0,Deluxe,6184.53,6,OTA,Leisure,No,November,Saturday,2025-11,False,37107.18,Advance
+HB2903,2026-08-21,120.0,Deluxe,7086.09,9,Direct Website,Leisure,No,August,Friday,2026-08,False,63774.81,Advance
+HB9775,2026-06-11,30.0,Deluxe,7589.81,1,Corporate,Business,No,June,Thursday,2026-06,False,7589.81,Short-Term
+HB5266,2025-04-02,104.0,Deluxe,6282.4,3,Travel Agent,Leisure,No,April,Wednesday,2025-04,False,18847.2,Advance
+HB5896,2026-01-12,14.0,Deluxe,6686.83,3,Travel Agent,Business,No,January,Monday,2026-01,False,20060.49,Short-Term
+HB7916,2026-05-07,39.0,Deluxe,9533.2,3,Direct Website,Leisure,No,May,Thursday,2026-05,False,28599.6,Medium-Term
+HB3201,2025-05-05,52.0,Standard,3435.87,8,Direct Website,Leisure,No,May,Monday,2025-05,False,27486.96,Medium-Term
+HB8698,2025-09-11,77.0,Suite,13468.13,7,Corporate,Leisure,No,September,Thursday,2025-09,False,94276.91,Medium-Term
+HB2529,2025-08-03,36.0,Suite,10107.51,3,OTA,Business,No,August,Sunday,2025-08,False,30322.53,Medium-Term
+HB3677,2025-09-25,91.0,Deluxe,8389.07,4,OTA,Leisure,No,September,Thursday,2025-09,False,33556.28,Advance
+HB3737,2025-10-25,57.0,Standard,5255.14,1,Corporate,Business,No,October,Saturday,2025-10,False,5255.14,Medium-Term
+HB8703,2025-06-25,52.0,Suite,12815.68,2,Direct Website,Leisure,No,June,Wednesday,2025-06,False,25631.36,Medium-Term
+HB9850,2025-12-21,121.0,Standard,5023.01,4,Direct Website,Leisure,Yes,December,Sunday,2025-12,True,0.0,Advance
+HB7163,2026-10-28,124.0,Suite,11834.6,1,OTA,Business,Yes,October,Wednesday,2026-10,True,0.0,Advance
+HB2740,2025-07-26,56.0,Suite,13167.71,3,Travel Agent,Leisure,No,July,Saturday,2025-07,False,39503.13,Medium-Term
+HB6411,2026-09-16,166.0,Deluxe,5831.29,5,OTA,Leisure,No,September,Wednesday,2026-09,False,29156.45,Advance
+HB5527,2026-01-24,43.0,Deluxe,8059.18,6,Direct Website,Leisure,No,January,Saturday,2026-01,False,48355.08,Medium-Term
+HB5823,2026-02-20,96.0,Standard,4320.7,5,Direct Website,Leisure,No,February,Friday,2026-02,False,21603.5,Advance
+HB2561,2026-02-09,32.0,Deluxe,7253.42,1,Corporate,Business,No,February,Monday,2026-02,False,7253.42,Medium-Term
+HB5584,2026-03-16,20.0,Standard,5553.82,6,Direct Website,Business,No,March,Monday,2026-03,False,33322.92,Short-Term
+HB2267,2026-10-27,101.0,Deluxe,8917.23,2,OTA,Leisure,No,October,Tuesday,2026-10,False,17834.46,Advance
+HB6467,2025-07-10,49.0,Deluxe,7136.56,2,Corporate,Business,No,July,Thursday,2025-07,False,14273.12,Medium-Term
+HB8521,2026-01-28,124.0,Standard,4026.2,1,OTA,Leisure,Yes,January,Wednesday,2026-01,True,0.0,Advance
+HB4440,2026-05-17,180.0,Suite,13363.53,3,OTA,Leisure,No,May,Sunday,2026-05,False,40090.59,Advance
+HB2518,2025-12-03,17.0,Suite,13572.1,4,Direct Website,Leisure,No,December,Wednesday,2025-12,False,54288.4,Short-Term
+HB2445,2025-12-09,177.0,Suite,17882.37,1,Direct Website,Business,No,December,Tuesday,2025-12,False,17882.37,Advance
+HB6223,2025-07-06,86.0,Deluxe,6240.62,5,Direct Website,Leisure,No,July,Sunday,2025-07,False,31203.1,Medium-Term
+HB5573,2026-10-02,72.0,Deluxe,21709.24,5,Direct Website,Business,No,October,Friday,2026-10,False,108546.2,Medium-Term
+HB7724,2025-04-08,102.0,Standard,4837.61,3,Direct Website,Business,No,April,Tuesday,2025-04,False,14512.83,Advance
+HB3507,2026-04-23,21.0,Standard,4518.6,2,Corporate,Business,No,April,Thursday,2026-04,False,9037.2,Short-Term
+HB3120,2025-03-20,29.0,Standard,3133.21,1,Corporate,Business,No,March,Thursday,2025-03,False,3133.21,Short-Term
+HB4867,2026-05-27,19.0,Standard,4748.72,9,OTA,Leisure,Yes,May,Wednesday,2026-05,True,0.0,Short-Term
+HB4524,2025-03-10,65.0,Standard,4630.7,5,OTA,Business,Yes,March,Monday,2025-03,True,0.0,Medium-Term
+HB9930,2026-05-22,68.0,Suite,12455.53,7,OTA,Leisure,Yes,May,Friday,2026-05,True,0.0,Medium-Term
+HB4600,2025-03-23,37.0,Deluxe,7900.06,6,Direct Website,Leisure,No,March,Sunday,2025-03,False,47400.36,Medium-Term
+HB3349,2025-08-19,45.0,Deluxe,5816.74,3,Direct Website,Leisure,No,August,Tuesday,2025-08,False,17450.22,Medium-Term
+HB3706,2025-03-09,18.0,Standard,4727.05,1,Corporate,Business,No,March,Sunday,2025-03,False,4727.05,Short-Term
+HB4834,2026-03-09,122.0,Deluxe,6211.04,8,OTA,Leisure,Yes,March,Monday,2026-03,True,0.0,Advance
+HB8597,2026-04-02,180.0,Deluxe,7970.15,4,OTA,Leisure,No,April,Thursday,2026-04,False,31880.6,Advance
+HB8426,2026-03-15,36.0,Standard,2742.54,2,Direct Website,Business,No,March,Sunday,2026-03,False,5485.08,Medium-Term
+HB3320,2026-01-04,168.0,Deluxe,7827.0,3,Travel Agent,Leisure,No,January,Sunday,2026-01,False,23481.0,Advance
+HB2586,2025-06-12,90.0,Standard,5987.67,3,Travel Agent,Leisure,No,June,Thursday,2025-06,False,17963.01,Medium-Term
+HB8928,2026-02-27,92.0,Standard,4747.3150000000005,6,Corporate,Leisure,No,February,Friday,2026-02,False,28483.89,Advance
+HB8324,2025-04-02,48.0,Standard,3351.5,6,Direct Website,Leisure,No,April,Wednesday,2025-04,False,20109.0,Medium-Term
+HB7607,2026-09-13,91.0,Standard,4336.72,4,OTA,Leisure,No,September,Sunday,2026-09,False,17346.88,Advance
+HB3523,2025-06-27,144.0,Standard,5803.73,7,Direct Website,Leisure,No,June,Friday,2025-06,False,40626.11,Advance
+HB6276,2026-01-22,53.0,Standard,4956.48,1,Corporate,Business,No,January,Thursday,2026-01,False,4956.48,Medium-Term
+HB2489,2025-06-17,35.0,Standard,4752.7,1,Corporate,Business,No,June,Tuesday,2025-06,False,4752.7,Medium-Term
+HB2377,2025-03-23,40.0,Suite,10753.92,1,Corporate,Business,No,March,Sunday,2025-03,False,10753.92,Medium-Term
+HB8087,2026-06-06,80.0,Suite,14062.5,8,OTA,Leisure,No,June,Saturday,2026-06,False,112500.0,Medium-Term
+HB4036,2025-11-12,133.0,Suite,12954.53,3,Travel Agent,Leisure,No,November,Wednesday,2025-11,False,38863.59,Advance
+HB9897,2025-03-26,56.0,Deluxe,6239.05,2,Corporate,Business,No,March,Wednesday,2025-03,False,12478.1,Medium-Term
+HB5063,2025-06-28,95.0,Deluxe,8850.36,3,Direct Website,Leisure,No,June,Saturday,2025-06,False,26551.08,Advance
+HB9970,2026-04-26,58.0,Standard,5324.47,1,OTA,Business,No,April,Sunday,2026-04,False,5324.47,Medium-Term
+HB4674,2026-10-27,54.0,Deluxe,7461.09,4,Direct Website,Leisure,No,October,Tuesday,2026-10,False,29844.36,Medium-Term
+HB9218,2026-05-03,17.0,Standard,5405.02,1,Corporate,Business,No,May,Sunday,2026-05,False,5405.02,Short-Term
+HB7738,2025-03-13,27.0,Standard,5171.53,5,Corporate,Leisure,No,March,Thursday,2025-03,False,25857.65,Short-Term
+HB7990,2025-10-17,44.0,Suite,13890.24,6,Corporate,Leisure,No,October,Friday,2025-10,False,83341.44,Medium-Term
+HB9531,2025-12-24,132.0,Standard,7296.48,2,OTA,Leisure,No,December,Wednesday,2025-12,False,14592.96,Advance
+HB4363,2026-04-12,28.0,Deluxe,8065.94,6,Direct Website,Business,No,April,Sunday,2026-04,False,48395.64,Short-Term
+HB8830,2025-11-19,65.0,Suite,15302.86,1,Corporate,Business,No,November,Wednesday,2025-11,False,15302.86,Medium-Term
+HB5997,2026-10-20,158.0,Deluxe,7667.16,3,OTA,Business,No,October,Tuesday,2026-10,False,23001.48,Advance
+HB9187,2026-05-17,37.0,Standard,5743.79,4,Corporate,Business,No,May,Sunday,2026-05,False,22975.16,Medium-Term
+HB9857,2025-11-02,53.0,Standard,4733.02,5,OTA,Leisure,No,November,Sunday,2025-11,False,23665.1,Medium-Term
+HB8330,2025-03-12,110.0,Standard,4424.99,4,OTA,Leisure,Yes,March,Wednesday,2025-03,True,0.0,Advance
+HB3126,2025-06-28,41.0,Deluxe,7697.98,6,OTA,Leisure,No,June,Saturday,2025-06,False,46187.88,Medium-Term
+HB4349,2025-09-01,37.0,Standard,4389.83,4,OTA,Leisure,No,September,Monday,2025-09,False,17559.32,Medium-Term
+HB3276,2025-10-04,99.0,Standard,4747.3150000000005,2,Direct Website,Leisure,No,October,Saturday,2025-10,False,9494.63,Advance
+HB7685,2025-06-23,15.0,Standard,4879.77,2,Corporate,Business,No,June,Monday,2025-06,False,9759.54,Short-Term
+HB7210,2025-04-13,69.0,Standard,5775.73,1,OTA,Business,Yes,April,Sunday,2025-04,True,0.0,Medium-Term
+HB2113,2025-05-05,93.0,Standard,4772.51,2,Direct Website,Leisure,No,May,Monday,2025-05,False,9545.02,Advance
+HB3506,2025-06-21,16.0,Deluxe,6884.64,2,Corporate,Business,No,June,Saturday,2025-06,False,13769.28,Short-Term
+HB4063,2025-06-06,32.0,Standard,4982.49,2,OTA,Leisure,Yes,June,Friday,2025-06,True,0.0,Medium-Term
+HB3818,2025-09-10,39.0,Standard,4041.68,1,Direct Website,Business,No,September,Wednesday,2025-09,False,4041.68,Medium-Term
+HB6598,2025-04-28,115.0,Deluxe,8347.15,1,Direct Website,Business,No,April,Monday,2025-04,False,8347.15,Advance
+HB5017,2025-05-01,56.0,Suite,15323.0,3,OTA,Business,No,May,Thursday,2025-05,False,45969.0,Medium-Term
+HB3462,2025-04-17,81.0,Standard,5280.28,1,Travel Agent,Business,No,April,Thursday,2025-04,False,5280.28,Medium-Term
+HB5292,2025-06-07,74.0,Standard,5519.02,7,Travel Agent,Leisure,No,June,Saturday,2025-06,False,38633.14,Medium-Term
+HB2235,2026-06-07,180.0,Deluxe,9310.97,6,Travel Agent,Leisure,No,June,Sunday,2026-06,False,55865.82,Advance
+HB9726,2025-03-09,92.0,Suite,11180.48,5,OTA,Leisure,No,March,Sunday,2025-03,False,55902.4,Advance
+HB2835,2026-10-02,21.0,Standard,6023.15,1,OTA,Business,No,October,Friday,2026-10,False,6023.15,Short-Term
+HB5975,2026-09-10,3.0,Suite,13312.2,2,Corporate,Business,No,September,Thursday,2026-09,False,26624.4,Last-Minute
+HB6299,2026-03-27,36.0,Standard,4267.13,4,Direct Website,Leisure,No,March,Friday,2026-03,False,17068.52,Medium-Term
+HB9720,2025-10-10,59.0,Deluxe,7826.02,4,Corporate,Business,No,October,Friday,2025-10,False,31304.08,Medium-Term
+HB7881,2025-03-30,171.0,Standard,4057.92,3,OTA,Leisure,No,March,Sunday,2025-03,False,12173.76,Advance
+HB3761,2026-10-19,161.0,Suite,10239.4,3,Travel Agent,Leisure,No,October,Monday,2026-10,False,30718.2,Advance
+HB4367,2025-12-08,12.0,Standard,5593.59,6,Direct Website,Leisure,No,December,Monday,2025-12,False,33561.54,Short-Term
+HB3272,2026-10-17,46.0,Suite,14477.15,2,Direct Website,Business,No,October,Saturday,2026-10,False,28954.3,Medium-Term
+HB2665,2026-06-06,108.0,Deluxe,9224.16,4,Travel Agent,Leisure,No,June,Saturday,2026-06,False,36896.64,Advance
+HB3331,2025-10-13,15.0,Standard,4423.48,3,Direct Website,Leisure,No,October,Monday,2025-10,False,13270.44,Short-Term
+HB8998,2025-07-09,45.0,Standard,3294.85,3,Corporate,Business,No,July,Wednesday,2025-07,False,9884.55,Medium-Term
+HB9582,2025-03-22,118.0,Deluxe,8260.87,3,OTA,Business,No,March,Saturday,2025-03,False,24782.61,Advance
+HB4562,2026-07-02,75.0,Deluxe,8624.67,1,OTA,Business,No,July,Thursday,2026-07,False,8624.67,Medium-Term
+HB6551,2025-10-15,131.0,Standard,5049.09,3,Direct Website,Leisure,No,October,Wednesday,2025-10,False,15147.27,Advance
+HB9569,2025-12-25,180.0,Deluxe,10434.3,6,OTA,Leisure,No,December,Thursday,2025-12,False,62605.8,Advance
+HB3988,2025-03-04,4.0,Deluxe,7330.98,2,Corporate,Business,No,March,Tuesday,2025-03,False,14661.96,Last-Minute
+HB4865,2025-12-18,142.0,Suite,14917.13,5,Travel Agent,Leisure,Yes,December,Thursday,2025-12,True,0.0,Advance
+HB8634,2025-03-19,58.0,Deluxe,7096.56,1,Travel Agent,Leisure,Yes,March,Wednesday,2025-03,True,0.0,Medium-Term
+HB7865,2025-06-01,58.0,Deluxe,6505.69,3,Corporate,Business,No,June,Sunday,2025-06,False,19517.07,Medium-Term
+HB2611,2026-03-08,75.0,Suite,11623.58,3,Travel Agent,Leisure,No,March,Sunday,2026-03,False,34870.74,Medium-Term
+HB3741,2026-02-15,45.0,Standard,4855.88,7,OTA,Leisure,No,February,Sunday,2026-02,False,33991.16,Medium-Term
+HB9837,2026-04-28,15.0,Standard,5242.88,5,Corporate,Leisure,No,April,Tuesday,2026-04,False,26214.4,Short-Term
+HB3877,2025-12-21,120.0,Deluxe,8891.91,4,Travel Agent,Leisure,No,December,Sunday,2025-12,False,35567.64,Advance
+HB4457,2026-02-04,56.0,Standard,3249.21,2,Corporate,Business,No,February,Wednesday,2026-02,False,6498.42,Medium-Term
+HB4485,2025-08-12,46.0,Deluxe,7937.575000000001,7,Corporate,Leisure,No,August,Tuesday,2025-08,False,55563.03,Medium-Term
+HB2975,2026-10-04,54.0,Deluxe,7845.12,1,OTA,Leisure,No,October,Sunday,2026-10,False,7845.12,Medium-Term
+HB5593,2026-06-20,83.0,Standard,5536.83,3,OTA,Leisure,No,June,Saturday,2026-06,False,16610.49,Medium-Term
+HB8004,2025-11-28,10.0,Standard,4605.22,2,Corporate,Business,No,November,Friday,2025-11,False,9210.44,Short-Term
+HB3601,2025-12-09,59.0,Standard,5227.81,6,Corporate,Business,No,December,Tuesday,2025-12,False,31366.86,Medium-Term
+HB6216,2026-04-02,65.0,Standard,4865.33,6,Travel Agent,Leisure,No,April,Thursday,2026-04,False,29191.98,Medium-Term
+HB5028,2025-08-21,84.0,Standard,4504.93,4,Direct Website,Business,No,August,Thursday,2025-08,False,18019.72,Medium-Term
+HB5858,2026-01-10,17.0,Deluxe,7309.34,1,OTA,Leisure,No,January,Saturday,2026-01,False,7309.34,Short-Term
+HB8993,2026-07-17,50.0,Standard,4402.02,7,Travel Agent,Leisure,No,July,Friday,2026-07,False,30814.14,Medium-Term
+HB6656,2025-06-21,15.0,Standard,4429.89,9,Direct Website,Leisure,No,June,Saturday,2025-06,False,39869.01,Short-Term
+HB6460,2025-05-29,54.0,Deluxe,6507.59,1,Corporate,Business,No,May,Thursday,2025-05,False,6507.59,Medium-Term
+HB7842,2026-08-13,140.0,Suite,12789.09,3,Travel Agent,Leisure,Yes,August,Thursday,2026-08,True,0.0,Advance
+HB5841,2026-09-13,6.0,Suite,13482.27,10,OTA,Leisure,No,September,Sunday,2026-09,False,134822.7,Last-Minute
+HB7137,2026-09-01,20.0,Deluxe,6797.71,2,OTA,Business,No,September,Tuesday,2026-09,False,13595.42,Short-Term
+HB4447,2025-10-06,73.0,Standard,5152.23,6,Direct Website,Leisure,No,October,Monday,2025-10,False,30913.38,Medium-Term
+HB5256,2026-10-28,45.0,Standard,5034.77,3,Corporate,Business,No,October,Wednesday,2026-10,False,15104.31,Medium-Term
+HB4177,2025-04-04,84.0,Standard,4885.24,6,Travel Agent,Leisure,Yes,April,Friday,2025-04,True,0.0,Medium-Term
+HB2150,2025-12-16,65.0,Standard,7177.96,2,OTA,Business,No,December,Tuesday,2025-12,False,14355.92,Medium-Term
+HB3340,2026-05-11,7.0,Standard,4798.9,1,Corporate,Business,No,May,Monday,2026-05,False,4798.9,Last-Minute
+HB4984,2026-04-03,39.0,Standard,3427.48,2,Corporate,Business,No,April,Friday,2026-04,False,6854.96,Medium-Term
+HB4573,2026-01-12,53.0,Deluxe,7998.74,6,Direct Website,Leisure,No,January,Monday,2026-01,False,47992.44,Medium-Term
+HB4253,2025-04-28,50.0,Suite,12481.8,2,OTA,Leisure,No,April,Monday,2025-04,False,24963.6,Medium-Term
+HB6966,2026-10-12,74.0,Deluxe,7964.04,2,OTA,Leisure,No,October,Monday,2026-10,False,15928.08,Medium-Term
+HB9688,2026-09-08,19.0,Deluxe,6315.6,4,Corporate,Leisure,No,September,Tuesday,2026-09,False,25262.4,Short-Term
+HB8802,2025-12-07,77.0,Deluxe,10031.09,8,Travel Agent,Leisure,Yes,December,Sunday,2025-12,True,0.0,Medium-Term
+HB3872,2025-05-10,52.0,Standard,5974.95,5,OTA,Leisure,Yes,May,Saturday,2025-05,True,0.0,Medium-Term
+HB7904,2025-04-14,84.0,Standard,4424.51,7,Direct Website,Leisure,No,April,Monday,2025-04,False,30971.57,Medium-Term
+HB2547,2025-06-11,17.0,Suite,9055.6,1,Corporate,Business,No,June,Wednesday,2025-06,False,9055.6,Short-Term
+HB6025,2025-08-20,62.0,Standard,4930.82,6,OTA,Leisure,No,August,Wednesday,2025-08,False,29584.92,Medium-Term
+HB7818,2025-04-10,120.0,Standard,3837.98,2,Travel Agent,Leisure,Yes,April,Thursday,2025-04,True,0.0,Advance
+HB7250,2026-06-04,50.0,Standard,4390.24,1,Direct Website,Leisure,No,June,Thursday,2026-06,False,4390.24,Medium-Term
+HB7779,2025-12-01,130.0,Standard,5394.25,6,Direct Website,Leisure,No,December,Monday,2025-12,False,32365.5,Advance
+HB9986,2025-03-04,158.0,Standard,4910.88,2,OTA,Leisure,No,March,Tuesday,2025-03,False,9821.76,Advance
+HB8380,2025-12-09,16.0,Deluxe,9216.95,1,Travel Agent,Business,No,December,Tuesday,2025-12,False,9216.95,Short-Term
+HB5587,2025-06-06,10.0,Standard,5873.13,1,Direct Website,Business,No,June,Friday,2025-06,False,5873.13,Short-Term
+HB4237,2025-05-21,84.0,Standard,5876.68,4,Travel Agent,Leisure,No,May,Wednesday,2025-05,False,23506.72,Medium-Term
+HB4281,2025-04-29,109.0,Standard,4900.33,3,Travel Agent,Leisure,No,April,Tuesday,2025-04,False,14700.99,Advance
+HB5694,2025-12-09,61.0,Standard,4767.26,2,Corporate,Business,No,December,Tuesday,2025-12,False,9534.52,Medium-Term
+HB5701,2025-10-22,12.0,Suite,15663.83,1,Corporate,Business,No,October,Wednesday,2025-10,False,15663.83,Short-Term
+HB3264,2025-06-17,40.0,Deluxe,8092.31,4,Direct Website,Leisure,No,June,Tuesday,2025-06,False,32369.24,Medium-Term
+HB9384,2025-07-24,59.0,Standard,4148.07,9,OTA,Leisure,Yes,July,Thursday,2025-07,True,0.0,Medium-Term
+HB8226,2026-06-07,36.0,Deluxe,7937.575000000001,2,Direct Website,Business,No,June,Sunday,2026-06,False,15875.15,Medium-Term
